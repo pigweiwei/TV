@@ -37,38 +37,38 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 <!-- 看看新闻https://live.kankanews.com/huikan/ -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="卫视",东方卫视
 https://aliyun-stream.kksmg.com/live/dfws.m3u8?auth_key=1650971694-66745611-0-3dfccde1b374439f54faab23feb0e23b&se=kankan&ct=7&_mode=1&_cp=1&_fk=0807A1528A9B08D10E0A123A0546D1BF898C809A8E818B07DA6534FAB8718CDA&ts=1650964491&rand=4f9b20a209cea6ca543235b3fb865729
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",东方卫视-新闻综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",东方卫视-新闻综合
 https://aliyun-stream.kksmg.com/live/xwzh.m3u8?auth_key=1650971410-30718129-0-85c3ac774e8341408d7c141b60b9eb8b&se=kankan&ct=7&_mode=1&_cp=1&_fk=0BFCC38ECFD2FD8BEC5C0255A6BEFF2794F66B57AE6586A82903D76C4A80F7C8&ts=1650964207&rand=bbeb520b4fc865d2208519d7bcfbaabe
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",东方卫视-外语频道
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",东方卫视-外语频道
 https://hw-stream.kksmg.com/live/wypdc4eb57c5.m3u8?auth_key=1650971801-62204918-0-a09e8a3cb5bbea2bd4e58a29c78acf56&se=kankan&ct=2&_mode=1&_cp=1&_fk=81E20BB3F88B823F939C63E7AAF6B5ED2B468ABBEAE7DB6C7627385BBE4A1CD1&ts=1650964598&rand=c5d56aa4915f5ce4faf4be88f1c9b307
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",东方卫视-都市频道
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",东方卫视-都市频道
 https://hw-stream.kksmg.com/live/ylpd7bf15f94.m3u8?auth_key=1650971983-99386087-0-96c98967dc6f65f81d0cbb87c97478cd&se=kankan&ct=2&_mode=1&_cp=1&_fk=49372680C145BE4B3E8AF391781DA3BFBE57D4F817643786FB331F0DCCC051AD&ts=1650964780&rand=1d6b3e17f6d37c296b4fba915ba099c4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",东方卫视-第一财经
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",东方卫视-第一财经
 https://hw-stream.kksmg.com/live/dycj93ba5ac7.m3u8?auth_key=1650972050-66295740-0-d81a5cb102ec2f4dd9f0f5fd90b12f45&se=kankan&ct=2&_mode=1&_cp=1&_fk=9A07BD61042C894ECED24C864929800E82C7AC55807873609CB27ADEEBFD6C23&ts=1650964847&rand=51b8131d2fdf9b6d8dc1ee2d8152a47b
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",东方卫视-纪实人文
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",东方卫视-纪实人文
 https://hw-stream.kksmg.com/live/jspd49d251f8.m3u8?auth_key=1650972108-12529244-0-f67ddbae1720187390da1104c04bec32&se=kankan&ct=2&_mode=1&_cp=1&_fk=97EF0624C4F69557AEF938361BFF75A3C8C09EF4A7150955359046D1B08DDDFA&ts=1650964905&rand=5f7fe0643415cf0bf50a31ae4552c6ec
 <!-- 看看新闻https://live.kankanews.com/huikan/ -->
 
 <!-- 中国蓝TVhttp://tv.cztv.com/live1 -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="卫视",浙江卫视
 http://yd-vl.cztv.com/channels/lantian/channel01/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=acb2cda5061864dd26417c6e6cc471eb&t=1650963253
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",浙江-钱江都市
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江-钱江都市
 http://yd-vl.cztv.com/channels/lantian/channel02/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=134c0bd7e7e55d7fce32e3a302934f00&t=1650980390
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",浙江—经济生活
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江—经济生活
 http://yd-vl.cztv.com/channels/lantian/channel03/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=7fc10f7d3de7591892c08a75a2c419ae&t=1650963543
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",浙江—科教影视
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江—科教影视
 http://yd-vl.cztv.com/channels/lantian/channel04/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=5b38825985f7dd72f91e6be2f00d32e2&t=1650963676
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",浙江—民生休闲
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江—民生休闲
 http://yd-vl.cztv.com/channels/lantian/channel06/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=b0f06089e2f32bf7f7cf8b51cc514564&t=1650963759
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",浙江—新闻频道
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江—新闻频道
 http://yd-vl.cztv.com/channels/lantian/channel07/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=1996288a3ffa364272942bd285e8f6a6&t=1650963824
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",浙江—少儿频道
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="少儿",浙江—少儿频道
 http://yd-vl.cztv.com/channels/lantian/channel08/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=ed4ca5a015dea0953059b7ee2b5f7b40&t=1650980488
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",浙江—国际频道
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江—国际频道
 http://yd-vl.cztv.com/channels/lantian/channel10/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=cd8371660925c5c38dcec95cd8953794&t=1650963965
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",浙江—好易购
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江—好易购
 http://yd-vl.cztv.com/channels/lantian/channel11/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=5683265053ba0ce4d0cf11466cf42d8c&t=1650964017
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",浙江—数码时代
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江—数码时代
 http://yd-vl.cztv.com/channels/lantian/channel12/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=fede82b298eec9a09e8ee96cebb3aeb4&t=1650964046
 <!-- 中国蓝TVhttp://tv.cztv.com/live1 -->
 
@@ -100,7 +100,7 @@ https://livealone302.iqilu.com/iqilu/sdtv0000.m3u8
 https://livealone302.iqilu.com/iqilu/ggpd0000.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",山东综艺
 https://livealone302.iqilu.com/iqilu/zypd0000.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",山东少儿
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="少儿",山东少儿
 https://livealone302.iqilu.com/iqilu/sepd0000.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",山东生活
 https://livealone302.iqilu.com/iqilu/shpd0000.m3u8
