@@ -53,7 +53,7 @@ https://hw-stream.kksmg.com/live/jspd49d251f8.m3u8?auth_key=1650972108-12529244-
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="卫视",浙江卫视
 http://yd-vl.cztv.com/channels/lantian/channel01/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=acb2cda5061864dd26417c6e6cc471eb&t=1650963253
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",浙江-钱江都市
-http://yd-vl.cztv.com/channels/lantian/channel02/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=8ad9ff7b2ddbe6879f29d45f1e27f6c8&t=1650963477
+http://yd-vl.cztv.com/channels/lantian/channel02/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=134c0bd7e7e55d7fce32e3a302934f00&t=1650980390
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",浙江—经济生活
 http://yd-vl.cztv.com/channels/lantian/channel03/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=7fc10f7d3de7591892c08a75a2c419ae&t=1650963543
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级台",浙江—科教影视
