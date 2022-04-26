@@ -96,7 +96,7 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=16
 <!-- 齐鲁网http://v.iqilu.com/ -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="卫视",山东卫视
 https://livealone302.iqilu.com/iqilu/sdtv0000.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",山东-新闻新闻
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",山东-新闻频道
 https://livealone302.iqilu.com/iqilu/ggpd0000.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",山东-综艺频道
 https://livealone302.iqilu.com/iqilu/zypd0000.m3u8
