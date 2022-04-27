@@ -31,7 +31,7 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CGTN-阿拉伯语
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="浙江""兰溪",兰溪电视台
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title={"浙江","兰溪"},兰溪电视台
 https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="卫视",东方卫视
 https://aliyun-stream.kksmg.com/live/dfws.m3u8?auth_key=1650971694-66745611-0-3dfccde1b374439f54faab23feb0e23b&se=kankan&ct=7&_mode=1&_cp=1&_fk=0807A1528A9B08D10E0A123A0546D1BF898C809A8E818B07DA6534FAB8718CDA&ts=1650964491&rand=4f9b20a209cea6ca543235b3fb865729
