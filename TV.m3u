@@ -217,6 +217,16 @@ http://dslive.grtn.cn/fszh/sd/live.m3u8
 http://dslive.grtn.cn/hzzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="珠海综合"  group-title="广东",珠海综合
 http://dslive.grtn.cn/zhzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="汕尾新闻综合"  group-title="广东",汕尾新闻综合
+http://dslive.grtn.cn/swzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="揭阳综合"  group-title="广东",揭阳综合
+http://dslive.grtn.cn/jyzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="湛江综合"  group-title="广东",湛江综合
+http://dslive.grtn.cn/zjzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="江门综合"  group-title="广东",江门综合
+http://dslive.grtn.cn/jmzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="河源综合"  group-title="广东",河源综合
+http://dslive.grtn.cn/hyzh/sd/live.m3u8
 
 #EXTINF:-1 tvg-name="张家港新闻综合"  group-title="江苏",张家港新闻综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
@@ -294,6 +304,61 @@ http://stream.zzgd.tv/1/playlist.m3u8
 http://stream.zzgd.tv/3/playlist.m3u8
 #EXTINF:-1 tvg-name="枣庄教育频道" group-title="山东",枣庄教育频道
 http://stream.zzgd.tv/2/sd/live.m3u8
+#EXTINF:-1 tvg-name="滨州新闻综合" group-title="山东",滨州新闻综合
+http://stream.bzcm.net/2/sd/live.m3u8
+#EXTINF:-1 tvg-name="滨州公共" group-title="山东",滨州公共
+http://stream.bzcm.net/1/sd/live.m3u8
+
+#EXTINF:-1 tvg-name="朔州电视台一套" group-title="山西",朔州电视台一套
+http://stream.sxsztv.com/live1/playlist.m3u8?_upt=0103c5111578380593
+#EXTINF:-1 tvg-name="朔州电视台二套" group-title="山西",朔州电视台二套
+http://stream.sxsztv.com/live2/playlist.m3u8?_upt=a365f4741578380634
+
+#EXTINF:-1 tvg-name="荆州新闻综合" group-title="辽宁",锦州新闻综合
+http://stream.jzgbdst.cn/1/sd/live.m3u8?_upt=8842ef681578202947
+#EXTINF:-1 tvg-name="锦州教育" group-title="辽宁",锦州教育
+http://stream.jzgbdst.cn/2/sd/live.m3u8?_upt=07cad3811578202958
+#EXTINF:-1 tvg-name="锦州公共" group-title="辽宁",锦州公共
+http://stream.jzgbdst.cn/3/sd/live.m3u8?_upt=b7c414761578202967
+
+#EXTINF:-1 tvg-name="鹤岗新闻综合" group-title="黑龙江",鹤岗新闻综合
+http://218.10.43.24:81/live/157ba509813644ea400e7c552b934d93/high/live.m3u8
+#EXTINF:-1 tvg-name="鹤岗公共频道" group-title="黑龙江",鹤岗公共频道
+http://218.10.43.24:81/live/bdac590a43b11a837c716a5ad606e95f/high/live.m3u8
+
+#EXTINF:-1 tvg-name="吉林都市频道" group-title="吉林",吉林都市频道
+http://stream1.jlntv.cn/dspd/playlist.m3u8?_upt=a9a201ef1578416337
+#EXTINF:-1 tvg-name="吉林生活频道" group-title="吉林",吉林生活频道
+http://stream1.jlntv.cn/shpd/playlist.m3u8?_upt=411141331578416402
+#EXTINF:-1 tvg-name="吉林乡村频道" group-title="吉林",吉林乡村频道
+http://stream1.jlntv.cn/xcpd/playlist.m3u8?_upt=5f2ff2dc1578416455
+#EXTINF:-1 tvg-name="吉林公共新闻" group-title="吉林",吉林公共新闻
+http://stream1.jlntv.cn/ggpd/playlist.m3u8?_upt=f83e9b1e1578416483
+#EXTINF:-1 tvg-name="东北戏曲" group-title="吉林",东北戏曲
+http://stream1.jlntv.cn/dbxq/playlist.m3u8?_upt=4324704f1578416540
+#EXTINF:-1 tvg-name="长春电视台" group-title="吉林",长春电视台
+http://stream2.jlntv.cn/jlcc/sd/live.m3u8?_upt=c2fdae301651079490
+#EXTINF:-1 tvg-name="四平一套" group-title="吉林",四平一套
+http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=778693f21651079543
+#EXTINF:-1 tvg-name="通化一套" group-title="吉林",通化一套
+http://stream2.jlntv.cn/tonghua1/sd/live.m3u8?_upt=7ce5e32a1651079613
+#EXTINF:-1 tvg-name="白山新闻综合" group-title="吉林",白山新闻综合
+http://stream2.jlntv.cn/baishan1/sd/live.m3u8?_upt=a07c98681651079649
+#EXTINF:-1 tvg-name="白城新闻综合" group-title="吉林",白城新闻综合
+http://stream2.jlntv.cn/baicheng1/sd/live.m3u8?_upt=49e676b61651079713
+
+#EXTINF:-1 tvg-name="西安新闻综合" group-title="陕西",西安新闻综合
+http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+#EXTINF:-1 tvg-name="西安都市频道" group-title="陕西",西安都市频道
+http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+#EXTINF:-1 tvg-name="西安商务资讯" group-title="陕西",西安商务资讯
+http://stream2.xiancity.cn/xatv3/sd/live.m3u8
+#EXTINF:-1 tvg-name="西安影视频道" group-title="陕西",西安影视频道
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1 tvg-name="西安丝路频道" group-title="陕西",西安丝路频道
+http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+#EXTINF:-1 tvg-name="西安移动电视" group-title="陕西",西安移动电视
+http://stream2.xiancity.cn/xatv7/sd/live.m3u8
 
 #EXTINF:-1 tvg-name="漳州一套" group-title="福建",漳州一套
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
@@ -308,6 +373,18 @@ http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
 http://wshls.live.migucloud.com/live/ZBXWIMTD_C0_2/playlist.m3u8
 #EXTINF:-1 tvg-name="昆明文体娱乐频道" group-title="云南",昆明文体娱乐频道
 http://wshls.live.migucloud.com/live/6KN3ZB2S_C0_2/playlist.m3u8
+#EXTINF:-1 tvg-name="迪庆新闻综合" group-title="云南",迪庆新闻综合
+http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="迪庆藏语" group-title="云南",迪庆藏语
+http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="酒泉电视台" group-title="甘肃",酒泉电视台
+http://stream.gsjqtv.com/pd1/sd/live.m3u8
+#EXTINF:-1 tvg-name="银川生活" group-title="甘肃",银川生活
+http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
+
+#EXTINF:-1 tvg-name="海西电视台" group-title="青海",海西电视台
+http://stream.haixitv.cn/1/sd/live.m3u8
 
 #EXTINF:-1 tvg-name="香港开电视" group-title="港澳台",香港开电视
 https://d2l48urtvrbpot.cloudfront.net/out/v1/e721fbca66cb4116a29dff568b7d86d1/index_1.m3u8
