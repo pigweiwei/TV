@@ -142,12 +142,26 @@ http://yd-vl.cztv.com/channels/lantian/channel03/720p.m3u8
 http://yd-vl.cztv.com/channels/lantian/channel04/720p.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="少儿",浙江少儿频道
 http://yd-vl.cztv.com/channels/lantian/channel08/720p.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="浙江",国际频道
+#EXTINF:-1 tvg-name="浙江国际频道" group-title="浙江",浙江国际频道
 http://yd-vl.cztv.com/channels/lantian/channel10/720p.m3u8
+#EXTINF:-1 tvg-name="萧山新闻综合" group-title="浙江",萧山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-name="兰溪新闻综合" group-title="浙江",兰溪新闻综合
 https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 #EXTINF:-1 tvg-name="缙云新闻综合" group-title="浙江",缙云新闻综合
 http://l.cztvcloud.com:80/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1 tvg-name="余姚姚江文化" group-title="浙江",余姚姚江文化
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 tvg-name="上虞新闻综合" group-title="浙江",上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 tvg-name="上虞文化影视" group-title="浙江",上虞文化影视
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 tvg-name="上虞新商都" group-title="浙江",上虞新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 tvg-name="新昌新闻综合" group-title="浙江",新昌新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 tvg-name="新昌生活频道" group-title="浙江",新昌生活频道
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 
 #EXTINF:-1 tvg-name="北京东奥纪实" group-title="儿童",北京东奥纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
@@ -206,8 +220,12 @@ http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 #EXTINF:-1 tvg-name="忠县综合" group-title="重庆",忠县综合
 http://qxlmlive.cbg.cn:1935/app_2/ls_35.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="昆明公共频道" group-title="重庆",昆明公共频道
+#EXTINF:-1 tvg-name="昆明公共频道" group-title="云南",昆明公共频道
 http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
+#EXTINF:-1 tvg-name="昆明科学教育频道" group-title="云南",昆明科学交易频道
+http://wshls.live.migucloud.com/live/ZBXWIMTD_C0_2/playlist.m3u8
+#EXTINF:-1 tvg-name="昆明文体娱乐频道" group-title="云南",昆明文体娱乐频道
+http://wshls.live.migucloud.com/live/6KN3ZB2S_C0_2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="香港开电视" group-title="港澳台",香港开电视
 https://d2l48urtvrbpot.cloudfront.net/out/v1/e721fbca66cb4116a29dff568b7d86d1/index_1.m3u8
