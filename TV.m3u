@@ -127,6 +127,8 @@ https://hw-stream.kksmg.com/live/ylpd7bf15f94.m3u8?auth_key=1650971983-99386087-
 https://hw-stream.kksmg.com/live/dycj93ba5ac7.m3u8?auth_key=1650972050-66295740-0-d81a5cb102ec2f4dd9f0f5fd90b12f45&se=kankan&ct=2&_mode=1&_cp=1&_fk=9A07BD61042C894ECED24C864929800E82C7AC55807873609CB27ADEEBFD6C23&ts=1650964847&rand=51b8131d2fdf9b6d8dc1ee2d8152a47b
 #EXTINF:-1 tvg-name="上海纪实" group-title="上海",纪实人文
 http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" group-title="上海",哈哈炫动
+http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
 
 #EXTINF:-1 tvg-name="民生休闲" group-title="浙江",民生休闲
 http://yd-vl.cztv.com/channels/lantian/channel06/720p.m3u8
@@ -145,6 +147,14 @@ http://yd-vl.cztv.com/channels/lantian/channel10/720p.m3u8
 #EXTINF:-1 tvg-name="兰溪电视台" group-title="浙江",兰溪电视台
 https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 
+#EXTINF:-1 tvg-name="北京东奥纪实" group-title="儿童",北京东奥纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" group-title="儿童",优漫卡通
+http://39.134.115.163:8080/PLTV/88888910/224/3221225665/index.m3u8
+
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="儿童",金鹰卡通
+http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-文艺频道
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1650951977&sign=6155735ebb379fa44cbbd5f120f4d4e1
 #EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-科教频道
@@ -160,7 +170,7 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=165
 #EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-新闻频道
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1650952476&sign=0a53ee9d950eb078904ec34f12105910
 #EXTINF:-1 tvg-name="卡酷动画" group-title="少儿",卡酷动画
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1650952508&sign=92acad62f4835d1fc3c4a9e6e560e3d0
+http://39.134.115.163:8080/PLTV/88888910/224/3221225677/index.m3u8
 
 #EXTINF:-1 tvg-name="安徽综艺"  group-title="安徽",安徽综艺
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
@@ -177,6 +187,11 @@ https://livealone302.iqilu.com/iqilu/sepd0000.m3u8
 https://livealone302.iqilu.com/iqilu/shpd0000.m3u8
 #EXTINF:-1 tvg-name="山东体育" group-title="山东",体育频道
 https://livealone302.iqilu.com/iqilu/typd0000.m3u8
+
+#EXTINF:-1 tvg-name="九江公共频道" group-title="山东",九江公共频道
+http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
+#EXTINF:-1 tvg-name="九江新闻综合" group-title="山东",九江新闻综合
+http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8
 
 #EXTINF:-1 tvg-name="香港开电视" group-title="港澳台",香港开电视
 https://d2l48urtvrbpot.cloudfront.net/out/v1/e721fbca66cb4116a29dff568b7d86d1/index_1.m3u8
