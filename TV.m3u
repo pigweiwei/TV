@@ -144,8 +144,10 @@ http://yd-vl.cztv.com/channels/lantian/channel04/720p.m3u8
 http://yd-vl.cztv.com/channels/lantian/channel08/720p.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="浙江",国际频道
 http://yd-vl.cztv.com/channels/lantian/channel10/720p.m3u8
-#EXTINF:-1 tvg-name="兰溪电视台" group-title="浙江",兰溪电视台
+#EXTINF:-1 tvg-name="兰溪新闻综合" group-title="浙江",兰溪新闻综合
 https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 tvg-name="缙云新闻综合" group-title="浙江",缙云新闻综合
+http://l.cztvcloud.com:80/channels/lantian/SXjinyun1/720p.m3u8
 
 #EXTINF:-1 tvg-name="北京东奥纪实" group-title="儿童",北京东奥纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
@@ -192,6 +194,20 @@ https://livealone302.iqilu.com/iqilu/typd0000.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
 #EXTINF:-1 tvg-name="九江新闻综合" group-title="山东",九江新闻综合
 http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8
+
+#EXTINF:-1 tvg-name="重庆移动" group-title="重庆",重庆移动
+http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="江津生活" group-title="重庆",江津生活
+http://jiangjinlive.cbg.cn:1935/ch0.m3u8
+#EXTINF:-1 tvg-name="江津综合" group-title="重庆",江津综合
+http://jiangjinlive.cbg.cn:1935/ch1.m3u8
+#EXTINF:-1 tvg-name="万州综合" group-title="重庆",万州综合
+http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 tvg-name="忠县综合" group-title="重庆",忠县综合
+http://qxlmlive.cbg.cn:1935/app_2/ls_35.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="昆明公共频道" group-title="重庆",昆明公共频道
+http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="香港开电视" group-title="港澳台",香港开电视
 https://d2l48urtvrbpot.cloudfront.net/out/v1/e721fbca66cb4116a29dff568b7d86d1/index_1.m3u8
