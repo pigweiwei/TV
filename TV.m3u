@@ -74,7 +74,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-name="卫视" group-title="卫视",湖南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视",浙江卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
@@ -130,20 +130,18 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="上海",哈哈炫动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
 
-#EXTINF:-1 tvg-name="民生休闲" group-title="浙江",浙江台-民生休闲
+#EXTINF:-1 tvg-name="民生休闲" group-title="浙江",浙江民生休闲
 http://yd-vl.cztv.com/channels/lantian/channel06/720p.m3u8
 #EXTINF:-1 tvg-name="新闻频道" group-title="浙江",浙江新闻频道
 http://yd-vl.cztv.com/channels/lantian/channel07/720p.m3u8
-#EXTINF:-1 tvg-name="钱江都市" group-title="浙江",钱江都市
+#EXTINF:-1 tvg-name="钱江都市" group-title="浙江",浙江钱江都市
 http://yd-vl.cztv.com/channels/lantian/channel02/720p.m3u8
-#EXTINF:-1 tvg-name="经济生活" group-title="浙江",经济生活
+#EXTINF:-1 tvg-name="经济生活" group-title="浙江",浙江经济生活
 http://yd-vl.cztv.com/channels/lantian/channel03/720p.m3u8
-#EXTINF:-1 tvg-name="科教影视" group-title="浙江",科教影视
+#EXTINF:-1 tvg-name="科教影视" group-title="浙江",浙江科教影视
 http://yd-vl.cztv.com/channels/lantian/channel04/720p.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="少儿",浙江少儿频道
 http://yd-vl.cztv.com/channels/lantian/channel08/720p.m3u8
-#EXTINF:-1 tvg-name="浙江国际频道" group-title="浙江",浙江国际频道
-http://yd-vl.cztv.com/channels/lantian/channel10/720p.m3u8
 #EXTINF:-1 tvg-name="萧山新闻综合" group-title="浙江",萧山新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-name="兰溪新闻综合" group-title="浙江",兰溪新闻综合
@@ -191,6 +189,24 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-name="安徽综艺"  group-title="安徽",安徽综艺
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 
+#EXTINF:-1 tvg-name="电白视窗"  group-title="广东",电白视窗
+http://gddb.chinashadt.com:1935/live/video2.stream/chunklist_w790029847.m3u8
+#EXTINF:-1 tvg-name="电白综合"  group-title="广东",电白综合
+http://gddb.chinashadt.com:1935/live/video1.stream/chunklist_w1330203773.m3u8
+#EXTINF:-1 tvg-name="韶关综合"  group-title="广东",韶关综合
+http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8
+#EXTINF:-1 tvg-name="佛山综合"  group-title="广东",佛山综合
+http://dslive.grtn.cn/fszh/sd/live.m3u8
+#EXTINF:-1 tvg-name="惠州综合"  group-title="广东",惠州综合
+http://dslive.grtn.cn/hzzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="珠海综合"  group-title="广东",珠海综合
+http://dslive.grtn.cn/zhzh/sd/live.m3u8
+
+#EXTINF:-1 tvg-name="张家港新闻综合"  group-title="江苏",张家港新闻综合
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+#EXTINF:-1 tvg-name="张家港民生"  group-title="江苏",张家港民生
+http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
+
 #EXTINF:-1 tvg-name="CCTV1" group-title="山东",新闻频道
 https://livealone302.iqilu.com/iqilu/ggpd0000.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁" group-title="山东",山东-齐鲁频道
@@ -203,6 +219,9 @@ https://livealone302.iqilu.com/iqilu/sepd0000.m3u8
 https://livealone302.iqilu.com/iqilu/shpd0000.m3u8
 #EXTINF:-1 tvg-name="山东体育" group-title="山东",体育频道
 https://livealone302.iqilu.com/iqilu/typd0000.m3u8
+
+#EXTINF:-1 tvg-name="云溪新闻综合" group-title="湖南",云溪新闻综合
+http://liveplay.rednet.cn/live/yunxi_tv.m3u8
 
 #EXTINF:-1 tvg-name="九江公共频道" group-title="山东",九江公共频道
 http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
@@ -219,6 +238,9 @@ http://jiangjinlive.cbg.cn:1935/ch1.m3u8
 http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 #EXTINF:-1 tvg-name="忠县综合" group-title="重庆",忠县综合
 http://qxlmlive.cbg.cn:1935/app_2/ls_35.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="西青电视台" group-title="天津",西青电视台
+http://221.238.209.44:81/hls/live1.m3u8
 
 #EXTINF:-1 tvg-name="昆明公共频道" group-title="云南",昆明公共频道
 http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
