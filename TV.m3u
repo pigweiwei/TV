@@ -206,3 +206,6 @@ https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/53240
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-name="NHK Chinese Vision" group-title="日本",NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NEW电竞" group-title="体育",NEW电竞
+http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
