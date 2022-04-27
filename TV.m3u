@@ -127,7 +127,7 @@ https://hw-stream.kksmg.com/live/ylpd7bf15f94.m3u8?auth_key=1650971983-99386087-
 #EXTINF:-1 tvg-name="第一财经" group-title="上海",第一财经
 https://hw-stream.kksmg.com/live/dycj93ba5ac7.m3u8?auth_key=1650972050-66295740-0-d81a5cb102ec2f4dd9f0f5fd90b12f45&se=kankan&ct=2&_mode=1&_cp=1&_fk=9A07BD61042C894ECED24C864929800E82C7AC55807873609CB27ADEEBFD6C23&ts=1650964847&rand=51b8131d2fdf9b6d8dc1ee2d8152a47b
 #EXTINF:-1 tvg-name="上海纪实" group-title="上海",纪实人文
-http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿",哈哈炫动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
 #EXTINF:-1 tvg-name="点掌财经" group-title="上海",点掌财经
