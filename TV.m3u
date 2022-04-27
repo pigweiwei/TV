@@ -118,33 +118,41 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" group-title="卫视",云南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
 
-#EXTINF:-1 tvg-name="上视新闻频道" group-title="上海",上海新闻频道
-https://aliyun-stream.kksmg.com/live/xwzh.m3u8?auth_key=1650971410-30718129-0-85c3ac774e8341408d7c141b60b9eb8b&se=kankan&ct=7&_mode=1&_cp=1&_fk=0BFCC38ECFD2FD8BEC5C0255A6BEFF2794F66B57AE6586A82903D76C4A80F7C8&ts=1650964207&rand=bbeb520b4fc865d2208519d7bcfbaabe
-#EXTINF:-1 tvg-name="上视外语频道" group-title="上海",上海外语频道
-https://hw-stream.kksmg.com/live/wypdc4eb57c5.m3u8?auth_key=1650971801-62204918-0-a09e8a3cb5bbea2bd4e58a29c78acf56&se=kankan&ct=2&_mode=1&_cp=1&_fk=81E20BB3F88B823F939C63E7AAF6B5ED2B468ABBEAE7DB6C7627385BBE4A1CD1&ts=1650964598&rand=c5d56aa4915f5ce4faf4be88f1c9b307
-#EXTINF:-1 tvg-name="上海都市频道" group-title="上海",上海都市频道
-https://hw-stream.kksmg.com/live/ylpd7bf15f94.m3u8?auth_key=1650971983-99386087-0-96c98967dc6f65f81d0cbb87c97478cd&se=kankan&ct=2&_mode=1&_cp=1&_fk=49372680C145BE4B3E8AF391781DA3BFBE57D4F817643786FB331F0DCCC051AD&ts=1650964780&rand=1d6b3e17f6d37c296b4fba915ba099c4
-#EXTINF:-1 tvg-name="第一财经" group-title="上海",第一财经
-https://hw-stream.kksmg.com/live/dycj93ba5ac7.m3u8?auth_key=1650972050-66295740-0-d81a5cb102ec2f4dd9f0f5fd90b12f45&se=kankan&ct=2&_mode=1&_cp=1&_fk=9A07BD61042C894ECED24C864929800E82C7AC55807873609CB27ADEEBFD6C23&ts=1650964847&rand=51b8131d2fdf9b6d8dc1ee2d8152a47b
+#EXTINF:-1 tvg-name="东方影视" group-title="上海",东方影视
+http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="东方财经" group-title="上海",东方财经
+http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
+#EXTINF:-1 tvg-name="都市频道" group-title="上海",都市频道
+http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="生活时尚" group-title="上海",生活时尚
+http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="法制天地" group-title="上海",法制天地
+http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="上海纪实" group-title="上海",纪实人文
 http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿",哈哈炫动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
+#EXTINF:-1 tvg-name="七彩戏剧" group-title="上海",七彩戏剧
+http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="点掌财经" group-title="上海",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-name="上海外语" group-title="上海",上海外语
+http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 
-#EXTINF:-1 tvg-name="民生休闲" group-title="浙江",浙江民生休闲
-http://yd-vl.cztv.com/channels/lantian/channel06/720p.m3u8
-#EXTINF:-1 tvg-name="新闻频道" group-title="浙江",浙江新闻频道
-http://yd-vl.cztv.com/channels/lantian/channel07/720p.m3u8
-#EXTINF:-1 tvg-name="钱江都市" group-title="浙江",浙江钱江都市
-http://yd-vl.cztv.com/channels/lantian/channel02/720p.m3u8
-#EXTINF:-1 tvg-name="经济生活" group-title="浙江",浙江经济生活
-http://yd-vl.cztv.com/channels/lantian/channel03/720p.m3u8
-#EXTINF:-1 tvg-name="科教影视" group-title="浙江",浙江科教影视
-http://yd-vl.cztv.com/channels/lantian/channel04/720p.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="少儿",浙江少儿频道
-http://yd-vl.cztv.com/channels/lantian/channel08/720p.m3u8
+#EXTINF:-1 tvg-name="浙江民生休闲" group-title="浙江",浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江新闻频道" group-title="浙江",浙江新闻频道
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江钱江都市" group-title="浙江",浙江钱江都市
+http://yd-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江经济生活" group-title="浙江",浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江数码时代" group-title="浙江",浙江数码时代
+http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江科教影视" group-title="浙江",浙江科教影视
+http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿频道" group-title="少儿",浙江少儿频道
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1 tvg-name="萧山新闻综合" group-title="浙江",萧山新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-name="舟山群岛旅游" group-title="浙江",舟山群岛旅游
@@ -448,3 +456,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-name="中国气象" group-title="其他",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 tvg-name="好消息一套" group-title="其他",好消息一套
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 tvg-name="好消息二套" group-title="其他",好消息二套
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
