@@ -243,3 +243,12 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-name="NewTV中国功夫" group-title="未来电视",NewTV中国功夫
 http://39.134.115.163:8080/PLTV/88888910/224/3221225660/index.m3u8
+
+#EXTINF:-1 tvg-name="黑莓电影" group-title="其他",黑莓电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" group-title="其他",黑莓动画
+http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="明星大片" group-title="其他",明星大片
+http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" group-title="其他",纯享4K
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
