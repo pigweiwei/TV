@@ -467,16 +467,18 @@ http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
 #EXTINF:-1 tvg-name="海西电视台" group-title="青海",海西电视台
 http://stream.haixitv.cn/1/sd/live.m3u8
 
-#EXTINF:-1 tvg-name="香港开电视" group-title="港澳台",香港开电视
-https://d2l48urtvrbpot.cloudfront.net/out/v1/e721fbca66cb4116a29dff568b7d86d1/index_1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="港澳台",凤凰卫视中文台
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="港澳台",香港凤凰卫视资讯台
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-name="无线新闻" group-title="港澳台",TVB无线新闻台
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/profile_1/0553b7f0feaa415684dd864cb1710976/chunklist_ssaiV.m3u8
 #EXTINF:-1 tvg-name="澳门卫视" group-title="港澳台",澳门卫视
 http://61.244.22.4/ch3/ch3.live/chunklist_w415594313.m3u8
+#EXTINF:-1 tvg-name="香港卫视" group-title="港澳台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="香港开电视" group-title="港澳台",香港开电视
+https://d2l48urtvrbpot.cloudfront.net/out/v1/e721fbca66cb4116a29dff568b7d86d1/index_1.m3u8
 
 #EXTINF:-1 tvg-name="NHK WORLD" group-title="日本",NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
