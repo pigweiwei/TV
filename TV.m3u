@@ -263,13 +263,37 @@ http://qxlmlive.cbg.cn:1935/app_2/ls_35.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="潼南综合" group-title="重庆",潼南综合
 http://183.230.184.51:65500/tntv1.m3u8
 
-#EXTINF:-1 tvg-name="自贡综合频道" group-title="四川",自贡综合频道
-http://live.zgbctv.com:8080/live/m10.m3u8
-#EXTINF:-1 tvg-name="自贡公共频道" group-title="四川",自贡公共频道
-http://live.zgbctv.com:8080/live/m11.m3u8
+#EXTINF:-1 tvg-name="蓬安一套" group-title="重庆",蓬安一套
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 
 #EXTINF:-1 tvg-name="西青电视台" group-title="天津",西青电视台
 http://221.238.209.44:81/hls/live1.m3u8
+
+#EXTINF:-1 tvg-name="沧州新闻综合" group-title="河北",沧州新闻综合
+http://czlive.czgd.tv:85/live/xnyt.m3u8
+#EXTINF:-1 tvg-name="沧州公共频道" group-title="河北",沧州公共频道
+http://czlive.czgd.tv:85/live/xnet.m3u8
+#EXTINF:-1 tvg-name="沧州影视娱乐" group-title="河北",沧州影视娱乐
+http://czlive.czgd.tv:85/live/xnst.m3u8
+#EXTINF:-1 tvg-name="衡水公共" group-title="河北",衡水公共
+http://hls.hsrtv.cn/hls/hstv2.m3u8
+#EXTINF:-1 tvg-name="衡水新闻综合" group-title="河北",衡水新闻综合
+http://hls.hsrtv.cn/hls/hstv1.m3u8
+#EXTINF:-1 tvg-name="景县综合" group-title="河北",景县综合
+http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-name="邢台综合" group-title="河北",邢台综合
+http://a.xttv.top/xttv/5ebe09cb3d1a0f3f3d062e99c78175a0.m3u8?auth_key=1861891200
+#EXTINF:-1 tvg-name="邢台城市生活" group-title="河北",邢台城市生活
+http://a.xttv.top/xttv/d0586743dc68918f808f28b8bc90c737.m3u8?auth_key=1861891200
+#EXTINF:-1 tvg-name="深州综合" group-title="河北",深州综合
+http://hbsz.chinashadt.com:2036/live/stream:sztv.stream/chunklist_w1056600619.m3u8
+
+#EXTINF:-1 tvg-name="枣庄新闻综合" group-title="山东",枣庄新闻综合
+http://stream.zzgd.tv/1/playlist.m3u8
+#EXTINF:-1 tvg-name="枣庄公共频道" group-title="山东",枣庄公共频道
+http://stream.zzgd.tv/3/playlist.m3u8
+#EXTINF:-1 tvg-name="枣庄教育频道" group-title="山东",枣庄教育频道
+http://stream.zzgd.tv/2/sd/live.m3u8
 
 #EXTINF:-1 tvg-name="漳州一套" group-title="福建",漳州一套
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
