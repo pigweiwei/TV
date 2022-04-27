@@ -33,7 +33,8 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CGTN-阿拉伯语
 https://livear.cgtn.com/1000a/prog_index.m3u8
 <!-- 好趣网http://tv.haoqu99.com -->
-
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",兰溪网
+https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 <!-- 看看新闻https://live.kankanews.com/huikan/ -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="卫视",东方卫视
 https://aliyun-stream.kksmg.com/live/dfws.m3u8?auth_key=1650971694-66745611-0-3dfccde1b374439f54faab23feb0e23b&se=kankan&ct=7&_mode=1&_cp=1&_fk=0807A1528A9B08D10E0A123A0546D1BF898C809A8E818B07DA6534FAB8718CDA&ts=1650964491&rand=4f9b20a209cea6ca543235b3fb865729
@@ -109,8 +110,6 @@ https://livealone302.iqilu.com/iqilu/typd0000.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",山东-齐鲁频道
 https://livealone302.iqilu.com/iqilu/qlpd0000.m3u8
 <!-- 齐鲁网http://v.iqilu.com/ -->
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="地方",兰溪电视台
-https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 <!-- 好趣网http://tv.haoqu99.com -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="港澳台",香港开电视
 https://d2l48urtvrbpot.cloudfront.net/out/v1/e721fbca66cb4116a29dff568b7d86d1/index_1.m3u8
