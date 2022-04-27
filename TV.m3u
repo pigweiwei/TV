@@ -248,6 +248,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8
 http://qxlmlive.cbg.cn:1935/app_2/ls_57.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="荣昌综合" group-title="重庆",荣昌综合
 http://183.64.181.25:40023/rongchang01.m3u8
+#EXTINF:-1 tvg-name="南岸综合" group-title="重庆",南岸综合
+http://natv.cnjrna.com:3000/channel/sovp/1000000000000018/video_1564_none.m3u8
 #EXTINF:-1 tvg-name="北碚综合" group-title="重庆",北碚综合
 http://222.178.181.121:12034/beibei01.m3u8
 #EXTINF:-1 tvg-name="江津生活" group-title="重庆",江津生活
@@ -260,6 +262,11 @@ http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 http://qxlmlive.cbg.cn:1935/app_2/ls_35.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="潼南综合" group-title="重庆",潼南综合
 http://183.230.184.51:65500/tntv1.m3u8
+
+#EXTINF:-1 tvg-name="自贡综合频道" group-title="四川",自贡综合频道
+http://live.zgbctv.com:8080/live/m10.m3u8
+#EXTINF:-1 tvg-name="自贡公共频道" group-title="四川",自贡公共频道
+http://live.zgbctv.com:8080/live/m11.m3u8
 
 #EXTINF:-1 tvg-name="西青电视台" group-title="天津",西青电视台
 http://221.238.209.44:81/hls/live1.m3u8
