@@ -1,25 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wikijoo/LOGO/main/CCTV1.png" group-title="央视",CCTV-1-综合频道
 http://stream10.fjtv.net/cctv1/hd/live.m3u8
-#EXTINF:-1 tvg-name="CCTV2" group-title="央视",CCTV-3-综艺频道
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视",CCTV-3
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wikijoo/LOGO/main/cctv-5.png" group-title="央视",CCTV-5-体育频道
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视",CCTV-5
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wikijoo/LOGO/main/cctv5%2B.png" group-title="央视",CCTV-5+-体育赛事频道
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视",CCTV-5+
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wikijoo/LOGO/main/cctv-6.png" group-title="央视",CCTV-6-电影频道
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视",CCTV-6
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wikijoo/LOGO/main/cctv-8.png" group-title="央视",CCTV-8-电视剧频道
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视",CCTV-8
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wikijoo/LOGO/main/cctv-9.png" group-title="央视",CCTV-9-记录频道
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视",CCTV-9
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000499402.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-4K超高清
+#EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-高尔夫网球
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-高尔夫网球
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CETV4空中课堂
 http://txycsbl.centv.cn/zb/0104cetv4.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-风云足球
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-风云足球
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514202.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CGTN-NEWS
 https://live.cgtn.com/1000/prog_index.m3u8
