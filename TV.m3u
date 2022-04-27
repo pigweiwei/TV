@@ -109,5 +109,21 @@ https://livealone302.iqilu.com/iqilu/typd0000.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",山东-齐鲁频道
 https://livealone302.iqilu.com/iqilu/qlpd0000.m3u8
 <!-- 齐鲁网http://v.iqilu.com/ -->
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="港澳台",兰溪台
+
+<!-- 好趣网http://tv.haoqu99.com -->
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="港澳台",凤凰卫视中文台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="港澳台",香港凤凰卫视资讯台
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="港澳台",香港凤凰卫视资讯台
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="港澳台",TVB无线新闻台
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/profile_1/0553b7f0feaa415684dd864cb1710976/chunklist_ssaiV.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="港澳台",香港开电视
+https://d2l48urtvrbpot.cloudfront.net/out/v1/e721fbca66cb4116a29dff568b7d86d1/index.m3u8
+<!-- 好趣网http://tv.haoqu99.com -->
+
+<!-- 兰溪之窗http://lxnews.cztv.com/TV.html -->
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="地方",兰溪台
 https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+<!-- 兰溪之窗ttp://lxnews.cztv.com/TV.html -->
