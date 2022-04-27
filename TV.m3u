@@ -141,8 +141,8 @@ http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 
 #EXTINF:-1 tvg-name="浙江民生休闲" group-title="浙江",浙江民生休闲
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江新闻频道" group-title="浙江",浙江新闻频道
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 tvg-name="中国蓝新闻" group-title="浙江",中国蓝新闻
+http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" group-title="浙江",浙江钱江都市
 http://yd-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活" group-title="浙江",浙江经济生活
@@ -151,12 +151,28 @@ http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江科教影视" group-title="浙江",浙江科教影视
 http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江NEWS" group-title="浙江",浙江NEWS
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江国际" group-title="浙江",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江少儿频道" group-title="少儿",浙江少儿频道
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江好易购" group-title="浙江",浙江好易购
+http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江留学世界" group-title="浙江",浙江留学世界
+http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
 #EXTINF:-1 tvg-name="萧山新闻综合" group-title="浙江",萧山新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 tvg-name="绍兴新闻综合" group-title="浙江",绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:-1 tvg-name="绍兴公共频道" group-title="浙江",绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 tvg-name="绍兴文化影视" group-title="浙江",绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 #EXTINF:-1 tvg-name="舟山群岛旅游" group-title="浙江",舟山群岛旅游
 http://live.wifizs.cn/qdly/sd/live.m3u8
+#EXTINF:-1 tvg-name="舟山公共生活" group-title="浙江",舟山公共生活
+http://live.wifizs.cn/ggsh/sd/live.m3u8
 #EXTINF:-1 tvg-name="普陀电视台" group-title="浙江",普陀电视台
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 #EXTINF:-1 tvg-name="兰溪新闻综合" group-title="浙江",兰溪新闻综合
@@ -213,6 +229,14 @@ http://live1.wuhubtv.com/channel2/sd/live.m3u8
 http://live1.wuhubtv.com/channel3/sd/live.m3u8
 #EXTINF:-1 tvg-name="芜湖教育频道"  group-title="安徽",芜湖教育频道
 http://live1.wuhubtv.com/channel4/sd/live.m3u8
+#EXTINF:-1 tvg-name="铜陵新闻综合"  group-title="安徽",铜陵新闻综合
+http://dstpush1.retalltech.com/app/stream1.m3u8
+#EXTINF:-1 tvg-name="铜陵公共频道"  group-title="安徽",铜陵公共频道
+http://dstpush1.retalltech.com/app/stream2.m3u8
+#EXTINF:-1 tvg-name="东至综合频道"  group-title="安徽",东至综合频道
+http://223.247.33.124:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 tvg-name="东至影视频道"  group-title="安徽",东至影视频道
+http://223.247.33.124:1935/live/yingshi/playlist.m3u8
 
 #EXTINF:-1 tvg-name="电白视窗"  group-title="广东",电白视窗
 http://gddb.chinashadt.com:1935/live/video2.stream/chunklist_w790029847.m3u8
@@ -237,10 +261,36 @@ http://dslive.grtn.cn/jmzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="河源综合"  group-title="广东",河源综合
 http://dslive.grtn.cn/hyzh/sd/live.m3u8
 
+#EXTINF:-1 tvg-name="南京新闻综合"  group-title="江苏",南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-name="南京教科频道"  group-title="江苏",南京教科频道
+http://live.nbs.cn/channels/njtv/jkpd/500k.m3u8
+#EXTINF:-1 tvg-name="南京生活频道"  group-title="江苏",南京生活频道
+http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8
+#EXTINF:-1 tvg-name="南京娱乐频道"  group-title="江苏",南京娱乐频道
+http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
+#EXTINF:-1 tvg-name="南京十八频道"  group-title="江苏",南京十八频道
+http://live.nbs.cn/channels/njtv/jkpd/500k.m3u8
+#EXTINF:-1 tvg-name="南京少儿频道"  group-title="少儿",南京少儿频道
+http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8
+#EXTINF:-1 tvg-name="南京信息频道"  group-title="少儿",南京信息频道
+http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
 #EXTINF:-1 tvg-name="张家港新闻综合"  group-title="江苏",张家港新闻综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 #EXTINF:-1 tvg-name="张家港民生"  group-title="江苏",张家港民生
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
+#EXTINF:-1 tvg-name="连云港新闻综合"  group-title="江苏",连云港新闻综合
+http://live.lyg1.com/zhpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="连云港公共频道"  group-title="江苏",连云港公共频道
+http://live.lyg1.com/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="淮安综合"  group-title="江苏",淮安综合
+http://stream.habctv.com/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="淮安公共"  group-title="江苏",淮安公共
+http://stream.habctv.com/hagg/sd/live.m3u8
+#EXTINF:-1 tvg-name="淮安影视娱乐"  group-title="江苏",淮安影视娱乐
+http://stream.habctv.com/ysyl/sd/live.m3u8
+#EXTINF:-1 tvg-name="徐州公共频道"  group-title="江苏",徐州公共频道
+http://stream1.huaihai.tv/ggpd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" group-title="山东",新闻频道
 https://livealone302.iqilu.com/iqilu/ggpd0000.m3u8
@@ -257,6 +307,8 @@ https://livealone302.iqilu.com/iqilu/typd0000.m3u8
 
 #EXTINF:-1 tvg-name="云溪新闻综合" group-title="湖南",云溪新闻综合
 http://liveplay.rednet.cn/live/yunxi_tv.m3u8
+#EXTINF:-1 tvg-name="娄底综合" group-title="湖南",娄底综合
+http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
 
 #EXTINF:-1 tvg-name="九江公共频道" group-title="山东",九江公共频道
 http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
@@ -281,12 +333,22 @@ http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 http://qxlmlive.cbg.cn:1935/app_2/ls_35.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="潼南综合" group-title="重庆",潼南综合
 http://183.230.184.51:65500/tntv1.m3u8
-
 #EXTINF:-1 tvg-name="蓬安一套" group-title="重庆",蓬安一套
 http://palive.patv123.com:8091/live/xwpd_800K.m3u8
+#EXTINF:-1 tvg-name="万州综合" group-title="重庆",万州综合
+http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
 
 #EXTINF:-1 tvg-name="西青电视台" group-title="天津",西青电视台
 http://221.238.209.44:81/hls/live1.m3u8
+
+#EXTINF:-1 tvg-name="洛阳新闻综合" group-title="河南",洛阳新闻综合
+http://live1.lytv.com.cn:1935/live/LYTV1-1/playlist.m3u8
+#EXTINF:-1 tvg-name="周口公共频道" group-title="河南",周口公共频道
+http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8
+#EXTINF:-1 tvg-name="周口教育频道" group-title="河南",周口教育频道
+http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8
+#EXTINF:-1 tvg-name="周口图文信息" group-title="河南",周口图文信息
+http://tv.zkxww.com:1935/live4/mp4:ch4-500k/playlist.m3u8
 
 #EXTINF:-1 tvg-name="沧州新闻综合" group-title="河北",沧州新闻综合
 http://czlive.czgd.tv:85/live/xnyt.m3u8
@@ -369,6 +431,14 @@ http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 #EXTINF:-1 tvg-name="西安移动电视" group-title="陕西",西安移动电视
 http://stream2.xiancity.cn/xatv7/sd/live.m3u8
 
+#EXTINF:-1 tvg-name="福州一套" group-title="福建",福州一套
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+#EXTINF:-1 tvg-name="福州二套" group-title="福建",福州二套
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 tvg-name="福州三套" group-title="福建",福州三套
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+#EXTINF:-1 tvg-name="福州少儿" group-title="少儿",福州少儿
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-name="漳州一套" group-title="福建",漳州一套
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 #EXTINF:-1 tvg-name="漳浦数字" group-title="福建",漳浦数字
@@ -386,6 +456,8 @@ http://wshls.live.migucloud.com/live/6KN3ZB2S_C0_2/playlist.m3u8
 http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="迪庆藏语" group-title="云南",迪庆藏语
 http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="麻栗坡" group-title="云南",麻栗坡
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 
 #EXTINF:-1 tvg-name="酒泉电视台" group-title="甘肃",酒泉电视台
 http://stream.gsjqtv.com/pd1/sd/live.m3u8
@@ -403,6 +475,8 @@ https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-name="无线新闻" group-title="港澳台",TVB无线新闻台
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/profile_1/0553b7f0feaa415684dd864cb1710976/chunklist_ssaiV.m3u8
+#EXTINF:-1 tvg-name="澳门卫视" group-title="港澳台",澳门卫视
+http://61.244.22.4/ch3/ch3.live/chunklist_w415594313.m3u8
 
 #EXTINF:-1 tvg-name="NHK WORLD" group-title="日本",NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
