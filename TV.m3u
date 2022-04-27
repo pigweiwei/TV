@@ -35,23 +35,24 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-高尔夫网球
-http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CETV4空中课堂
-http://txycsbl.centv.cn/zb/0104cetv4.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-风云足球
+#EXTINF:-1 tvg-name="中数风云足球" group-title="央视",CCTV-风云足球
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514202.m3u8
+#EXTINF:-1 tvg-name="中数高尔夫网球" group-title="央视",CCTV-高尔夫网球
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
+#EXTINF:-1 tvg-name="空中课堂" group-title="央视",CETV4空中课堂
+http://txycsbl.centv.cn/zb/0104cetv4.m3u8
+
 #EXTINF:-1 tvg-name="咪咕体育" group-title="体育",咪咕体育
 http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CGTN-NEWS
+#EXTINF:-1 tvg-name="CGTN-NEWS" group-title="央视",CGTN-NEWS
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CGTN-西班牙语
+#EXTINF:-1 tvg-name="CGTN-西班牙语" group-title="央视",CGTN-西班牙语
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CGTN-法语
+#EXTINF:-1 tvg-name="CGTN-法语" group-title="央视",CGTN-法语
 https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CGTN-纪录片
+#EXTINF:-1 tvg-name="CGTN 纪录(英)" group-title="央视",CGTN-纪录片
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CGTN-阿拉伯语
+#EXTINF:-1 tvg-name="CGTN-阿拉伯语" group-title="央视",CGTN-阿拉伯语
 https://livear.cgtn.com/1000a/prog_index.m3u8
 
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视",东方卫视
@@ -127,7 +128,7 @@ https://hw-stream.kksmg.com/live/ylpd7bf15f94.m3u8?auth_key=1650971983-99386087-
 https://hw-stream.kksmg.com/live/dycj93ba5ac7.m3u8?auth_key=1650972050-66295740-0-d81a5cb102ec2f4dd9f0f5fd90b12f45&se=kankan&ct=2&_mode=1&_cp=1&_fk=9A07BD61042C894ECED24C864929800E82C7AC55807873609CB27ADEEBFD6C23&ts=1650964847&rand=51b8131d2fdf9b6d8dc1ee2d8152a47b
 #EXTINF:-1 tvg-name="上海纪实" group-title="上海",纪实人文
 http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" group-title="上海",哈哈炫动
+#EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿",哈哈炫动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
 #EXTINF:-1 tvg-name="点掌财经" group-title="上海",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
