@@ -130,9 +130,9 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="上海",哈哈炫动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
 
-#EXTINF:-1 tvg-name="民生休闲" group-title="浙江",民生休闲
+#EXTINF:-1 tvg-name="民生休闲" group-title="浙江",浙江台-民生休闲
 http://yd-vl.cztv.com/channels/lantian/channel06/720p.m3u8
-#EXTINF:-1 tvg-name="新闻频道" group-title="浙江",新闻频道
+#EXTINF:-1 tvg-name="新闻频道" group-title="浙江",浙江新闻频道
 http://yd-vl.cztv.com/channels/lantian/channel07/720p.m3u8
 #EXTINF:-1 tvg-name="钱江都市" group-title="浙江",钱江都市
 http://yd-vl.cztv.com/channels/lantian/channel02/720p.m3u8
