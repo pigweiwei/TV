@@ -1,7 +1,7 @@
 #EXTM3U
 <!-- 好趣网http://tv.haoqu99.com -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wikijoo/LOGO/main/cctv-1.png" group-title="央视",CCTV-1-综合频道
-http://stream10.fjtv.net/cctv1/hd/live.m3u8?_upt=ed36a0801650971493
+http://stream10.fjtv.net/cctv1/hd/live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wikijoo/LOGO/main/cctv-3.png" group-title="央视",CCTV-3-综艺频道
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wikijoo/LOGO/main/cctv-5.png" group-title="央视",CCTV-5-体育频道
@@ -51,25 +51,25 @@ https://hw-stream.kksmg.com/live/jspd49d251f8.m3u8?auth_key=1650972108-12529244-
 
 <!-- 中国蓝TVhttp://tv.cztv.com/live1 -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="卫视",浙江卫视
-http://yd-vl.cztv.com/channels/lantian/channel01/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=acb2cda5061864dd26417c6e6cc471eb&t=1650963253
+http://yd-vl.cztv.com/channels/lantian/channel01/720p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江-钱江都市
-http://yd-vl.cztv.com/channels/lantian/channel02/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=134c0bd7e7e55d7fce32e3a302934f00&t=1650980390
+http://yd-vl.cztv.com/channels/lantian/channel02/720p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江—经济生活
-http://yd-vl.cztv.com/channels/lantian/channel03/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=7fc10f7d3de7591892c08a75a2c419ae&t=1650963543
+http://yd-vl.cztv.com/channels/lantian/channel03/720p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江—科教影视
-http://yd-vl.cztv.com/channels/lantian/channel04/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=5b38825985f7dd72f91e6be2f00d32e2&t=1650963676
+http://yd-vl.cztv.com/channels/lantian/channel04/720p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级","浙江",浙江—民生休闲
 http://yd-vl.cztv.com/channels/lantian/channel06/720p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级","浙江",浙江—新闻频道
-http://yd-vl.cztv.com/channels/lantian/channel07/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=1996288a3ffa364272942bd285e8f6a6&t=1650963824
+http://yd-vl.cztv.com/channels/lantian/channel07/720p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="少儿","浙江",浙江—少儿频道
-http://yd-vl.cztv.com/channels/lantian/channel08/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=ed4ca5a015dea0953059b7ee2b5f7b40&t=1650980488
+http://yd-vl.cztv.com/channels/lantian/channel08/720p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江—国际频道
-http://yd-vl.cztv.com/channels/lantian/channel10/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=cd8371660925c5c38dcec95cd8953794&t=1650963965
+http://yd-vl.cztv.com/channels/lantian/channel10/720p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江—好易购
-http://yd-vl.cztv.com/channels/lantian/channel11/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=5683265053ba0ce4d0cf11466cf42d8c&t=1650964017
+http://yd-vl.cztv.com/channels/lantian/channel11/720p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江—数码时代
-http://yd-vl.cztv.com/channels/lantian/channel12/720p.m3u8?a=1000&d=2e81e5ce97d2a771861cbe3b0c492876&k=fede82b298eec9a09e8ee96cebb3aeb4&t=1650964046
+http://yd-vl.cztv.com/channels/lantian/channel12/720p.m3u8
 <!-- 中国蓝TVhttp://tv.cztv.com/live1 -->
 
 <!-- 北京时间https://www.btime.com/btv/btvsy_index -->
