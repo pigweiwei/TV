@@ -1,5 +1,4 @@
 #EXTM3U
-<!-- 好趣网http://tv.haoqu99.com -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wikijoo/LOGO/main/cctv-1.png" group-title="央视",CCTV-1-综合频道
 http://stream10.fjtv.net/cctv1/hd/live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wikijoo/LOGO/main/cctv-3.png" group-title="央视",CCTV-3-综艺频道
@@ -32,10 +31,8 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CGTN-阿拉伯语
 https://livear.cgtn.com/1000a/prog_index.m3u8
-<!-- 好趣网http://tv.haoqu99.com -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",兰溪网
 https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
-<!-- 看看新闻https://live.kankanews.com/huikan/ -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="卫视",东方卫视
 https://aliyun-stream.kksmg.com/live/dfws.m3u8?auth_key=1650971694-66745611-0-3dfccde1b374439f54faab23feb0e23b&se=kankan&ct=7&_mode=1&_cp=1&_fk=0807A1528A9B08D10E0A123A0546D1BF898C809A8E818B07DA6534FAB8718CDA&ts=1650964491&rand=4f9b20a209cea6ca543235b3fb865729
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",东方卫视-新闻综合
@@ -48,9 +45,6 @@ https://hw-stream.kksmg.com/live/ylpd7bf15f94.m3u8?auth_key=1650971983-99386087-
 https://hw-stream.kksmg.com/live/dycj93ba5ac7.m3u8?auth_key=1650972050-66295740-0-d81a5cb102ec2f4dd9f0f5fd90b12f45&se=kankan&ct=2&_mode=1&_cp=1&_fk=9A07BD61042C894ECED24C864929800E82C7AC55807873609CB27ADEEBFD6C23&ts=1650964847&rand=51b8131d2fdf9b6d8dc1ee2d8152a47b
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",东方卫视-纪实人文
 https://hw-stream.kksmg.com/live/jspd49d251f8.m3u8?auth_key=1650972108-12529244-0-f67ddbae1720187390da1104c04bec32&se=kankan&ct=2&_mode=1&_cp=1&_fk=97EF0624C4F69557AEF938361BFF75A3C8C09EF4A7150955359046D1B08DDDFA&ts=1650964905&rand=5f7fe0643415cf0bf50a31ae4552c6ec
-<!-- 看看新闻https://live.kankanews.com/huikan/ -->
-
-<!-- 中国蓝TVhttp://tv.cztv.com/live1 -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="卫视",浙江卫视
 http://yd-vl.cztv.com/channels/lantian/channel01/720p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江-钱江都市
@@ -71,9 +65,6 @@ http://yd-vl.cztv.com/channels/lantian/channel10/720p.m3u8
 http://yd-vl.cztv.com/channels/lantian/channel11/720p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",浙江—数码时代
 http://yd-vl.cztv.com/channels/lantian/channel12/720p.m3u8
-<!-- 中国蓝TVhttp://tv.cztv.com/live1 -->
-
-<!-- 北京时间https://www.btime.com/btv/btvsy_index -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="卫视",北京卫视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1650947021&sign=efe87ae3b1b4744e18bdd4877699496d
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",BRTV-文艺频道
@@ -92,9 +83,6 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=165
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1650952476&sign=0a53ee9d950eb078904ec34f12105910
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="少儿",卡酷少儿
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1650952508&sign=92acad62f4835d1fc3c4a9e6e560e3d0
-<!-- 北京时间https://www.btime.com/btv/btvsy_index -->
-
-<!-- 齐鲁网http://v.iqilu.com/ -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="卫视",山东卫视
 https://livealone302.iqilu.com/iqilu/sdtv0000.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",山东-新闻频道
@@ -109,8 +97,6 @@ https://livealone302.iqilu.com/iqilu/shpd0000.m3u8
 https://livealone302.iqilu.com/iqilu/typd0000.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="省级",山东-齐鲁频道
 https://livealone302.iqilu.com/iqilu/qlpd0000.m3u8
-<!-- 齐鲁网http://v.iqilu.com/ -->
-<!-- 好趣网http://tv.haoqu99.com -->
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="港澳台",香港开电视
 https://d2l48urtvrbpot.cloudfront.net/out/v1/e721fbca66cb4116a29dff568b7d86d1/index_1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="港澳台",凤凰卫视中文台
@@ -121,5 +107,5 @@ https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="港澳台",TVB无线新闻台
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/profile_1/0553b7f0feaa415684dd864cb1710976/chunklist_ssaiV.m3u8
-<!-- 好趣网http://tv.haoqu99.com -->
+
 
