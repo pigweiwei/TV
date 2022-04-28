@@ -7,7 +7,7 @@ http://111.20.106.13:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视",CCTV-2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视",CCTV-2备
-http://111.20.106.13:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+http://39.136.48.19:8089/PLTV/88888888/224/3221225751/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" group-title="央视",CCTV-3
 http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" group-title="央视",CCTV-3（备）
