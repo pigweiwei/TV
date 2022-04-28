@@ -309,6 +309,8 @@ https://livealone302.iqilu.com/iqilu/shpd0000.m3u8
 #EXTINF:-1 tvg-name="山东体育" group-title="山东",体育频道
 https://livealone302.iqilu.com/iqilu/typd0000.m3u8
 
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="湖南",金鹰纪实
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="云溪新闻综合" group-title="湖南",云溪新闻综合
 http://liveplay.rednet.cn/live/yunxi_tv.m3u8
 #EXTINF:-1 tvg-name="娄底综合" group-title="湖南",娄底综合
@@ -557,3 +559,19 @@ http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-
 http://111.20.106.13:6610/yinhe/2/ch00000090990000002285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="MAX极速汽车" group-title="其他" group-title="体育",MAX极速汽车
 http://111.20.106.13:6610/yinhe/2/ch00000090990000002286/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="悦美生活" group-title="其他",悦美生活
+http://111.20.106.13:6610/yinhe/2/ch00000090990000002325/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="精彩电视剧" group-title="其他",精彩电视剧
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="精彩综艺" group-title="其他",精彩综艺
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="其他",CHC家庭影院
+http://111.20.106.13:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="CHC高清电影" group-title="其他",CHC高清电影
+http://111.20.106.13:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="其他",CHC动作电影
+http://111.20.106.13:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="全纪实" group-title="其他",全纪实
+http://111.20.106.13:6610/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="都市剧场" group-title="其他",都市剧场
+http://111.20.106.13:6610/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
