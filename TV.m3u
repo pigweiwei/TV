@@ -364,16 +364,20 @@ http://stream1.huaihai.tv/ggpd/playlist.m3u8
 #EXTINF:-1 tvg-name="靖江新闻"  group-title="江苏",靖江新闻
 http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CCTV1" group-title="山东",新闻频道
+#EXTINF:-1 tvg-name="山东新闻" group-title="山东",山东新闻
 https://livealone302.iqilu.com/iqilu/ggpd0000.m3u8
-#EXTINF:-1 tvg-name="山东齐鲁" group-title="山东",山东-齐鲁频道
+#EXTINF:-1 tvg-name="山东齐鲁" group-title="山东",山东-齐鲁
 https://livealone302.iqilu.com/iqilu/qlpd0000.m3u8
-#EXTINF:-1 tvg-name="山东综艺" group-title="山东",综艺频道
+#EXTINF:-1 tvg-name="山东综艺" group-title="山东",山东综艺
 https://livealone302.iqilu.com/iqilu/zypd0000.m3u8
-#EXTINF:-1 tvg-name="山东生活" group-title="山东",生活频道
+#EXTINF:-1 tvg-name="山东生活" group-title="山东",山东生活
 https://livealone302.iqilu.com/iqilu/shpd0000.m3u8
-#EXTINF:-1 tvg-name="山东体育" group-title="山东",体育频道
+#EXTINF:-1 tvg-name="山东体育" group-title="山东"group-title="体育",体育频道
 https://livealone302.iqilu.com/iqilu/typd0000.m3u8
+#EXTINF:-1 tvg-name="山东农科" group-title="山东",山东农科
+https://livealone302.iqilu.com/iqilu/nkpd0000.m3u8
+#EXTINF:-1 tvg-name="山东文旅" group-title="山东",山东文旅
+https://livealone302.iqilu.com/iqilu/yspd0000.m3u8
 
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="湖南",金鹰纪实
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
@@ -382,9 +386,9 @@ http://liveplay.rednet.cn/live/yunxi_tv.m3u8
 #EXTINF:-1 tvg-name="娄底综合" group-title="湖南",娄底综合
 http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
 
-#EXTINF:-1 tvg-name="九江公共频道" group-title="山东",九江公共频道
+#EXTINF:-1 tvg-name="九江公共频道" group-title="江西",九江公共频道
 http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
-#EXTINF:-1 tvg-name="九江新闻综合" group-title="山东",九江新闻综合
+#EXTINF:-1 tvg-name="九江新闻综合" group-title="江西",九江新闻综合
 http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8
 
 #EXTINF:-1 tvg-name="重庆移动" group-title="重庆",重庆移动
