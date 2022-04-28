@@ -416,17 +416,17 @@ http://stream2.jlntv.cn/baishan1/sd/live.m3u8?_upt=a07c98681651079649
 #EXTINF:-1 tvg-name="白城新闻综合" group-title="吉林",白城新闻综合
 http://stream2.jlntv.cn/baicheng1/sd/live.m3u8?_upt=49e676b61651079713
 
-#EXTINF:-1 tvg-name="西安新闻综合" group-title="陕西",西安新闻综合
+#EXTINF:-1 tvg-name="西安新闻综合" group-title="陕西",西安-新闻综合
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-#EXTINF:-1 tvg-name="西安都市频道" group-title="陕西",西安都市频道
+#EXTINF:-1 tvg-name="西安都市频道" group-title="陕西",西安-都市频道
 http://stream2.xiancity.cn/xatv2/sd/live.m3u8
-#EXTINF:-1 tvg-name="西安商务资讯" group-title="陕西",西安商务资讯
+#EXTINF:-1 tvg-name="西安商务资讯" group-title="陕西",西安-商务资讯
 http://stream2.xiancity.cn/xatv3/sd/live.m3u8
-#EXTINF:-1 tvg-name="西安影视频道" group-title="陕西",西安影视频道
+#EXTINF:-1 tvg-name="西安影视频道" group-title="陕西",西安-影视频道
 http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-#EXTINF:-1 tvg-name="西安丝路频道" group-title="陕西",西安丝路频道
+#EXTINF:-1 tvg-name="西安丝路频道" group-title="陕西",西安-丝路频道
 http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-#EXTINF:-1 tvg-name="西安移动电视" group-title="陕西",西安移动电视
+#EXTINF:-1 tvg-name="西安移动电视" group-title="陕西",西安-移动电视
 http://stream2.xiancity.cn/xatv7/sd/live.m3u8
 
 #EXTINF:-1 tvg-name="福州一套" group-title="福建",福州一套
@@ -437,20 +437,20 @@ http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1 tvg-name="漳州一套" group-title="福建",漳州一套
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
-#EXTINF:-1 tvg-name="漳浦数字" group-title="福建",漳浦数字
+#EXTINF:-1 tvg-name="漳浦数字" group-title="福建",漳浦-数字
 http://220.161.87.62:8800/hls/0/index.m3u8
-#EXTINF:-1 tvg-name="漳浦综合" group-title="福建",漳浦综合
+#EXTINF:-1 tvg-name="漳浦综合" group-title="福建",漳浦-综合
 http://220.161.87.62:8800/hls/1/index.m3u8
 
-#EXTINF:-1 tvg-name="昆明公共频道" group-title="云南",昆明公共频道
+#EXTINF:-1 tvg-name="昆明公共频道" group-title="云南",昆明-公共频道
 http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
-#EXTINF:-1 tvg-name="昆明科学教育频道" group-title="云南",昆明科学交易频道
+#EXTINF:-1 tvg-name="昆明科学教育频道" group-title="云南",昆明-科学教育频道
 http://wshls.live.migucloud.com/live/ZBXWIMTD_C0_2/playlist.m3u8
-#EXTINF:-1 tvg-name="昆明文体娱乐频道" group-title="云南",昆明文体娱乐频道
+#EXTINF:-1 tvg-name="昆明文体娱乐频道" group-title="云南",昆明-文体娱乐频道
 http://wshls.live.migucloud.com/live/6KN3ZB2S_C0_2/playlist.m3u8
-#EXTINF:-1 tvg-name="迪庆新闻综合" group-title="云南",迪庆新闻综合
+#EXTINF:-1 tvg-name="迪庆新闻综合" group-title="云南",迪庆-新闻综合
 http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="迪庆藏语" group-title="云南",迪庆藏语
+#EXTINF:-1 tvg-name="迪庆藏语" group-title="云南",迪庆-藏语
 http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="麻栗坡" group-title="云南",麻栗坡
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
@@ -481,48 +481,48 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 #EXTINF:-1 tvg-name="NHK Chinese Vision" group-title="日本",NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NewTV电竞" group-title="未来电视" group-title="体育",NewTV电竞
+#EXTINF:-1 tvg-name="NewTV电竞" group-title="未来电视" group-title="体育",NewTV-电竞
 http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级综艺" group-title="未来电视",NewTV超级综艺
+#EXTINF:-1 tvg-name="NewTV超级综艺" group-title="未来电视",NewTV-超级综艺
 http://39.134.115.163:8080/PLTV/88888910/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-name="NewTV动作电影" group-title="未来电视",NewTV动作电影
+#EXTINF:-1 tvg-name="NewTV动作电影" group-title="未来电视",NewTV-动作电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" group-title="未来电视",NewTV爱情喜剧
+#EXTINF:-1 tvg-name="NewTV爱情喜剧" group-title="未来电视",NewTV-爱情喜剧
 http://39.134.115.163:8080/PLTV/88888910/224/3221225748/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级电视剧" group-title="未来电视",NewTV超级电视剧
+#EXTINF:-1 tvg-name="NewTV超级电视剧" group-title="未来电视",NewTV-超级电视剧
 http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级电影" group-title="未来电视",NewTV超级电影
+#EXTINF:-1 tvg-name="NewTV超级电影" group-title="未来电视",NewTV-超级电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
-#EXTINF:-1 tvg-name="NewTV江西" group-title="未来电视",NewTV江西
+#EXTINF:-1 tvg-name="NewTV江西" group-title="未来电视",NewTV-江西
 http://39.134.115.163:8080/PLTV/88888910/224/3221225979/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级体育" group-title="未来电视" group-title="体育",NewTV超级体育
+#EXTINF:-1 tvg-name="NewTV超级体育" group-title="未来电视" group-title="体育",NewTV-超级体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-#EXTINF:-1 tvg-name="NewTV金牌综艺" group-title="未来电视",NewTV金牌综艺
+#EXTINF:-1 tvg-name="NewTV金牌综艺" group-title="未来电视",NewTV-金牌综艺
 http://39.134.115.163:8080/PLTV/88888910/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" group-title="未来电视",NewTV惊悚悬疑
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" group-title="未来电视",NewTV-惊悚悬疑
 http://39.134.115.163:8080/PLTV/88888910/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品大剧" group-title="未来电视",NewTV精品大剧
+#EXTINF:-1 tvg-name="NewTV精品大剧" group-title="未来电视",NewTV-精品大剧
 http://39.134.115.163:8080/PLTV/88888910/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品记录" group-title="未来电视",NewTV精品记录
+#EXTINF:-1 tvg-name="NewTV精品记录" group-title="未来电视",NewTV-精品记录
 http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品体育" group-title="未来电视" group-title="体育",NewTV精品体育
+#EXTINF:-1 tvg-name="NewTV精品体育" group-title="未来电视" group-title="体育",NewTV-精品体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
-#EXTINF:-1 tvg-name="NewTV古装剧场" group-title="未来电视",NewTV古装剧场
+#EXTINF:-1 tvg-name="NewTV古装剧场" group-title="未来电视",NewTV-古装剧场
 http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
-#EXTINF:-1 tvg-name="NewTV农业致富" group-title="未来电视",NewTV农业致富
+#EXTINF:-1 tvg-name="NewTV农业致富" group-title="未来电视",NewTV-农业致富
 http://39.134.115.163:8080/PLTV/88888910/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-name="NewTV炫舞未来" group-title="未来电视",NewTV炫舞未来
+#EXTINF:-1 tvg-name="NewTV炫舞未来" group-title="未来电视",NewTV-炫舞未来
 http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军旅剧场" group-title="未来电视",NewTV军旅剧场
+#EXTINF:-1 tvg-name="NewTV军旅剧场" group-title="未来电视",NewTV-军旅剧场
 http://39.134.115.163:8080/PLTV/88888910/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-name="NewTV中国功夫" group-title="未来电视",NewTV中国功夫
+#EXTINF:-1 tvg-name="NewTV中国功夫" group-title="未来电视",NewTV-中国功夫
 http://39.134.115.163:8080/PLTV/88888910/224/3221225660/index.m3u8
 
-#EXTINF:-1 tvg-name="咪咕体育" group-title="体育",咪咕体育
+#EXTINF:-1 tvg-name="咪咕体育" group-title="体育",咪咕-体育
 http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 tvg-name="黑莓电影" group-title="其他",黑莓电影
+#EXTINF:-1 tvg-name="黑莓电影" group-title="其他",黑莓-电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
-#EXTINF:-1 tvg-name="黑莓动画" group-title="其他",黑莓动画
+#EXTINF:-1 tvg-name="黑莓动画" group-title="其他",黑莓-动画
 http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-name="明星大片" group-title="其他",明星大片
 http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
