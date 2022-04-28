@@ -187,6 +187,11 @@ http://live.wifizs.cn/ggsh/sd/live.m3u8
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 #EXTINF:-1 tvg-name="兰溪新闻综合" group-title="浙江",兰溪新闻综合
 https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 tvg-name="兰溪兰江大桥实时" group-title="浙江",兰溪兰江大桥实时
+https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 tvg-name="兰溪溪西实时" group-title="浙江",兰溪溪西实时
+https://l.cztvcloud.com/channels/lantian/SXlanxi3/720p.m3u8
+
 #EXTINF:-1 tvg-name="缙云新闻综合" group-title="浙江",缙云新闻综合
 http://l.cztvcloud.com:80/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1 tvg-name="余姚姚江文化" group-title="浙江",余姚姚江文化
