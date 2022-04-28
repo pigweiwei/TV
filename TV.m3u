@@ -128,6 +128,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8
 #EXTINF:-1 tvg-name="山东少儿" group-title="少儿",山东-少儿频道
 https://livealone302.iqilu.com/iqilu/sepd0000.m3u8
+#EXTINF:-1 tvg-name="福州少儿" group-title="少儿",福州少儿
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿",哈哈炫动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
 
@@ -435,8 +437,6 @@ http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 #EXTINF:-1 tvg-name="福州三套" group-title="福建",福州三套
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
-#EXTINF:-1 tvg-name="福州少儿" group-title="少儿",福州少儿
-http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-name="漳州一套" group-title="福建",漳州一套
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 #EXTINF:-1 tvg-name="漳浦数字" group-title="福建",漳浦数字
