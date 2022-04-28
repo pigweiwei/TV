@@ -483,7 +483,7 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NewTV电竞" group-title="未来电视" group-title="体育",NewTV-电竞
 http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级综艺" group-title="未来电视",NewTV--超级综艺
+#EXTINF:-1 tvg-name="NewTV超级综艺" group-title="未来电视",NewTV -- 超级综艺
 http://39.134.115.163:8080/PLTV/88888910/224/3221225620/index.m3u8
 #EXTINF:-1 tvg-name="NewTV动作电影" group-title="未来电视",NewTV---动作电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225671/index.m3u8
