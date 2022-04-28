@@ -76,7 +76,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" group-title="卫视" group-title="重庆",重庆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
-#EXTINF:-1 tvg-name="旅游卫视" group-title="卫视" group-title="旅游",旅游卫视
+#EXTINF:-1 tvg-name="旅游卫视" group-title="卫视" group-title="海南",旅游卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" group-title="卫视", group-title="山东"山东卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
