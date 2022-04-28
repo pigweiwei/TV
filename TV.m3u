@@ -32,7 +32,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
-#EXTINF:-1 tvg-name="空中课堂" group-title="央视",CETV4空中课堂
+#EXTINF:-1 tvg-name="空中课堂" group-title="央视",CETV4-空中课堂
 http://txycsbl.centv.cn/zb/0104cetv4.m3u8
 
 #EXTINF:-1 tvg-name="CGTN-NEWS" group-title="央视",CGTN-NEWS
