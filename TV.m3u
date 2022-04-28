@@ -7,10 +7,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" group-title="央视",CCTV-4
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" group-title="央视" group-title="体育",CCTV-5
-http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" group-title="央视" group-title="体育",CCTV-5+
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" group-title="央视",CCTV-6
 http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" group-title="央视",CCTV-7
@@ -35,9 +31,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-name="中数风云足球" group-title="央视" group-title="体育",CCTV-风云足球
-http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514202.m3u8
-#EXTINF:-1 tvg-name="中数高尔夫网球" group-title="央视" group-title="体育",CCTV-高尔夫网球
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
 #EXTINF:-1 tvg-name="空中课堂" group-title="央视",CETV4空中课堂
 http://txycsbl.centv.cn/zb/0104cetv4.m3u8
@@ -53,68 +46,76 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-name="CGTN-阿拉伯语" group-title="央视",CGTN-阿拉伯语
 https://livear.cgtn.com/1000a/prog_index.m3u8
 
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视",东方卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" group-title="卫视",东南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视",北京卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视",广东卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视",广西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视",贵州卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" group-title="卫视",河北卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视",湖北卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
-#EXTINF:-1 tvg-name="卫视" group-title="卫视",湖南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视" group-title="浙江",浙江卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视",吉林卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视",江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视" group-title="江苏",江苏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" group-title="卫视",江西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视",安徽卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视",重庆卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
-#EXTINF:-1 tvg-name="旅游卫视" group-title="卫视",旅游卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
-#EXTINF:-1 tvg-name="青海卫视" group-title="卫视",青海卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视",山东卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视",山西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视",陕西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视",深圳卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视",四川卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" group-title="卫视",天津卫视
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视" group-title="上海",东方卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视" group-title="福建",东南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视" group-title="北京",北京卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视" group-title="天津",天津卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视",西藏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视",新疆卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" group-title="卫视",云南卫视
+#EXTINF:-1 tvg-name="卫视" group-title="卫视" group-title="湖南",湖南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视" group-title="广东",广东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视" group-title="广东",深圳卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视" group-title="贵州",贵州卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视" group-title="河北",河北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视" group-title="湖北",湖北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视" group-title="江西",江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视" group-title="安徽",安徽卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视" group-title="重庆",重庆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-name="旅游卫视" group-title="卫视" group-title="旅游",旅游卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视", group-title="山东"山东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视" group-title="山西",山西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视" group-title="陕西",陕西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视" group-title="吉林",吉林卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视" group-title="辽宁",辽宁卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视" group-title="黑龙江",黑龙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视" group-title="四川",四川卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视" group-title="广西",广西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视" group-title="云南",云南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视" group-title="内蒙古",内蒙古卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视" group-title="甘肃",甘肃卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视" group-title="宁夏",宁夏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" group-title="卫视" group-title="青海",青海卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视" group-title="新疆",新疆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视" group-title="西藏",西藏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视" group-title="体育",CCTV-5
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视" group-title="体育",CCTV-5+
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-name="中数风云足球" group-title="央视" group-title="体育",CCTV-风云足球
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514202.m3u8
+#EXTINF:-1 tvg-name="中数高尔夫网球" group-title="央视" group-title="体育",CCTV-高尔夫网球
 
 #EXTINF:-1 tvg-name="优漫卡通" group-title="少儿",优漫卡通
 http://39.134.115.163:8080/PLTV/88888910/224/3221225665/index.m3u8
