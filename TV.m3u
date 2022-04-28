@@ -223,7 +223,7 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=165
 #EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-新闻频道
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1650952476&sign=0a53ee9d950eb078904ec34f12105910
 
-#EXTINF:-1 tvg-name="安徽综艺"  group-title="安徽",安徽综艺
+#EXTINF:-1 tvg-name="安徽综艺体育"  group-title="安徽",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 tvg-name="芜湖新闻综合"  group-title="安徽",芜湖新闻综合
 http://live1.wuhubtv.com/channel1/sd/live.m3u8
