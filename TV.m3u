@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-0
-http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-1（备）
@@ -192,7 +190,7 @@ http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
 
 #EXTINF:-1 tvg-name="东方影视" group-title="上海",东方影视
-http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="东方财经" group-title="上海",东方财经
 http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="都市频道" group-title="上海",都市频道
