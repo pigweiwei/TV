@@ -1,5 +1,4 @@
 #EXTM3U
-央视,#genre#
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-1（备）
@@ -70,7 +69,6 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-name="CGTN-阿拉伯语" group-title="央视",CGTN-阿拉伯语
 https://livear.cgtn.com/1000a/prog_index.m3u8
 
-卫视台,#genre#
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视" group-title="浙江",浙江卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视" group-title="浙江",浙江卫视（备）
@@ -162,7 +160,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" group-title="卫视" group-title="西藏",西藏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 
-体育频道,#genre#
 #EXTINF:-1 tvg-name="CCTV5" group-title="央视" group-title="体育",CCTV-5
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" group-title="央视" group-title="体育",CCTV-5（备）
@@ -175,7 +172,6 @@ http://111.20.106.13:6610/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomai
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514202.m3u8
 #EXTINF:-1 tvg-name="中数高尔夫网球" group-title="央视" group-title="体育",CCTV-高尔夫网球
 
-少儿频道,#genre#
 #EXTINF:-1 tvg-name="优漫卡通" group-title="少儿",优漫卡通
 http://39.134.115.163:8080/PLTV/88888910/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-name="浙江少儿频道" group-title="少儿",浙江少儿频道
@@ -193,7 +189,6 @@ http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿",哈哈炫动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
 
-上海市,#genre#
 #EXTINF:-1 tvg-name="东方影视" group-title="上海",东方影视
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="东方财经" group-title="上海",东方财经
