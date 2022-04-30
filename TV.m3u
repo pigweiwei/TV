@@ -624,14 +624,10 @@ http://61.244.22.4/ch2/ch2.live/index.m3u8
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-name="GOOD TV 综合" group-title="港澳台",GOOD TV 综合
 http://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-name="GOOD TV 真情部落格" group-title="港澳台",GOOD TV 真情部落格
-http://live.streamingfast.net/osmflivech3.m3u8
 #EXTINF:-1 tvg-name="GOOD TV 共享观点" group-title="港澳台",GOOD TV 共享观点
 http://live.streamingfast.net/osmflivech5.m3u8
 #EXTINF:-1 tvg-name="GOOD TV 美食旅游" group-title="港澳台",GOOD TV 美食旅游
 http://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 tvg-name="GOOD TV 健康新煮流" group-title="港澳台",GOOD TV 健康新煮流
-http://live.streamingfast.net/osmflivech13.m3u8
 #EXTINF:-1 tvg-name="GOOD TV 家庭8点档" group-title="港澳台",GOOD TV 家庭8点档
 http://live.streamingfast.net/osmflivech40.m3u8
 
