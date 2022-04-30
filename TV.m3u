@@ -689,6 +689,14 @@ http://ios-stream.qvc.de/qvc.m3u8
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1 tvg-name="意大利Radio Iglesias" group-title="世界",意大利Radio Iglesias
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1 tvg-name="意大利Radio Italia TV" group-title="世界",意大利Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1 tvg-name="意大利SuperTV" group-title="世界",意大利SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 tvg-name="意大利telePAVIA" group-title="世界",意大利telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1 tvg-name="意大利TVRS" group-title="世界",意大利TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 
 #EXTINF:-1 tvg-name="Arirang" group-title="韩国",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
