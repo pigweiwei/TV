@@ -518,18 +518,22 @@ http://stream2.jlntv.cn/baicheng1/sd/live.m3u8?_upt=49e676b61651079713
 http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 #EXTINF:-1 tvg-name="南宁公共" group-title="广西",南宁公共
 http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+#EXTINF:-1 tvg-name="钦州综合" group-title="广西",钦州综合
+http://stream.gxqztv.com/01/sd/live.m3u8
+#EXTINF:-1 tvg-name="桂平综合" group-title="广西",桂平综合
+https://p2.weizan.cn/1483720625/592579884798131053/live.m3u8
 
-#EXTINF:-1 tvg-name="西安新闻综合" group-title="陕西",西安-新闻综合
+#EXTINF:-1 tvg-name="西安新闻综合" group-title="陕西",西安新闻综合
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-#EXTINF:-1 tvg-name="西安都市频道" group-title="陕西",西安-都市频道
+#EXTINF:-1 tvg-name="西安都市频道" group-title="陕西",西安都市频道
 http://stream2.xiancity.cn/xatv2/sd/live.m3u8
-#EXTINF:-1 tvg-name="西安商务资讯" group-title="陕西",西安-商务资讯
+#EXTINF:-1 tvg-name="西安商务资讯" group-title="陕西",西安商务资讯
 http://stream2.xiancity.cn/xatv3/sd/live.m3u8
-#EXTINF:-1 tvg-name="西安影视频道" group-title="陕西",西安-影视频道
+#EXTINF:-1 tvg-name="西安影视频道" group-title="陕西",西安影视频道
 http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-#EXTINF:-1 tvg-name="西安丝路频道" group-title="陕西",西安-丝路频道
+#EXTINF:-1 tvg-name="西安丝路频道" group-title="陕西",西安丝路频道
 http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-#EXTINF:-1 tvg-name="西安移动电视" group-title="陕西",西安-移动电视
+#EXTINF:-1 tvg-name="西安移动电视" group-title="陕西",西安移动电视
 http://stream2.xiancity.cn/xatv7/sd/live.m3u8
 #EXTINF:-1 tvg-name="佛坪电视台" group-title="陕西",佛坪电视台
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001929/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
@@ -618,6 +622,25 @@ http://61.244.22.4/ch1/ch1.live/index.m3u8
 http://61.244.22.4/ch2/ch2.live/index.m3u8
 #EXTINF:-1 tvg-name="原住民电视" group-title="港澳台",原住民电视
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-name="GOOD TV 综合" group-title="港澳台",GOOD TV 综合
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-name="GOOD TV 真情部落格" group-title="港澳台",GOOD TV 真情部落格
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1 tvg-name="GOOD TV 共享观点" group-title="港澳台",GOOD TV 共享观点
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1 tvg-name="GOOD TV 美食旅游" group-title="港澳台",GOOD TV 美食旅游
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1 tvg-name="GOOD TV 健康新煮流" group-title="港澳台",GOOD TV 健康新煮流
+http://live.streamingfast.net/osmflivech13.m3u8
+#EXTINF:-1 tvg-name="GOOD TV 家庭8点档" group-title="港澳台",GOOD TV 家庭8点档
+http://live.streamingfast.net/osmflivech40.m3u8
+
+#EXTINF:-1 tvg-name="Fox News Talk Radio" group-title="美国",Fox News Talk Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 tvg-name="Newsmax TV" group-title="美国",Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="Red Bull TV" group-title="美国",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-name="NHK WORLD" group-title="日本",NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -650,6 +673,22 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-name="TNT SPORTS 4" group-title="世界",TNT SPORTS 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-name="越南ANTV" group-title="世界",越南ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 tvg-name="德国Baden TV" group-title="世界",德国Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-name="德国MDF.1" group-title="世界",德国MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1 tvg-name="德国Noa 4 Norderstedt" group-title="世界",德国Noa 4 Norderstedt
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-name="德国Noa 4 Hamburg" group-title="世界",德国Noa 4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-name="德国QVC" group-title="世界",德国QVC
+http://ios-stream.qvc.de/qvc.m3u8
+#EXTINF:-1 tvg-name="意大利Canale 7" group-title="世界",意大利Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1 tvg-name="意大利Radio Iglesias" group-title="世界",意大利Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Arirang" group-title="韩国",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -729,10 +768,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-name="中国气象" group-title="其他",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 tvg-name="好消息一套" group-title="其他",好消息一套
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1 tvg-name="好消息二套" group-title="其他",好消息二套
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1 tvg-name="圆点生活" group-title="其他",圆点生活
 http://111.20.106.13:6610/yinhe/2/ch00000090990000002285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="MAX极速汽车" group-title="其他" group-title="体育",MAX极速汽车
