@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-1 综合
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-#EXTINF:-1 tvg-name="CCTV2" group-title="央视",CCTV-2
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视",CCTV-2 财经
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-#EXTINF:-1 tvg-name="CCTV3" group-title="央视",CCTV-3
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视",CCTV-3 综艺
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="央视",CCTV-4
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-#EXTINF:-1 tvg-name="CCTV5" group-title="央视",CCTV-5
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视",CCTV-5 体育
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" group-title="央视",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视",CCTV-5+ 体育赛事
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
-#EXTINF:-1 tvg-name="CCTV6" group-title="央视",CCTV-6
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视",CCTV-6 电影
 http://39.135.32.28:6610/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV7" group-title="央视",CCTV-7
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视",CCTV-7 国防军事
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
-#EXTINF:-1 tvg-name="CCTV8" group-title="央视",CCTV-8
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视",CCTV-8 电视剧
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
-#EXTINF:-1 tvg-name="CCTV9" group-title="央视",CCTV-9
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视",CCTV-9 记录
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
-#EXTINF:-1 tvg-name="CCTV10" group-title="央视",CCTV-10
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视",CCTV-10 科教
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
-#EXTINF:-1 tvg-name="CCTV11" group-title="央视",CCTV-11
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视",CCTV-11 戏曲
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
-#EXTINF:-1 tvg-name="CCTV12" group-title="央视",CCTV-12
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视",CCTV-12 社会与法
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
-#EXTINF:-1 tvg-name="CCTV13" group-title="央视",CCTV-13
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视",CCTV-13 新闻
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-#EXTINF:-1 tvg-name="CCTV14" group-title="央视",CCTV-14
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视",CCTV-14 少儿
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
-#EXTINF:-1 tvg-name="CCTV15" group-title="央视",CCTV-15
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视",CCTV-15 音乐
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
-#EXTINF:-1 tvg-name="CCTV16" group-title="央视" group-title="体育",CCTV-16
+#EXTINF:-1 tvg-name="CCTV16" group-title="央视" group-title="体育",CCTV-16 奥林匹克
 http://111.20.106.13:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 tvg-name="CCTV17" group-title="央视",CCTV-17
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视",CCTV-17 农业农村
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204202.m3u8
 #EXTINF:-1 tvg-name="中数风云足球" group-title="央视" group-title="体育",CCTV-风云足球
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514202.m3u8
 #EXTINF:-1 tvg-name="CCTV-高尔夫·网球" group-title="央视",CCTV-高尔夫·网球
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
-#EXTINF:-1 tvg-name="CCTV4欧洲" group-title="央视",CCTV-4欧洲
+#EXTINF:-1 tvg-name="CCTV4EUO" group-title="央视",CCTV-4 欧洲
 http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4美洲" group-title="央视",CCTV-4美洲
+#EXTINF:-1 tvg-name="CCTV4AME" group-title="央视",CCTV-4 美洲
 http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
