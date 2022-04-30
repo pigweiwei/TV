@@ -714,8 +714,6 @@ http://stream.haixitv.cn/1/sd/live.m3u8
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="港澳台",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-name="无线新闻" group-title="港澳台",TVB无线新闻台
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/profile_1/0553b7f0feaa415684dd864cb1710976/chunklist_ssaiV.m3u8
 #EXTINF:-1 tvg-name="香港卫视" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港开电视" group-title="港澳台",香港开电视
@@ -967,5 +965,5 @@ https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
 http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
 #EXTINF:-1 tvg-name="广西柳州" group-title="直播中国",广西柳州
 https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-name="南宁" group-title="直播中国" group-title="央视",广西南宁
+#EXTINF:-1 tvg-name="南宁" group-title="直播中国",广西南宁
 http://gcbsc.v.live.baishancdnx.cn/gc/hsxkscj_1/index.m3u8
