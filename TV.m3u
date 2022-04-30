@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="央视14", group-title="央视13",CCTV-12HD
+#EXTINF:-1 group-title="央视14" group-title="央视13",CCTV-12HD
 http://39.134.65.181/PLTV/88888888/224/3221225669/1.m3u8
 
 #EXTINF:-1 group-title="央视35" "央视26",CCTV-13HD
@@ -6,3 +6,6 @@ http://39.134.65.181/PLTV/88888888/224/3221225669/1.m3u8
 
 #EXTINF:-1 group-title="央视", group-title="zhejiang",CCTV-13HD
 http://39.134.65.183/PLTV/88888888/224/3221225812/1.m3u8
+
+#EXTINF:-1 group-title=("央视""央视3"),CCTV-13HD
+https://jwcdnqx.hebyun.com.cn/live/CCTVtest13/1500k/tzwj_video.m3u8
