@@ -47,7 +47,6 @@ http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" group-title="央视",CCTV-8K
 http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
-
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视" group-title="浙江",浙江卫视
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视" group-title="江苏",江苏卫视
@@ -114,10 +113,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" group-title="卫视" group-title="西藏",西藏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
-
 #EXTINF:-1 tvg-name="劲爆体育" group-title="体育",劲爆体育
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-
 #EXTINF:-1 tvg-name="优漫卡通" group-title="少儿",优漫卡通
 http://39.134.115.163:8080/PLTV/88888910/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-name="浙江少儿频道" group-title="少儿",浙江少儿频道
@@ -134,7 +131,6 @@ https://livealone302.iqilu.com/iqilu/sepd0000.m3u8
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿",哈哈炫动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
-
 #EXTINF:-1 tvg-name="第一财经" group-title="上海",第一财经
 http://111.40.196.9/PLTV/88888888/224/3221225497/index.m3u8
 #EXTINF:-1 tvg-name="东方影视" group-title="上海",东方影视
