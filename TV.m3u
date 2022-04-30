@@ -587,7 +587,7 @@ https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/53240
 #EXTINF:-1 tvg-name="香港卫视" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港开电视" group-title="港澳台",香港开电视
-https://d2l48urtvrbpot.cloudfront.net/out/v1/e721fbca66cb4116a29dff568b7d86d1/index_1.m3u8
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-name="耀才财经台" group-title="港澳台",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-name="台视新闻" group-title="港澳台",台视新闻
@@ -699,6 +699,14 @@ http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 #EXTINF:-1 tvg-name="意大利TVRS" group-title="世界",意大利TVRS
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1 tvg-name="伊拉克 Al Sharqiya" group-title="世界",伊拉克 Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-name="伊拉克 Sharqiya News" group-title="世界",伊拉克 Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-name="哥斯达黎加 Telesur" group-title="世界",哥斯达黎加 Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-name="哥斯达黎加 Extrema TV" group-title="世界",哥斯达黎加 Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Arirang" group-title="韩国",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
