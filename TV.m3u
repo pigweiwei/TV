@@ -7,12 +7,10 @@ http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
 #EXTINF:-1 tvg-name="CCTV4" group-title="央视",CCTV-4
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-#EXTINF:-1 tvg-name="CCTV4欧洲" group-title="央视",CCTV-4欧洲
-http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4美洲" group-title="央视",CCTV-4美洲
-http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" group-title="央视",CCTV-5
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视",CCTV-5+
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
 #EXTINF:-1 tvg-name="CCTV6" group-title="央视",CCTV-6
 http://39.135.32.28:6610/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="CCTV7" group-title="央视",CCTV-7
@@ -36,25 +34,20 @@ http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
 #EXTINF:-1 tvg-name="CCTV16" group-title="央视" group-title="体育",CCTV-16
 http://111.20.106.13:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="CCTV17" group-title="央视",CCTV-17
-http://111.20.106.13:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204202.m3u8
+#EXTINF:-1 tvg-name="中数风云足球" group-title="央视" group-title="体育",CCTV-风云足球
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514202.m3u8
+#EXTINF:-1 tvg-name="CCTV-高尔夫·网球" group-title="央视",CCTV-高尔夫·网球
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
+#EXTINF:-1 tvg-name="CCTV4欧洲" group-title="央视",CCTV-4欧洲
+http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4美洲" group-title="央视",CCTV-4美洲
+http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" group-title="央视",CCTV-8K
 http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-高尔夫·网球" group-title="央视",CCTV-高尔夫·网球
-http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
-#EXTINF:-1 tvg-name="空中课堂" group-title="央视",CETV-空中课堂
-http://txycsbl.centv.cn/zb/0104cetv4.m3u8
-#EXTINF:-1 tvg-name="CGTN-NEWS" group-title="央视",CGTN-NEWS
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-name="CGTN-西班牙语" group-title="央视",CGTN-西班牙语
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-name="CGTN-法语" group-title="央视",CGTN-法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 tvg-name="CGTN 纪录(英)" group-title="央视",CGTN-纪录片
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-name="CGTN-阿拉伯语" group-title="央视",CGTN-阿拉伯语
-https://livear.cgtn.com/1000a/prog_index.m3u8
+
 
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视" group-title="浙江",浙江卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
@@ -147,16 +140,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" group-title="卫视" group-title="西藏",西藏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV5" group-title="央视" group-title="体育",CCTV-5
-http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" group-title="央视" group-title="体育",CCTV-5（备）
-http://111.20.106.13:6610/yinhe/2/ch00000090990000001592/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 tvg-name="CCTV5+" group-title="央视" group-title="体育",CCTV-5+
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" group-title="央视" group-title="体育",CCTV-5+（备）
-http://111.20.106.13:6610/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 tvg-name="中数风云足球" group-title="央视" group-title="体育",CCTV-风云足球
-http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514202.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" group-title="央视" group-title="体育",劲爆体育
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 
@@ -992,6 +975,18 @@ http://111.20.106.13:6610/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomai
 http://183.214.126.200:3003/live/qsjl/index.m3u8
 #EXTINF:-1 tvg-name="快乐购" group-title="其他",快乐购
 http://39.135.138.58:18890/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-name="空中课堂" group-title="其他",CETV-空中课堂
+http://txycsbl.centv.cn/zb/0104cetv4.m3u8
+#EXTINF:-1 tvg-name="CGTN-NEWS" group-title="其他",CGTN-NEWS
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN-西班牙语" group-title="其他",CGTN-西班牙语
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN-法语" group-title="其他",CGTN-法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN 纪录(英)" group-title="其他",CGTN-纪录片
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN-阿拉伯语" group-title="其他",CGTN-阿拉伯语
+https://livear.cgtn.com/1000a/prog_index.m3u8
 
 #EXTINF:-1 tvg-name="北京-水长城01" group-title="直播中国",北京-水长城01
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
