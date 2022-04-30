@@ -40,9 +40,9 @@ http://111.20.106.13:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" group-title="央视",CCTV-8K
-http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
-#EXTINF:-1 tvg-name="CCTV-高尔夫·网球" group-title="央视",CCTV-高尔夫·网球
 http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-高尔夫·网球" group-title="央视",CCTV-高尔夫·网球
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
 #EXTINF:-1 tvg-name="空中课堂" group-title="央视",CETV-空中课堂
 http://txycsbl.centv.cn/zb/0104cetv4.m3u8
 #EXTINF:-1 tvg-name="CGTN-NEWS" group-title="央视",CGTN-NEWS
