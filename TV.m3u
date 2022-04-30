@@ -114,27 +114,53 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" group-title="央视卫视",西藏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 
-#EXTINF:-1 tvg-name="劲爆体育" group-title="体育",劲爆体育
-http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-
-#EXTINF:-1 tvg-name="CCTV14" group-title="少儿",CCTV-14 少儿
+#EXTINF:-1 tvg-name="CCTV14" group-title="少儿动画",CCTV-14 少儿
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" group-title="少儿",优漫卡通
+#EXTINF:-1 tvg-name="黑莓动画" group-title="少儿动画",黑莓动画
+http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" group-title="少儿动画",优漫卡通
 http://39.134.115.163:8080/PLTV/88888910/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-name="浙江少儿频道" group-title="少儿",浙江少儿频道
+#EXTINF:-1 tvg-name="浙江少儿频道" group-title="少儿动画",浙江少儿频道
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-#EXTINF:-1 tvg-name="卡酷动画" group-title="少儿",卡酷动画
+#EXTINF:-1 tvg-name="卡酷动画" group-title="少儿动画",卡酷动画
 http://39.134.115.163:8080/PLTV/88888910/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿动画",金鹰卡通
 http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
-#EXTINF:-1 tvg-name="南京少儿频道"  group-title="少儿",南京少儿频道
+#EXTINF:-1 tvg-name="南京少儿频道"  group-title="少儿动画",南京少儿频道
 http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8
-#EXTINF:-1 tvg-name="山东少儿" group-title="少儿",山东-少儿频道
+#EXTINF:-1 tvg-name="山东少儿" group-title="少儿动画",山东-少儿频道
 https://livealone302.iqilu.com/iqilu/sepd0000.m3u8
-#EXTINF:-1 tvg-name="福州少儿" group-title="少儿",福州少儿
+#EXTINF:-1 tvg-name="福州少儿" group-title="少儿动画",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿",哈哈炫动
+#EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿动画",哈哈炫动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5" group-title="体育竞技",CCTV-5 体育
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" group-title="体育竞技",CCTV-5+ 体育赛事
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
+#EXTINF:-1 tvg-name="劲爆体育" group-title="体育竞技",劲爆体育
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV16" group-title="体育竞技",CCTV-16 奥林匹克
+http://111.20.106.13:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="中数风云足球" group-title="体育竞技",CCTV-风云足球
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514202.m3u8
+#EXTINF:-1 tvg-name="CCTV-高尔夫·网球" group-title="体育竞技",CCTV-高尔夫·网球
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
+#EXTINF:-1 tvg-name="五星体育" group-title="体育竞技",五星体育
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="北京东奥纪实" group-title="体育竞技",北京东奥纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="山东体育" group-title="体育竞技",体育频道
+https://livealone302.iqilu.com/iqilu/typd0000.m3u8
+#EXTINF:-1 tvg-name="NewTV电竞" group-title="体育竞技",NewTV-电竞
+http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级体育" group-title="体育竞技",NewTV-超级体育
+http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+#EXTINF:-1 tvg-name="咪咕体育" group-title="体育竞技",咪咕-体育
+http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 tvg-name="体育赛事" group-title="体育竞技",体育赛事
+http://39.134.65.181/PLTV/88888888/224/3221225706/1.m3u8
 
 #EXTINF:-1 tvg-name="第一财经" group-title="上海",第一财经
 http://111.40.196.9/PLTV/88888888/224/3221225497/index.m3u8
@@ -156,7 +182,7 @@ http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-name="上海外语" group-title="上海",上海外语
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="五星体育" group-title="上海" group-title="体育",五星体育
+#EXTINF:-1 tvg-name="五星体育" group-title="上海",五星体育
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="嘉定电视台" group-title="上海",嘉定电视台
 https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
@@ -350,8 +376,6 @@ http://play-sh.quklive.com/live/1626327731714170.m3u8
 #EXTINF:-1 tvg-name="青田电视台" group-title="浙江",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
-#EXTINF:-1 tvg-name="北京东奥纪实" group-title="北京",北京东奥纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-文艺频道
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1650951977&sign=6155735ebb379fa44cbbd5f120f4d4e1
 #EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-科教频道
@@ -366,6 +390,8 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=165
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=1650952433&sign=9cdc45e9972659eaeb0212a13635101e
 #EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-新闻频道
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1650952476&sign=0a53ee9d950eb078904ec34f12105910
+#EXTINF:-1 tvg-name="北京东奥纪实" group-title="北京",北京东奥纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 
 #EXTINF:-1 tvg-name="安徽综艺体育"  group-title="安徽",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
@@ -514,7 +540,7 @@ https://livealone302.iqilu.com/iqilu/qlpd0000.m3u8
 https://livealone302.iqilu.com/iqilu/zypd0000.m3u8
 #EXTINF:-1 tvg-name="山东生活" group-title="山东",山东生活
 https://livealone302.iqilu.com/iqilu/shpd0000.m3u8
-#EXTINF:-1 tvg-name="山东体育" group-title="山东"group-title="体育",体育频道
+#EXTINF:-1 tvg-name="山东体育" group-title="山东",体育频道
 https://livealone302.iqilu.com/iqilu/typd0000.m3u8
 #EXTINF:-1 tvg-name="山东农科" group-title="山东",山东农科
 https://livealone302.iqilu.com/iqilu/nkpd0000.m3u8
@@ -551,8 +577,6 @@ http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 http://qxlmlive.cbg.cn:1935/app_2/ls_35.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="潼南综合" group-title="重庆",潼南综合
 http://183.230.184.51:65500/tntv1.m3u8
-#EXTINF:-1 tvg-name="蓬安一套" group-title="重庆",蓬安一套
-http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 #EXTINF:-1 tvg-name="万州综合" group-title="重庆",万州综合
 http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
 
@@ -866,7 +890,7 @@ http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 tvg-name="KBS World" group-title="韩国",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-name="NewTV电竞" group-title="未来电视" group-title="体育",NewTV-电竞
+#EXTINF:-1 tvg-name="NewTV电竞" group-title="未来电视",NewTV-电竞
 http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-name="NewTV超级综艺" group-title="未来电视",NewTV-超级综艺
 http://39.134.115.163:8080/PLTV/88888910/224/3221225620/index.m3u8
@@ -882,7 +906,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225666/index.m3u8
 #EXTINF:-1 tvg-name="NewTV江西" group-title="未来电视",NewTV-江西
 http://39.134.115.163:8080/PLTV/88888910/224/3221225979/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级体育" group-title="未来电视" group-title="体育",NewTV-超级体育
+#EXTINF:-1 tvg-name="NewTV超级体育" group-title="未来电视",NewTV-超级体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 #EXTINF:-1 tvg-name="NewTV金牌综艺" group-title="未来电视",NewTV-金牌综艺
 http://39.134.115.163:8080/PLTV/88888910/224/3221225711/index.m3u8
@@ -915,12 +939,9 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225708/index.m3u8
 #EXTINF:-1 tvg-name="NewTV热播精选" group-title="未来电视",NewTV-热播精选
 http://39.134.65.162/PLTV/88888888/224/3221225521/1.m3u8
 
-#EXTINF:-1 tvg-name="咪咕体育" group-title="体育",咪咕-体育
 http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" group-title="其他",黑莓-电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
-#EXTINF:-1 tvg-name="黑莓动画" group-title="其他",黑莓-动画
-http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-name="明星大片" group-title="其他",明星大片
 http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-name="纯享4K" group-title="其他",纯享4K
