@@ -27,7 +27,7 @@ http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
 #EXTINF:-1 tvg-name="CCTV13" group-title="央视",CCTV-13 新闻
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-#EXTINF:-1 tvg-name="CCTV14" group-title="央视",CCTV-14 少儿
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视",group-title="少儿",CCTV-14 少儿
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
 #EXTINF:-1 tvg-name="CCTV15" group-title="央视",CCTV-15 音乐
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
