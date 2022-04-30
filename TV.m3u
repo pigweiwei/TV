@@ -31,7 +31,7 @@ http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
 #EXTINF:-1 tvg-name="CCTV15" group-title="央视",CCTV-15 音乐
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
-#EXTINF:-1 tvg-name="CCTV16" group-title="央视" group-title="体育",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-name="CCTV16" group-title="央视"group-title="体育",CCTV-16 奥林匹克
 http://111.20.106.13:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="CCTV17" group-title="央视",CCTV-17 农业农村
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204202.m3u8
