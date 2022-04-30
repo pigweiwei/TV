@@ -82,6 +82,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" group-title="卫视" group-title="湖北",湖北卫视
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="海南卫视" group-title="卫视" group-title="海南",海南卫视
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
 #EXTINF:-1 tvg-name="山西卫视" group-title="卫视" group-title="山西",山西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" group-title="卫视" group-title="陕西",陕西卫视
@@ -94,6 +96,8 @@ http://111.20.106.13:6610/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomai
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="四川卫视" group-title="卫视" group-title="四川",四川卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视" group-title="河南",河南卫视
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
 #EXTINF:-1 tvg-name="广西卫视" group-title="卫视" group-title="广西",广西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" group-title="卫视" group-title="云南",云南卫视
