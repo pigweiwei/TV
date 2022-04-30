@@ -47,9 +47,9 @@ http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" group-title="央视",CCTV-8K
 http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视" group-title="浙江",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视",浙江卫视
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视" group-title="江苏",江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视",江苏卫视
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视" group-title="上海",东方卫视
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
@@ -161,6 +161,8 @@ http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m
 #EXTINF:-1 tvg-name="嘉定电视台" group-title="上海",嘉定电视台
 https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 
+#EXTINF:-1 tvg-name="浙江卫视" group-title="浙江",浙江卫视
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="浙江民生休闲" group-title="浙江",浙江民生休闲
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" group-title="浙江",浙江新闻
@@ -469,6 +471,8 @@ https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
 #EXTINF:-1 tvg-name="阳江二套"  group-title="广东",阳江二套
 https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8
 
+#EXTINF:-1 tvg-name="江苏卫视" group-title="江苏",江苏卫视
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="南京新闻综合"  group-title="江苏",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="南京教科频道"  group-title="江苏",南京教科频道
