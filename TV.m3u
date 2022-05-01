@@ -376,22 +376,65 @@ http://play-sh.quklive.com/live/1626327731714170.m3u8
 #EXTINF:-1 tvg-name="青田电视台" group-title="浙江",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
-#EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-文艺频道
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1650951977&sign=6155735ebb379fa44cbbd5f120f4d4e1
-#EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-科教频道
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1650952202&sign=23a336c2279071c21729c8a4d6c4cfba
-#EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-影视频道
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1650952259&sign=3f6df2d52f78b2a9ad5762c8a04f2a63
-#EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-财经频道
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1650952316&sign=dbd6224b2d8fe42527f705871062e11a
-#EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-i生活
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1650952369&sign=eedb656722507cdfc6f33e46a276239f
-#EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-青年频道
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=1650952433&sign=9cdc45e9972659eaeb0212a13635101e
+#EXTINF:-1 tvg-name="北京卫视" group-title="北京",北京卫视
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-新闻频道
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1650952476&sign=0a53ee9d950eb078904ec34f12105910
+http://pull.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-财经
+http://pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-文艺
+http://pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-科教
+http://71pull.btvcloud.com/brtv2021channel/2021kjchannellive3.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-影视
+http://pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-生活
+http://pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="北京",BRTV-青年频道
+http://pull.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
 #EXTINF:-1 tvg-name="北京东奥纪实" group-title="北京",北京东奥纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="卡酷动画" group-title="北京",卡酷动画
+http://39.134.115.163:8080/PLTV/88888910/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="北京IPTV萌宠TV" group-title="北京",北京IPTV萌宠TV
+http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOSDD3mErwuVWF5DqfHIW%2FMQ%3D%3D%3A20211105223205%2C10000100000000050000000003887495%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-name="北京IPTV淘baby" group-title="北京",北京IPTV淘baby
+http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-name="北京IPTV淘电影" group-title="北京",北京IPTV淘电影
+http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND
+#EXTINF:-1 tvg-name="北京IPTV淘娱乐" group-title="北京"北京IPTV淘娱乐
+http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-name="四海钓鱼" group-title="北京",四海钓鱼
+http://117.148.179.160/PLTV/88888888/224/3221231718/index.m3u8
+#EXTINF:-1 tvg-name="环球旅游" group-title="北京",环球旅游
+http://117.148.179.160/PLTV/88888888/224/3221231712/index.m3u8
+#EXTINF:-1 tvg-name="京视剧场" group-title="北京",京视剧场
+http://111.20.33.93/PLTV/88888893/224/3221226243/index.m3u8
+#EXTINF:-1 tvg-name="中华特产" group-title="北京",中华特产
+http://39.136.48.2:8089/PLTV/88888888/224/3221226340/index.m3u8
+#EXTINF:-1 tvg-name="通州电视台" group-title="北京",通州电视台
+http://pull.dayuntongzhou.com/live/tztv.m3u8
+#EXTINF:-1 tvg-name="房山无线" group-title="北京",房山无线
+http://live.funhillrm.com/2/sd/live.m3u8
+#EXTINF:-1 tvg-name="房山有线" group-title="北京",房山有线
+http://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1 tvg-name="顺义一套" group-title="北京",顺义一套
+http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388eaa14736b03bcd6cfd1d294ba1
+#EXTINF:-1 tvg-name="昌平电视台" group-title="北京",昌平电视台
+http://61.50.142.158/live/0.m3u8
+#EXTINF:-1 tvg-name="清华大学电视台" group-title="北京",清华大学电视台
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+#EXTINF:-1 tvg-name="中国国际教育1" group-title="北京",中国国际教育1
+http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+#EXTINF:-1 tvg-name="中国国际教育2" group-title="北京",中国国际教育2
+http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+#EXTINF:-1 tvg-name="中国国际教育3" group-title="北京",中国国际教育3
+http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+#EXTINF:-1 tvg-name="中国国际教育4" group-title="北京",中国国际教育4
+http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+#EXTINF:-1 tvg-name="中国国际教育4" group-title="北京",中国国际教育4
+http://12371alic.v.myalicdn.com/12371/dangyuanwang_1/index.m3u8
 
 #EXTINF:-1 tvg-name="安徽综艺体育"  group-title="安徽",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
