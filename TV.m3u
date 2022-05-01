@@ -811,16 +811,6 @@ http://stream1.jlntv.cn/xcpd/playlist.m3u8?_upt=5f2ff2dc1578416455
 http://stream1.jlntv.cn/ggpd/playlist.m3u8?_upt=f83e9b1e1578416483
 #EXTINF:-1 tvg-name="东北戏曲" group-title="吉林",东北戏曲
 http://stream1.jlntv.cn/dbxq/playlist.m3u8?_upt=4324704f1578416540
-#EXTINF:-1 tvg-name="长春电视台" group-title="吉林",长春电视台
-http://stream2.jlntv.cn/jlcc/sd/live.m3u8?_upt=c2fdae301651079490
-#EXTINF:-1 tvg-name="四平一套" group-title="吉林",四平一套
-http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=778693f21651079543
-#EXTINF:-1 tvg-name="通化一套" group-title="吉林",通化一套
-http://stream2.jlntv.cn/tonghua1/sd/live.m3u8?_upt=7ce5e32a1651079613
-#EXTINF:-1 tvg-name="白山新闻综合" group-title="吉林",白山新闻综合
-http://stream2.jlntv.cn/baishan1/sd/live.m3u8?_upt=a07c98681651079649
-#EXTINF:-1 tvg-name="白城新闻综合" group-title="吉林",白城新闻综合
-http://stream2.jlntv.cn/baicheng1/sd/live.m3u8?_upt=49e676b61651079713
 
 #EXTINF:-1 tvg-name="南宁影视娱乐" group-title="广西",南宁影视娱乐
 http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
