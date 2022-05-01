@@ -894,6 +894,10 @@ http://stream1.jlntv.cn/ggpd/playlist.m3u8?_upt=f83e9b1e1578416483
 #EXTINF:-1 tvg-name="东北戏曲" group-title="吉林",东北戏曲
 http://stream1.jlntv.cn/dbxq/playlist.m3u8?_upt=4324704f1578416540
 
+#EXTINF:-1 tvg-name="广西卫视" group-title="广西",广西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="广西",广西卫视
+http://111.59.63.32:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="南宁影视娱乐" group-title="广西",南宁影视娱乐
 http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 #EXTINF:-1 tvg-name="南宁公共" group-title="广西",南宁公共
@@ -902,6 +906,20 @@ http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 http://stream.gxqztv.com/01/sd/live.m3u8
 #EXTINF:-1 tvg-name="桂平综合" group-title="广西",桂平综合
 https://p2.weizan.cn/1483720625/592579884798131053/live.m3u8
+#EXTINF:-1 tvg-name="梧州新闻综合" group-title="广西",梧州新闻综合
+http://39.135.32.6:6610/PLTV/77777777/224/3221225989/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="梧州公共频道" group-title="广西",梧州公共频道
+http://139.186.37.10/hoge/gxwztv-23.m3u8
+#EXTINF:-1 tvg-name="梧州教育生活" group-title="广西",梧州教育生活
+http://139.186.37.10/hoge/gxwztv-15.m3u8
+#EXTINF:-1 tvg-name="玉林新闻综合" group-title="广西",玉林新闻综合
+http://39.135.32.28:6610/PLTV/77777777/224/3221225838/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="玉林公共" group-title="广西",玉林公共
+http://39.135.32.28:6610/PLTV/77777777/224/3221225835/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="河池新闻综合" group-title="广西",河池新闻综合
+http://39.135.32.6:6610/PLTV/77777777/224/3221225844/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="河池教育" group-title="广西",河池教育
+http://39.135.32.6:6610/PLTV/77777777/224/3221225890/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-name="西安新闻综合" group-title="陕西",西安新闻综合
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
