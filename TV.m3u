@@ -127,7 +127,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿动画",金鹰卡通
 http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 #EXTINF:-1 tvg-name="南京少儿"  group-title="少儿动画",南京少儿
-http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="山东少儿" group-title="少儿动画",山东-少儿
 https://livealone302.iqilu.com/iqilu/sepd0000.m3u8
 #EXTINF:-1 tvg-name="福州少儿" group-title="少儿动画",福州少儿
@@ -650,6 +650,8 @@ http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
 http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 #EXTINF:-1 tvg-name="南京信息频道"  group-title="江苏",南京信息频道
 http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
+#EXTINF:-1 tvg-name="南京少儿"  group-title="江苏",南京少儿
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="靖江新闻"  group-title="江苏",靖江新闻
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-name="张家港新闻综合"  group-title="江苏",张家港新闻综合
