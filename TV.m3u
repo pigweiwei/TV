@@ -920,6 +920,62 @@ http://39.135.32.28:6610/PLTV/77777777/224/3221225835/index.m3u8?servicetype=1&I
 http://39.135.32.6:6610/PLTV/77777777/224/3221225844/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="河池教育" group-title="广西",河池教育
 http://39.135.32.6:6610/PLTV/77777777/224/3221225890/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="北海新闻综合" group-title="广西",北海新闻综合
+http://njgdmm-wshls.homecdn.com/live/4e8a2.m3u8
+#EXTINF:-1 tvg-name="北海经济科教" group-title="广西",北海经济科教
+https://cdn.gdlive.gdmain.com/live/lnyxz495.m3u8
+#EXTINF:-1 tvg-name="贺州综合" group-title="广西",贺州综合
+http://39.135.32.6:6610/PLTV/77777777/224/3221225847/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="百色综合" group-title="广西",百色综合
+http://39.135.32.28:6610/PLTV/77777777/224/3221225900/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="百色公共" group-title="广西",百色公共
+http://39.135.32.28:6610/PLTV/77777777/224/3221225877/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="来宾综合" group-title="广西",来宾综合
+http://39.135.32.6:6610/PLTV/77777777/224/3221225903/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="钦州综合" group-title="广西",钦州综合
+http://stream.gxqztv.com/01/sd/live.m3u8
+#EXTINF:-1 tvg-name="钦州公共" group-title="广西",钦州公共
+http://stream.gxqztv.com/qztv03/sd/live.m3u8
+#EXTINF:-1 tvg-name="灌阳综合" group-title="广西",灌阳综合
+https://cdn.gdlive.gdmain.com/live/02kzyoy0.m3u8
+#EXTINF:-1 tvg-name="宾阳电视台" group-title="广西",宾阳电视台
+https://live-cdn.gxxw.com/gx/binyang/index.m3u8
+#EXTINF:-1 tvg-name="横州电视台" group-title="广西",横州电视台
+https://p2.weizan.cn/2041524912/188521657846778207/live.m3u8
+#EXTINF:-1 tvg-name="隆安电视台" group-title="广西",隆安电视台
+http://hls.nntv.cn/nnlive/LATV_A.m3u8
+#EXTINF:-1 tvg-name="马山电视台" group-title="广西",马山电视台
+http://hls.nntv.cn/nnlive/MSTV_A.m3u8
+#EXTINF:-1 tvg-name="上林电视台" group-title="广西",上林电视台
+http://hls.nntv.cn/nnlive/SLTV_A.m3u8
+#EXTINF:-1 tvg-name="龙州综合" group-title="广西",龙州综合
+https://live-cdn.gxxw.com/gx/longzhou/index.m3u8
+#EXTINF:-1 tvg-name="凭祥电视台" group-title="广西",凭祥电视台
+https://live-cdn.gxxw.com/gx/pingxiang/index.m3u8
+#EXTINF:-1 tvg-name="天等电视台" group-title="广西",天等电视台
+https://cdn.gdlive.gdmain.com/live/51g1ap75.m3u8
+#EXTINF:-1 tvg-name="都安电视台" group-title="广西",都安电视台
+https://live-cdn.gxxw.com/gx/duan/index.m3u8
+#EXTINF:-1 tvg-name="罗城新闻综合" group-title="广西",罗城新闻综合
+http://111.12.75.177:9100/lctvlive/lch.m3u8
+#EXTINF:-1 tvg-name="昭平电视台" group-title="广西",昭平电视台
+https://live-cdn.gxxw.com/gx/zhaoping/index.m3u8
+#EXTINF:-1 tvg-name="乐业电视台" group-title="广西",乐业电视台
+https://live-cdn.gxxw.com/gx/leye/index.m3u8
+#EXTINF:-1 tvg-name="凌云电视台" group-title="广西",凌云电视台
+https://cdn.gdlive.gdmain.com/live/09oz9ka0.m3u8
+#EXTINF:-1 tvg-name="那坡电视台" group-title="广西",那坡电视台
+https://cdn.gdlive.gdmain.com/live/l7bxg260.m3u8
+#EXTINF:-1 tvg-name="田东综合" group-title="广西",田东综合
+https://cdn.gdlive.gdmain.com/live/5aj79zp5.m3u8
+#EXTINF:-1 tvg-name="西林电视台" group-title="广西",西林电视台
+https://cdn.gdlive.gdmain.com/live/lj16xrkl.m3u8
+#EXTINF:-1 tvg-name="博白电视台" group-title="广西",博白电视台
+http://live-cdn.gxxw.com/hls/a22/index.m3u8
+#EXTINF:-1 tvg-name="岑溪电视台" group-title="广西",岑溪电视台
+https://cdn.gdlive.gdmain.com/live/02kzy3y0.m3u8
+#EXTINF:-1 tvg-name="融水电视台" group-title="广西",融水电视台
+https://live-cdn.gxxw.com/gx/rongshui/index.m3u8
 
 #EXTINF:-1 tvg-name="西安新闻综合" group-title="陕西",西安新闻综合
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
@@ -935,6 +991,7 @@ http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 http://stream2.xiancity.cn/xatv7/sd/live.m3u8
 #EXTINF:-1 tvg-name="佛坪电视台" group-title="陕西",佛坪电视台
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001929/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+
 
 #EXTINF:-1 tvg-name="东南卫视" group-title="福建",东南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
