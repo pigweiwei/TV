@@ -892,6 +892,44 @@ EXTINF:-1 tvg-name="鹿泉二套" group-title="河北",鹿泉二套
 https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
 EXTINF:-1 tvg-name="安平一套" group-title="河北",安平一套
 http://shou.city1000.cn/live/apxw.m3u8
+EXTINF:-1 tvg-name="枣强综合" group-title="河北",枣强综合
+http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
+EXTINF:-1 tvg-name="昌黎电视台" group-title="河北",昌黎电视台
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+EXTINF:-1 tvg-name="永清综合" group-title="河北",永清综合
+http://60.10.203.69:8000/0.m3u8
+EXTINF:-1 tvg-name="永清影视" group-title="河北",永清影视
+http://60.10.203.69:8000/4.m3u8
+EXTINF:-1 tvg-name="清河一套" group-title="河北",清河一套
+https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+EXTINF:-1 tvg-name="清河二套" group-title="河北",清河二套
+https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+EXTINF:-1 tvg-name="黄骅一套" group-title="河北",黄骅一套
+http://hbhh.chinashadt.com:2111/live/hhtv.stream/playlist.m3u8
+EXTINF:-1 tvg-name="黄骅二套" group-title="河北",黄骅二套
+http://hbhh.chinashadt.com:2111/live/hhtv2.stream/playlist.m3u8
+EXTINF:-1 tvg-name="黄骅影视" group-title="河北",黄骅影视
+http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8
+EXTINF:-1 tvg-name="黄骅渤海新区" group-title="河北",黄骅渤海新区
+http://hbhh.chinashadt.com:2111/live/bhtv.stream/playlist.m3u8
+EXTINF:-1 tvg-name="任丘一套" group-title="河北",任丘一套
+https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+EXTINF:-1 tvg-name="任丘二套" group-title="河北",任丘二套
+https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+EXTINF:-1 tvg-name="望都一套" group-title="河北",望都一套
+https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
+EXTINF:-1 tvg-name="徐水一套" group-title="河北",徐水一套
+https://jwliveqxzb.hebyun.com.cn/jiyunxushui123/jiyunxushui123.m3u8
+EXTINF:-1 tvg-name="丰宁综合" group-title="河北",丰宁综合
+https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
+EXTINF:-1 tvg-name="丰宁娱乐" group-title="河北",丰宁娱乐
+https://jwcdnqx.hebyun.com.cn/live/fengningyulepindao/1500k/tzwj_video.m3u8
+EXTINF:-1 tvg-name="平泉综合" group-title="河北",平泉综合
+https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+EXTINF:-1 tvg-name="平泉影视" group-title="河北",平泉影视
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+EXTINF:-1 tvg-name="兴隆综合" group-title="河北",兴隆综合
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 
 #EXTINF:-1 tvg-name="枣庄新闻综合" group-title="山东",枣庄新闻综合
 http://stream.zzgd.tv/1/playlist.m3u8
