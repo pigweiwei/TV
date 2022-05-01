@@ -126,13 +126,13 @@ http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿动画",金鹰卡通
 http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
-#EXTINF:-1 tvg-name="南京少儿频道"  group-title="少儿动画",南京少儿
+#EXTINF:-1 tvg-name="南京少儿"  group-title="少儿动画",南京少儿
 http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8
 #EXTINF:-1 tvg-name="山东少儿" group-title="少儿动画",山东-少儿
 https://livealone302.iqilu.com/iqilu/sepd0000.m3u8
 #EXTINF:-1 tvg-name="福州少儿" group-title="少儿动画",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1 tvg-name="深圳少儿频道" group-title="少儿",深圳少儿频道
+#EXTINF:-1 tvg-name="深圳少儿" group-title="少儿动画",深圳少儿
 http://ye23.win/iptv/sztv.php?id=7
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿动画",哈哈炫动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
@@ -605,7 +605,7 @@ http://ye23.win/iptv/sztv.php?id=5
 http://ye23.win/iptv/sztv.php?id=3
 #EXTINF:-1 tvg-name="深圳体育健康" group-title="广东",深圳体育健康
 http://ye23.win/iptv/sztv.php?id=12
-#EXTINF:-1 tvg-name="深圳少儿频道" group-title="广东",深圳少儿频道
+#EXTINF:-1 tvg-name="深圳少儿" group-title="广东",深圳少儿
 http://ye23.win/iptv/sztv.php?id=7
 #EXTINF:-1 tvg-name="广州新闻" group-title="广东",广州新闻
 http://ye23.win/iptv/gztv.php?id=xinwen
