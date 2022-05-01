@@ -912,10 +912,72 @@ http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="麻栗坡" group-title="云南",麻栗坡
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="甘肃",甘肃卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1 tvg-name="兰州新闻综合" group-title="甘肃",兰州新闻综合
+http://39.134.32.102:6610/270000001111/1110000328/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="兰州文旅频道" group-title="甘肃",兰州文旅频道
+http://39.134.32.102:6610/270000001111/1110000330/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="兰州生活经济" group-title="甘肃",兰州生活经济
+http://39.134.32.102:6610/270000001111/1110000329/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="酒泉电视台" group-title="甘肃",酒泉电视台
 http://stream.gsjqtv.com/pd1/sd/live.m3u8
+#EXTINF:-1 tvg-name="酒泉公共" group-title="甘肃",酒泉公共
+http://stream.gsjqtv.com/pd2/sd/live.m3u8
 #EXTINF:-1 tvg-name="银川生活" group-title="甘肃",银川生活
 http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
+#EXTINF:-1 tvg-name="白银综合" group-title="甘肃",白银综合
+http://live.bygd.cn/byzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="白银公共" group-title="甘肃",白银公共
+http://live.bygd.cn/bygg/sd/live.m3u8
+#EXTINF:-1 tvg-name="甘南一套" group-title="甘肃",甘南一套
+ttp://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8
+#EXTINF:-1 tvg-name="庆阳综合" group-title="甘肃",庆阳综合
+http://stream.gsqytv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="庆阳公共" group-title="甘肃",庆阳公共
+http://stream.gsqytv.com.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="平凉新闻综合" group-title="甘肃",平凉新闻综合
+http://39.134.32.102:6610/270000001111/1110000021/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="平凉公共" group-title="甘肃",平凉公共
+http://39.134.32.102:6610/270000001111/1110000020/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="敦煌电视台" group-title="甘肃",敦煌电视台
+http://39.134.32.102:6610/270000001111/1110000028/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="张掖新闻" group-title="甘肃",张掖新闻
+http://39.134.32.102:6610/270000001111/1110000025/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="张掖公共" group-title="甘肃",张掖公共
+http://39.134.32.102:6610/270000001111/1110000026/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="天水综合" group-title="甘肃",天水综合
+http://39.134.32.102:6610/270000001111/1110000185/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="天水公共" group-title="甘肃",天水公共
+http://39.134.32.102:6610/270000001111/1110000186/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="金昌电视台" group-title="甘肃",金昌电视台
+http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
+#EXTINF:-1 tvg-name="陇南公共频道" group-title="甘肃",陇南公共频道
+http://live.lnsbigdata.cn/tv/fe6b6c969c113ed894adea3c4287101a.m3u8
+#EXTINF:-1 tvg-name="临夏综合" group-title="甘肃",临夏综合
+http://39.134.32.102:6610/270000001111/1110000191/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="武威新闻综合" group-title="甘肃",武威新闻综合
+http://39.134.32.102:6610/270000001111/1110000174/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="武威凉州频道" group-title="甘肃",武威凉州频道
+http://39.134.32.102:6610/270000001111/1110000173/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="定西综合" group-title="甘肃",定西综合
+https://play.kankanlive.com/live/1645679947087932.m3u8
+#EXTINF:-1 tvg-name="定西公共" group-title="甘肃",定西公共
+https://play.kankanlive.com/live/1645680054929933.m3u8
+#EXTINF:-1 tvg-name="会宁综合" group-title="甘肃",会宁综合
+https://p2.weizan.cn/419307/577613453950840327/live.m3u8
+#EXTINF:-1 tvg-name="景泰电视台" group-title="甘肃",景泰电视台
+http://39.134.32.102:6610/270000001111/1110000132/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="靖远电视台" group-title="甘肃",靖远电视台
+http://39.134.32.102:6610/270000001111/1110000183/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="成县电视台" group-title="甘肃",成县电视台
+http://39.134.32.102:6610/270000001111/1110000019/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="临洮电视台" group-title="甘肃",临洮电视台
+https://play.kankanlive.com/live/1638428318510977.m3u8
+#EXTINF:-1 tvg-name="玉门电视台" group-title="甘肃",玉门电视台
+http://39.134.32.102:6610/270000001111/1110000125/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="金川电视台" group-title="甘肃",金川电视台
+https://play.kankanlive.com/live/1625041962958919.m3u8
 
 #EXTINF:-1 tvg-name="海西电视台" group-title="青海",海西电视台
 http://stream.haixitv.cn/1/sd/live.m3u8
