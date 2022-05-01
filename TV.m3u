@@ -120,18 +120,20 @@ http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" group-title="少儿动画",优漫卡通
 http://39.134.115.163:8080/PLTV/88888910/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-name="浙江少儿频道" group-title="少儿动画",浙江少儿频道
+#EXTINF:-1 tvg-name="浙江少儿频道" group-title="少儿动画",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1 tvg-name="卡酷动画" group-title="少儿动画",卡酷动画
 http://39.134.115.163:8080/PLTV/88888910/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿动画",金鹰卡通
 http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
-#EXTINF:-1 tvg-name="南京少儿频道"  group-title="少儿动画",南京少儿频道
+#EXTINF:-1 tvg-name="南京少儿频道"  group-title="少儿动画",南京少儿
 http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8
-#EXTINF:-1 tvg-name="山东少儿" group-title="少儿动画",山东-少儿频道
+#EXTINF:-1 tvg-name="山东少儿" group-title="少儿动画",山东-少儿
 https://livealone302.iqilu.com/iqilu/sepd0000.m3u8
 #EXTINF:-1 tvg-name="福州少儿" group-title="少儿动画",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-name="深圳少儿频道" group-title="少儿",深圳少儿频道
+http://ye23.win/iptv/sztv.php?id=7
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿动画",哈哈炫动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
 
@@ -161,6 +163,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:-1 tvg-name="体育赛事" group-title="体育竞技",体育赛事
 http://39.134.65.181/PLTV/88888888/224/3221225706/1.m3u8
+#EXTINF:-1 tvg-name="深圳体育健康" group-title="体育竞技",深圳体育健康
+http://ye23.win/iptv/sztv.php?id=12
 
 #EXTINF:-1 tvg-name="第一财经" group-title="上海",第一财经
 http://111.40.196.9/PLTV/88888888/224/3221225497/index.m3u8
@@ -583,6 +587,28 @@ http://220.180.24.62:1935/live/live1/playlist.m3u8
 #EXTINF:-1 tvg-name="淮河能源电视台"  group-title="安徽",淮河能源电视台
 http://play.hhnynews.com/hhny/zhpd.m3u8?auth_key=1659380497-0-0-b07e3e3cd99f9355b6aa1e79fbd305f2
 
+#EXTINF:-1 tvg-name="广东卫视" group-title="广东",广东卫视
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="深圳卫视" group-title="广东",深圳卫视
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="广东经济科教" group-title="广东",广东经济科教
+https://pili-live-hls-metoo.v2gogo.com/metoo-live/905db01e5c06496ba128e547bb87158b.m3u8
+#EXTINF:-1 tvg-name="广东文化" group-title="广东",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+#EXTINF:-1 tvg-name="深圳娱乐" group-title="广东",深圳娱乐
+http://ye23.win/iptv/sztv.php?id=6
+#EXTINF:-1 tvg-name="深圳都市频道" group-title="广东",深圳都市频道
+http://ye23.win/iptv/sztv.php?id=2
+#EXTINF:-1 tvg-name="深圳财经生活" group-title="广东",深圳财经生活
+http://ye23.win/iptv/sztv.php?id=5
+#EXTINF:-1 tvg-name="深圳电视剧" group-title="广东",深圳电视剧
+http://ye23.win/iptv/sztv.php?id=3
+#EXTINF:-1 tvg-name="深圳体育健康" group-title="广东",深圳体育健康
+http://ye23.win/iptv/sztv.php?id=12
+#EXTINF:-1 tvg-name="深圳少儿频道" group-title="广东",深圳少儿频道
+http://ye23.win/iptv/sztv.php?id=7
+#EXTINF:-1 tvg-name="广州新闻" group-title="广东",广州新闻
+http://ye23.win/iptv/gztv.php?id=xinwen
 #EXTINF:-1 tvg-name="电白视窗"  group-title="广东",电白视窗
 http://gddb.chinashadt.com:1935/live/video2.stream/chunklist_w790029847.m3u8
 #EXTINF:-1 tvg-name="电白综合"  group-title="广东",电白综合
