@@ -134,6 +134,8 @@ https://livealone302.iqilu.com/iqilu/sepd0000.m3u8
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-name="深圳少儿" group-title="少儿动画",深圳少儿
 http://ye23.win/iptv/sztv.php?id=7
+#EXTINF:-1 tvg-name="黑龙江少儿" group-title="少儿动画",黑龙江少儿
+http://39.134.65.141/PLTV/88888888/224/3221225979/1.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿动画",哈哈炫动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
 
@@ -165,6 +167,8 @@ http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 http://39.134.65.181/PLTV/88888888/224/3221225706/1.m3u8
 #EXTINF:-1 tvg-name="深圳体育健康" group-title="体育竞技",深圳体育健康
 http://ye23.win/iptv/sztv.php?id=12
+#EXTINF:-1 tvg-name="河南武术世界" group-title="体育竞技",河南武术世界
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/ad4e0a79dbac48c2a9c9930cb96a49b9_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
 
 #EXTINF:-1 tvg-name="第一财经" group-title="上海",第一财经
 http://111.40.196.9/PLTV/88888888/224/3221225497/index.m3u8
@@ -808,16 +812,99 @@ http://qxlmlive.cbg.cn:1935/applive/wspd001/chunklist.m3u8
 #EXTINF:-1 tvg-name="西青电视台" group-title="天津",西青电视台
 http://221.238.209.44:81/hls/live1.m3u8
 
+#EXTINF:-1 tvg-name="河南卫视" group-title="河南",河南卫视
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
+#EXTINF:-1 tvg-name="河南都市" group-title="河南",河南都市
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/e775d12dd48d4731ae8bdea77dd1e9f9_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-name="河南民生" group-title="河南",河南民生
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/6b5076ef2e1f4185b629d3d3db4fb476_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-name="河南法治" group-title="河南",河南法治
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/88464421a8cd4ae88199f19b4c27ff0d_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-name="河南电视剧" group-title="河南",河南电视剧
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/af5c15b361b647ec8549eaae815916a0_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-name="河南新闻" group-title="河南",河南新闻
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/0325f1d561144613b9c90adc64ddbdc8_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-name="河南公共" group-title="河南",河南公共
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/64eed945d15c4a55b5962ea3da44f80f_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-name="河南乡村" group-title="河南",河南乡村
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/4ba68fd1b8b442d7a408a260592a5592_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-name="河南国际" group-title="河南",河南国际
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/d7d843b7f7f649d39bc57c8d29e9fe33_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-name="河南睛彩中原" group-title="河南",河南睛彩中原
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/a0ec347a0e3540bab8a80deed0a07139_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-name="河南移动戏曲" group-title="河南",河南移动戏曲
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-name="河南武术世界" group-title="河南",河南武术世界
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/ad4e0a79dbac48c2a9c9930cb96a49b9_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-name="河南梨园" group-title="河南",河南梨园
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/6b32da00ac754c8a8f2e310b22d11fb3_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-name="河南文物宝库" group-title="河南",河南文物宝库
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/edeb8f0314984727a91a3d6e8c03f59b_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-name="郑州新闻综合" group-title="河南",郑州新闻综合
+http://live.zztv.tv/gbds/playlist.m3u8
+#EXTINF:-1 tvg-name="郑州商都频道" group-title="河南",郑州商都频道
+http://live.zztv.tv/zztv2/playlist.m3u8
+#EXTINF:-1 tvg-name="郑州文体旅游" group-title="河南",郑州文体旅游
+http://live.zztv.tv/wtzzly/playlist.m3u8
+#EXTINF:-1 tvg-name="郑州妇女儿童" group-title="河南",郑州妇女儿童
+http://live.zztv.tv/zztv5/playlist.m3u8
+#EXTINF:-1 tvg-name="郑州都市生活" group-title="河南",郑州都市生活
+http://live.zztv.tv/zztv6/playlist.m3u8
+#EXTINF:-1 tvg-name="郑州教育台" group-title="河南",郑州教育台
+https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 #EXTINF:-1 tvg-name="济源一套" group-title="河南",济源一套
 http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 #EXTINF:-1 tvg-name="洛阳新闻综合" group-title="河南",洛阳新闻综合
 http://live1.lytv.com.cn:1935/live/LYTV1-1/playlist.m3u8
+#EXTINF:-1 tvg-name="洛阳科教频道" group-title="河南",洛阳科教频道
+http://wshls.live.migucloud.com/live/3WH8OBTJ_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="洛阳文旅频道" group-title="河南",洛阳文旅频道
+http://wshls.live.migucloud.com/live/G8B61RHW_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="周口新闻综合" group-title="河南",周口新闻综合
+http://tv.zkxww.com:1935/live1/mp4:ch1-500k/playlist.m3u8
 #EXTINF:-1 tvg-name="周口公共频道" group-title="河南",周口公共频道
 http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8
 #EXTINF:-1 tvg-name="周口教育频道" group-title="河南",周口教育频道
 http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8
 #EXTINF:-1 tvg-name="周口图文信息" group-title="河南",周口图文信息
 http://tv.zkxww.com:1935/live4/mp4:ch4-500k/playlist.m3u8
+#EXTINF:-1 tvg-name="安阳新闻综合" group-title="河南",安阳新闻综合
+http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
+#EXTINF:-1 tvg-name="安阳公共" group-title="河南",安阳公共
+http://zhpull.dxhmt.cn:80/anyang/d21bf91860c443caa34c4797d6b0026e/playlist.m3u8
+#EXTINF:-1 tvg-name="安阳科教" group-title="河南",安阳科教
+http://zhpull.dxhmt.cn:80/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
+#EXTINF:-1 tvg-name="焦作综合" group-title="河南",焦作综合
+http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+#EXTINF:-1 tvg-name="焦作公共" group-title="河南",焦作公共
+http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+#EXTINF:-1 tvg-name="焦作教育" group-title="河南",焦作教育
+http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
+#EXTINF:-1 tvg-name="睛彩焦作" group-title="河南",睛彩焦作
+http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
+#EXTINF:-1 tvg-name="开封新闻综合" group-title="河南",开封新闻综合
+http://live.dxhmt.cn:9081/tv/10200-2.m3u8
+#EXTINF:-1 tvg-name="开封文化旅游" group-title="河南",开封文化旅游
+http://live.dxhmt.cn:9081/tv/10200-3.m3u8
+#EXTINF:-1 tvg-name="济源一套" group-title="河南",济源一套
+http://live.dxhmt.cn:9081/tv/19001-1.m3u8
+#EXTINF:-1 tvg-name="驻马店新闻综合" group-title="河南",驻马店新闻综合
+http://tvlive.zmdtvw.cn/live/106770611978226682/index.m3u8
+#EXTINF:-1 tvg-name="平顶山新闻综合" group-title="河南",平顶山新闻综合
+http://live.dxhmt.cn:9080/13619822555/4ce2b9b6947043b388916f748a518953.m3u8
+#EXTINF:-1 tvg-name="平顶山公共频道" group-title="河南",平顶山公共频道
+http://live.dxhmt.cn:9080/13619822555/5cc9016a17a54af6803096eec26fdd74.m3u8
+#EXTINF:-1 tvg-name="清风平顶山" group-title="河南",清风平顶山
+http://live.dxhmt.cn:9080/13619822555/ff0d20a1d7c840a3850bfdab119943ac.m3u8
+#EXTINF:-1 tvg-name="清风平民生频道" group-title="河南",清风平民生频道
+http://live.dxhmt.cn:9080/13619822555/b119d353d9fe4ee0ad34056550705665.m3u8
+#EXTINF:-1 tvg-name="永城新闻" group-title="河南",永城新闻
+http://live.dxhmt.cn:9081/tv/11481-1.m3u8
+#EXTINF:-1 tvg-name="永城民生" group-title="河南",永城民生
+http://live.dxhmt.cn:9081/tv/11481-2.m3u8
+#EXTINF:-1 tvg-name="永城卫建" group-title="河南",永城卫建
+http://tvpull.dxhmt.cn/tv/11481-3.m3u8
+
 
 #EXTINF:-1 tvg-name="成都一套" group-title="四川",成都一套
 http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv1hd&auth=rinimabi
@@ -954,10 +1041,48 @@ http://stream.jzgbdst.cn/2/sd/live.m3u8?_upt=07cad3811578202958
 #EXTINF:-1 tvg-name="锦州公共" group-title="辽宁",锦州公共
 http://stream.jzgbdst.cn/3/sd/live.m3u8?_upt=b7c414761578202967
 
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="黑龙江",黑龙江卫视
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="黑龙江文体" group-title="黑龙江",黑龙江文体
+http://39.134.65.149/PLTV/88888888/224/3221225965/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江新闻法治" group-title="黑龙江新闻法治",黑龙江新闻法治
+http://39.134.65.149/PLTV/88888888/224/3221225967/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江公共农业" group-title="黑龙江",黑龙江公共农业
+http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江影视" group-title="黑龙江",黑龙江影视
+http://39.134.65.149/PLTV/88888888/224/3221225973/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江都市" group-title="黑龙江",黑龙江都市
+http://39.134.65.151/PLTV/88888888/224/3221225969/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江少儿" group-title="黑龙江",黑龙江少儿
+http://39.134.65.141/PLTV/88888888/224/3221225979/1.m3u8
+#EXTINF:-1 tvg-name="哈尔滨新闻综合" group-title="黑龙江",哈尔滨新闻综合
+http://39.134.65.183/PLTV/88888888/224/3221225684/1.m3u8
+#EXTINF:-1 tvg-name="哈尔滨影视" group-title="黑龙江",哈尔滨影视
+http://39.134.65.181/PLTV/88888888/224/3221225700/1.m3u8
+#EXTINF:-1 tvg-name="哈尔滨资讯" group-title="黑龙江",哈尔滨资讯
+http://39.134.65.181/PLTV/88888888/224/3221225697/1.m3u8
+#EXTINF:-1 tvg-name="哈尔滨生活" group-title="黑龙江",哈尔滨生活
+http://39.134.65.181/PLTV/88888888/224/3221225698/1.m3u8
+#EXTINF:-1 tvg-name="哈尔滨娱乐" group-title="黑龙江",哈尔滨娱乐
+http://39.134.65.181/PLTV/88888888/224/3221225699/1.m3u8
 #EXTINF:-1 tvg-name="鹤岗新闻综合" group-title="黑龙江",鹤岗新闻综合
-http://218.10.43.24:81/live/157ba509813644ea400e7c552b934d93/high/live.m3u8
+http://39.134.65.183/PLTV/88888888/224/3221225785/1.m3u8
 #EXTINF:-1 tvg-name="鹤岗公共频道" group-title="黑龙江",鹤岗公共频道
-http://218.10.43.24:81/live/bdac590a43b11a837c716a5ad606e95f/high/live.m3u8
+http://39.134.65.181/PLTV/88888888/224/3221225787/1.m3u8
+#EXTINF:-1 tvg-name="伊春新闻综合" group-title="黑龙江",伊春新闻综合
+http://live.yichuntv.com/e5d7b4b95cf849d79fa3964431dca1f3/h264_800k_ts/index.m3u8?type=flv2hls_m3u8
+#EXTINF:-1 tvg-name="七台河新闻综合" group-title="黑龙江",七台河新闻综合
+http://39.134.65.181/PLTV/88888888/224/3221225783/1.m3u8
+#EXTINF:-1 tvg-name="七台河公共" group-title="黑龙江",七台河公共
+http://39.134.65.179/PLTV/88888888/224/3221225800/1.m3u8
+#EXTINF:-1 tvg-name="七台河矿区电视台" group-title="黑龙江",七台河矿区电视台
+http://p4.weizan.cn/1275348489/398654743195260966/live.m3u8
+#EXTINF:-1 tvg-name="萝北综合" group-title="黑龙江",萝北综合
+http://juyunlive.juyun.tv/live/65887157.m3u8
+#EXTINF:-1 tvg-name="富裕综合" group-title="黑龙江",富裕综合
+http://221.209.44.174:1980/hls/1001.m3u8
+#EXTINF:-1 tvg-name="甘南综合" group-title="黑龙江",甘南综合
+http://player.juyun.tv/camera/65362146.m3u8
 
 #EXTINF:-1 tvg-name="吉林都市频道" group-title="吉林",吉林都市频道
 http://stream1.jlntv.cn/dspd/playlist.m3u8?_upt=a9a201ef1578416337
