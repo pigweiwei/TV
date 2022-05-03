@@ -803,12 +803,42 @@ https://livealone302.iqilu.com/iqilu/nkpd0000.m3u8
 #EXTINF:-1 tvg-name="山东文旅" group-title="山东",山东文旅
 https://livealone302.iqilu.com/iqilu/yspd0000.m3u8
 
+#EXTINF:-1 tvg-name="卫视" group-title="湖南",湖南卫视
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="湖南",金鹰纪实
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="湖南",金鹰卡通
+http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
+#EXTINF:-1 tvg-name="湖南教育" group-title="湖南",湖南教育
+http://pull.hnedutv.com/live/hnedutv1206.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="云溪新闻综合" group-title="湖南",云溪新闻综合
 http://liveplay.rednet.cn/live/yunxi_tv.m3u8
 #EXTINF:-1 tvg-name="娄底综合" group-title="湖南",娄底综合
 http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 tvg-name="湘潭新闻综合" group-title="湖南",湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="湘潭公共频道" group-title="湖南",湘潭公共频道
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="益阳新闻综合" group-title="湖南",益阳新闻综合
+http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvxwhd210130.m3u8
+#EXTINF:-1 tvg-name="衡阳新闻综合" group-title="湖南",衡阳新闻综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_ImycEv.m3u8
+#EXTINF:-1 tvg-name="宁乡电视台" group-title="湖南",宁乡电视台
+http://b.ds.ch.dingtoo.com/AppName/StreamName.m3u8
+#EXTINF:-1 tvg-name="保靖时政" group-title="湖南",保靖时政
+http://liveplay.rednet.cn/live/baojing_hgs24f.m3u8
+#EXTINF:-1 tvg-name="花垣综合" group-title="湖南",花垣综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_PwgGFC.m3u8
+#EXTINF:-1 tvg-name="吉首综合" group-title="湖南",吉首综合
+http://play-dgv-xhncloud.voc.com.cn/live/5243_w7IUFw.m3u8
+#EXTINF:-1 tvg-name="泸溪电视台" group-title="湖南",泸溪电视台
+http://liveplay.rednet.cn/live/luxi_fe0eyf.m3u8
+#EXTINF:-1 tvg-name="永顺综合" group-title="湖南",永顺综合
+http://liveplay.rednet.cn/live/yongshun_tv_55433f.m3u8
+#EXTINF:-1 tvg-name="湘潭电视台" group-title="湖南",湘潭电视台
+http://21084.liveplay.myqcloud.com/live/21084_13241b8296ee11e892905cb9018cf0d4.m3u8
+#EXTINF:-1 tvg-name="屈原电视台" group-title="湖南",屈原电视台
+http://play-dgv-xhncloud.voc.com.cn/live/5243_f2E1iT.m3u8
 
 #EXTINF:-1 tvg-name="九江公共频道" group-title="江西",九江公共频道
 http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
@@ -920,6 +950,56 @@ http://lichuan-live21.cjyun.org/10093/s10093-lczh.m3u8?auth_key=1672502399-0-0-f
 http://yuanan-live21.cjyun.org/10106/s10106-yatv.m3u8?auth_key=1672502399-0-0-f74548d3774bd13a90e4f1a62fdb65aa
 #EXTINF:-1 tvg-name="宜都综合" group-title="湖北",宜都综合
 http://yidushi-live21.cjyun.org/10092/s10092-yidushitv01.m3u8?auth_key=1672502399-0-0-3f71190f25051bf0ba272a960ba39793
+#EXTINF:-1 tvg-name="夷陵综合" group-title="湖北",夷陵综合
+http://yiling-live21.cjyun.org/10174/s10174-TC1T.m3u8?auth_key=1672502399-0-0-17b5ad3344b60bcdeb4b6995e1182380
+#EXTINF:-1 tvg-name="秭归电视台" group-title="湖北",秭归电视台
+http://zigui-live21.cjyun.org/10111/s10111-ZGTV1.m3u8?auth_key=1672502399-0-0-17fadbf9472366a8dd59500f240acf37
+#EXTINF:-1 tvg-name="咸丰综合频道" group-title="湖北",咸丰综合频道
+http://xianfeng-live21.cjyun.org/10096/s10096-xftv1.m3u8?auth_key=1672502399-0-0-360388050a36653e6ce75944e6842202
+#EXTINF:-1 tvg-name="孝昌新闻党建" group-title="湖北",孝昌新闻党建
+http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1672502399-0-0-720f18225520a83ba7ec795bbea95d0c
+#EXTINF:-1 tvg-name="孝昌生活" group-title="湖北",孝昌生活
+http://xiaochang-live21.cjyun.org/10128/s10128-xcsh.m3u8?auth_key=1672502399-0-0-69b3682eb810b8d430b8a81bd9af8dcf
+#EXTINF:-1 tvg-name="应城综合" group-title="湖北",应城综合
+http://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1672502399-0-0-c3b7f39430b67a598cd4a4756fb4baf4
+#EXTINF:-1 tvg-name="应城生活" group-title="湖北",应城生活
+http://yingcheng-live21.cjyun.org/10135/s10135-YCDJ.m3u8?auth_key=1672502399-0-0-2e283478ca59b5c2ca0af672782a2e09
+#EXTINF:-1 tvg-name="红安综合" group-title="湖北",红安综合
+http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1672502399-0-0-3558e7aa827c96ae981416fd28530dae
+#EXTINF:-1 tvg-name="来凤综合" group-title="湖北",来凤综合
+http://laifeng-live21.cjyun.org/10099/s10099-lfzh.m3u8?auth_key=1672502399-0-0-c9b07016069b467cfdaa9783bd64112c
+#EXTINF:-1 tvg-name="江陵综合" group-title="湖北",江陵综合
+http://jiangling-live21.cjyun.org/10090/s10090-jltv01.m3u8?auth_key=1672502399-0-0-0d227ce9c32f1f14f64bb3571f29a0a4
+#EXTINF:-1 tvg-name="江陵经济生活" group-title="湖北",江陵经济生活
+http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=1672502399-0-0-e85888284622c2b687cad07f883626cc
+#EXTINF:-1 tvg-name="石首综合" group-title="湖北",石首综合
+http://sstvplay.ssgdlive.com/live/sszh.m3u8
+#EXTINF:-1 tvg-name="石首影视" group-title="湖北",石首影视
+http://sstvplay.ssgdlive.com/live/sszh2.m3u8
+#EXTINF:-1 tvg-name="沙洋电视台" group-title="湖北",沙洋电视台
+https://shayang-live21.cjyun.org/10110/s10110-sytv1.m3u8?auth_key=1672502399-0-0-14f1d7dd0f03626c7c50c8fac5221877
+#EXTINF:-1 tvg-name="大冶一套" group-title="湖北",大冶一套
+http://dayeyun-live21.cjyun.org/10102/s10102-TC1T.m3u8?auth_key=1672502399-0-0-f426faae014df67e43edf64fdfc442e4
+#EXTINF:-1 tvg-name="大冶二套" group-title="湖北",大冶二套
+http://dayeyun-live21.cjyun.org/10102/s10102-TC2T.m3u8?auth_key=1672502399-0-0-82feca5525323bbfcd40ecd186084ca9
+#EXTINF:-1 tvg-name="赤壁综合" group-title="湖北",赤壁综合
+http://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1672502399-0-0-7c31a89b27ffafb24fdc5e16d4762860
+#EXTINF:-1 tvg-name="崇阳新闻综合" group-title="湖北",崇阳新闻综合
+http://www.cyxw.cn:10500/hls/live.m3u8
+#EXTINF:-1 tvg-name="嘉鱼综合" group-title="湖北",嘉鱼综合
+http://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1672502399-0-0-98f908536976adbeef9a05f05b3bda7c
+#EXTINF:-1 tvg-name="鹤峰综合" group-title="湖北",鹤峰综合
+http://hefeng-live21.cjyun.org/10100/s10100-hftv1.m3u8?auth_key=1672502399-0-0-eaafae2c07fcaa8a7bfef965a96f8967
+#EXTINF:-1 tvg-name="江夏新闻综合" group-title="湖北",江夏新闻综合
+http://59.175.226.142:280/gb28181/xwzh.m3u8
+#EXTINF:-1 tvg-name="江夏经济生活" group-title="湖北",江夏经济生活
+http://59.175.226.142:280/gb28181/jjsh.m3u8
+#EXTINF:-1 tvg-name="郧阳综合" group-title="湖北",郧阳综合
+http://58.19.198.159:2021/hls1.m3u8
+#EXTINF:-1 tvg-name="丹江口生活" group-title="湖北",丹江口生活
+https://p2bj.weizan.cn/309104/751799777014582046/live.m3u8
+#EXTINF:-1 tvg-name="宣恩综合" group-title="湖北",宣恩综合
+http://xuanen-live21.cjyun.org/10097/s10097-xezh2.m3u8?auth_key=1672502399-0-0-a22c0fd20103bbb2256c2c2bf75dd6f3
 
 #EXTINF:-1 tvg-name="西青电视台" group-title="天津",西青电视台
 http://221.238.209.44:81/hls/live1.m3u8
