@@ -1027,6 +1027,88 @@ http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
 http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 #EXTINF:-1 tvg-name="西华电视台" group-title="河南",西华电视台
 http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
+#EXTINF:-1 tvg-name="杞县新闻综合" group-title="河南",杞县新闻综合
+http://live.dxhmt.cn:9081/tv/10221-1.m3u8
+#EXTINF:-1 tvg-name="尉氏电视台" group-title="河南",尉氏电视台
+http://live.dxhmt.cn:9081/tv/10223-1.m3u8
+#EXTINF:-1 tvg-name="临颍综合" group-title="河南",临颍综合
+http://live.dxhmt.cn:9081/tv/11122-1.m3u8
+#EXTINF:-1 tvg-name="舞阳新闻综合" group-title="河南",舞阳新闻综合
+http://live.dxhmt.cn:9081/tv/11121-1.m3u8
+#EXTINF:-1 tvg-name="泌阳新闻综合" group-title="河南",泌阳新闻综合
+http://live.dxhmt.cn:9081/tv/11726-1.m3u8
+#EXTINF:-1 tvg-name="平舆新闻综合" group-title="河南",平舆新闻综合
+http://live.dxhmt.cn:9081/tv/11723-1.m3u8
+#EXTINF:-1 tvg-name="确山一套" group-title="河南",确山一套
+http://live.dxhmt.cn:9081/tv/11725-1.m3u8
+#EXTINF:-1 tvg-name="上蔡一套" group-title="河南",上蔡一套
+http://live.dxhmt.cn:9081/tv/11722-1.m3u8
+#EXTINF:-1 tvg-name="遂平一套" group-title="河南",遂平一套
+http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
+#EXTINF:-1 tvg-name="新蔡电视台" group-title="河南",新蔡电视台
+http://live.dxhmt.cn:9081/tv/11729-1.m3u8
+#EXTINF:-1 tvg-name="长垣电视台" group-title="河南",长垣电视台
+http://live.dxhmt.cn:9081/tv/10728-1.m3u8
+#EXTINF:-1 tvg-name="封丘新闻综合" group-title="河南",封丘新闻综合
+http://live.dxhmt.cn:9081/tv/10727-1.m3u8
+#EXTINF:-1 tvg-name="获嘉综合" group-title="河南",获嘉综合
+http://live.dxhmt.cn:9081/tv/10724-1.m3u8
+#EXTINF:-1 tvg-name="辉县新闻综合" group-title="河南",辉县新闻综合
+http://live.dxhmt.cn:9081/tv/10782-1.m3u8
+#EXTINF:-1 tvg-name="卫辉电视台" group-title="河南",卫辉电视台
+http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
+#EXTINF:-1 tvg-name="新乡综合" group-title="河南",新乡综合
+http://live.dxhmt.cn:9081/tv/10721-1.m3u8
+#EXTINF:-1 tvg-name="延津电视台" group-title="河南",延津电视台
+http://live.dxhmt.cn:9081/tv/10726-1.m3u8
+#EXTINF:-1 tvg-name="原阳电视台" group-title="河南",原阳电视台
+http://live.dxhmt.cn:9081/tv/10725-1.m3u8
+#EXTINF:-1 tvg-name="灵宝一套" group-title="河南",灵宝一套
+http://live.dxhmt.cn:9081/tv/11282-1.m3u8
+#EXTINF:-1 tvg-name="卢氏综合" group-title="河南",卢氏综合
+http://live.dxhmt.cn:9081/tv/11224-1.m3u8
+#EXTINF:-1 tvg-name="义马电视台" group-title="河南",义马电视台
+http://live.dxhmt.cn:9081/tv/11281-1.m3u8
+#EXTINF:-1 tvg-name="滑县一套" group-title="河南",滑县一套
+http://live.dxhmt.cn:9081/tv/10526-1.m3u8
+#EXTINF:-1 tvg-name="滑县二套" group-title="河南",滑县二套
+http://tvpull.dxhmt.cn:9081/tv/10526-2.m3u8
+#EXTINF:-1 tvg-name="滑县三套" group-title="河南",滑县三套
+http://tvpull.dxhmt.cn:9081/tv/10526-3.m3u8
+#EXTINF:-1 tvg-name="林州电视台" group-title="河南",林州电视台
+http://live.dxhmt.cn:9081/tv/10581-1.m3u8
+#EXTINF:-1 tvg-name="内黄综合" group-title="河南",内黄综合
+http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+#EXTINF:-1 tvg-name="汤阴电视台" group-title="河南",汤阴电视台
+http://live.dxhmt.cn:9081/tv/10523-1.m3u8
+#EXTINF:-1 tvg-name="淇县电视台" group-title="河南",淇县电视台
+http://live.dxhmt.cn:9081/tv/10622-1.m3u8
+#EXTINF:-1 tvg-name="浚县电视台" group-title="河南",浚县电视台
+http://live.dxhmt.cn:9081/tv/10621-1.m3u8
+#EXTINF:-1 tvg-name="台前新闻综合" group-title="河南",台前新闻综合
+http://live.dxhmt.cn:9081/tv/10927-1.m3u8
+#EXTINF:-1 tvg-name="光山综合" group-title="河南",光山综合
+http://live.dxhmt.cn:9081/tv/11522-1.m3u8
+#EXTINF:-1 tvg-name="固始综合" group-title="河南",固始综合
+http://live.dxhmt.cn:9081/tv/11525-1.m3u8
+#EXTINF:-1 tvg-name="淮滨综合" group-title="河南",淮滨综合
+http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
+#EXTINF:-1 tvg-name="潢川电视台" group-title="河南",潢川电视台
+http://live.dxhmt.cn:9081/tv/11526-1.m3u8
+#EXTINF:-1 tvg-name="罗山电视台" group-title="河南",罗山电视台
+http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
+#EXTINF:-1 tvg-name="商城综合" group-title="河南",商城综合
+http://tvpull.dxhmt.cn:9081/tv/11524-1.m3u8
+#EXTINF:-1 tvg-name="建安新闻" group-title="河南",建安新闻
+http://live.dxhmt.cn:9081/tv/11003-1.m3u8
+#EXTINF:-1 tvg-name="襄城电视台" group-title="河南",襄城电视台
+http://live.dxhmt.cn:9081/tv/11025-1.m3u8
+#EXTINF:-1 tvg-name="鄢陵综合" group-title="河南",鄢陵综合
+http://live.dxhmt.cn:9081/tv/11024-1.m3u8
+#EXTINF:-1 tvg-name="禹州综合" group-title="河南",禹州综合
+http://live.dxhmt.cn:9081/tv/11081-1.m3u8
+#EXTINF:-1 tvg-name="禹州公共" group-title="河南",禹州公共
+http://tvpull.dxhmt.cn/tv/11081-2.m3u8
 
 #EXTINF:-1 tvg-name="成都一套" group-title="四川",成都一套
 http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv1hd&auth=rinimabi
