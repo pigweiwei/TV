@@ -114,6 +114,100 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" group-title="央视卫视",西藏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 
+#EXTINF:-1 tvg-name="Y+" group-title="数字付费",Y+
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+#EXTINF:-1 tvg-name="NewTV电竞" group-title="数字付费",NewTV-电竞
+http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级综艺" group-title="数字付费",NewTV-超级综艺
+http://39.134.115.163:8080/PLTV/88888910/224/3221225620/index.m3u8
+#EXTINF:-1 tvg-name="NewTV动作电影" group-title="数字付费",NewTV-动作电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-name="NewTV爱情喜剧" group-title="数字付费",NewTV-爱情喜剧
+http://39.134.115.163:8080/PLTV/88888910/224/3221225748/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电视剧" group-title="数字付费",NewTV-超级电视剧
+http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电影" group-title="数字付费",NewTV-超级电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 tvg-name="NewTV健康有约" group-title="数字付费",NewTV-健康有约
+http://39.135.138.60:18890/PLTV/88888910/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-name="NewTV江西" group-title="数字付费",NewTV-江西
+http://39.134.115.163:8080/PLTV/88888910/224/3221225979/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级体育" group-title="数字付费",NewTV-超级体育
+http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+#EXTINF:-1 tvg-name="NewTV金牌综艺" group-title="数字付费",NewTV-金牌综艺
+http://39.134.115.163:8080/PLTV/88888910/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" group-title="数字付费",NewTV-惊悚悬疑
+http://39.134.115.163:8080/PLTV/88888910/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品大剧" group-title="数字付费",NewTV-精品大剧
+http://39.134.115.163:8080/PLTV/88888910/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品记录" group-title="数字付费",NewTV-精品记录
+http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品体育" group-title="数字付费",NewTV-精品体育
+http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场" group-title="数字付费",NewTV-古装剧场
+http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场" group-title="数字付费",NewTV-家庭剧场
+http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-name="NewTV农业致富" group-title="数字付费",NewTV-农业致富
+http://39.134.115.163:8080/PLTV/88888910/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-name="NewTV炫舞未来" group-title="数字付费",NewTV-炫舞未来
+http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
+#EXTINF:-1 tvg-name="NewTV军事评论" group-title="数字付费",NewTV-军事评论
+http://39.135.138.60:18890/PLTV/88888910/224/3221225757/index.m3u8
+#EXTINF:-1 tvg-name="NewTV军旅剧场" group-title="数字付费",NewTV-军旅剧场
+http://39.134.115.163:8080/PLTV/88888910/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="NewTV中国功夫" group-title="数字付费",NewTV-中国功夫
+http://39.134.115.163:8080/PLTV/88888910/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-name="NewTV武博世界" group-title="数字付费",NewTV-武博世界
+http://39.135.138.60:18890/PLTV/88888910/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-name="NewTV潮妈辣婆" group-title="数字付费",NewTV-潮妈辣婆
+http://39.135.138.60:18890/PLTV/88888910/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-name="NewTV热播精选" group-title="数字付费",NewTV-热播精选
+http://39.134.65.162/PLTV/88888888/224/3221225521/1.m3u8
+http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" group-title="数字付费",黑莓-电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
+#EXTINF:-1 tvg-name="明星大片" group-title="数字付费",明星大片
+http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" group-title="数字付费",纯享4K
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-name="中国气象" group-title="数字付费",中国气象
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 tvg-name="圆点生活" group-title="数字付费",圆点生活
+http://111.20.106.13:6610/yinhe/2/ch00000090990000002285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="悦美生活" group-title="数字付费",悦美生活
+http://111.20.106.13:6610/yinhe/2/ch00000090990000002325/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="精彩电视剧" group-title="数字付费",精彩电视剧
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="精彩综艺" group-title="数字付费",精彩综艺
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="体育赛事" group-title="数字付费",体育赛事
+http://39.134.65.181/PLTV/88888888/224/3221225706/1.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="数字付费",CHC家庭影院
+http://111.20.106.13:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="CHC高清电影" group-title="数字付费",CHC高清电影
+http://111.20.106.13:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="数字付费",CHC动作电影
+http://111.20.106.13:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="都市剧场" group-title="数字付费",都市剧场
+http://111.20.106.13:6610/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 tvg-name="求索记录" group-title="数字付费",求索记录
+http://183.214.126.200:3003/live/qsjl/index.m3u8
+#EXTINF:-1 tvg-name="快乐购" group-title="数字付费",快乐购
+http://39.135.138.58:18890/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-name="空中课堂" group-title="数字付费",CETV-空中课堂
+http://txycsbl.centv.cn/zb/0104cetv4.m3u8
+#EXTINF:-1 tvg-name="CGTN-NEWS" group-title="数字付费",CGTN-NEWS
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN-西班牙语" group-title="其他",CGTN-西班牙语
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN-法语" group-title="数字付费",CGTN-法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN 纪录(英)" group-title="数字付费",CGTN-纪录片
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN-阿拉伯语" group-title="数字付费",CGTN-阿拉伯语
+https://livear.cgtn.com/1000a/prog_index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV14" group-title="少儿动画",CCTV-14少儿
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" group-title="少儿动画",动漫秀场
@@ -2782,100 +2876,6 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 tvg-name="KBS World" group-title="韩国",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-name="Y+" group-title="数字付费",Y+
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
-#EXTINF:-1 tvg-name="NewTV电竞" group-title="数字付费",NewTV-电竞
-http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级综艺" group-title="数字付费",NewTV-超级综艺
-http://39.134.115.163:8080/PLTV/88888910/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-name="NewTV动作电影" group-title="数字付费",NewTV-动作电影
-http://39.134.115.163:8080/PLTV/88888910/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-name="NewTV爱情喜剧" group-title="数字付费",NewTV-爱情喜剧
-http://39.134.115.163:8080/PLTV/88888910/224/3221225748/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级电视剧" group-title="数字付费",NewTV-超级电视剧
-http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级电影" group-title="数字付费",NewTV-超级电影
-http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
-#EXTINF:-1 tvg-name="NewTV健康有约" group-title="数字付费",NewTV-健康有约
-http://39.135.138.60:18890/PLTV/88888910/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-name="NewTV江西" group-title="数字付费",NewTV-江西
-http://39.134.115.163:8080/PLTV/88888910/224/3221225979/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级体育" group-title="数字付费",NewTV-超级体育
-http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-#EXTINF:-1 tvg-name="NewTV金牌综艺" group-title="数字付费",NewTV-金牌综艺
-http://39.134.115.163:8080/PLTV/88888910/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" group-title="数字付费",NewTV-惊悚悬疑
-http://39.134.115.163:8080/PLTV/88888910/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品大剧" group-title="数字付费",NewTV-精品大剧
-http://39.134.115.163:8080/PLTV/88888910/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品记录" group-title="数字付费",NewTV-精品记录
-http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品体育" group-title="数字付费",NewTV-精品体育
-http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
-#EXTINF:-1 tvg-name="NewTV古装剧场" group-title="数字付费",NewTV-古装剧场
-http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
-#EXTINF:-1 tvg-name="NewTV家庭剧场" group-title="数字付费",NewTV-家庭剧场
-http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-name="NewTV农业致富" group-title="数字付费",NewTV-农业致富
-http://39.134.115.163:8080/PLTV/88888910/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-name="NewTV炫舞未来" group-title="数字付费",NewTV-炫舞未来
-http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军事评论" group-title="数字付费",NewTV-军事评论
-http://39.135.138.60:18890/PLTV/88888910/224/3221225757/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军旅剧场" group-title="数字付费",NewTV-军旅剧场
-http://39.134.115.163:8080/PLTV/88888910/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-name="NewTV中国功夫" group-title="数字付费",NewTV-中国功夫
-http://39.134.115.163:8080/PLTV/88888910/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-name="NewTV武博世界" group-title="数字付费",NewTV-武博世界
-http://39.135.138.60:18890/PLTV/88888910/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆" group-title="数字付费",NewTV-潮妈辣婆
-http://39.135.138.60:18890/PLTV/88888910/224/3221225708/index.m3u8
-#EXTINF:-1 tvg-name="NewTV热播精选" group-title="数字付费",NewTV-热播精选
-http://39.134.65.162/PLTV/88888888/224/3221225521/1.m3u8
-http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 tvg-name="黑莓电影" group-title="数字付费",黑莓-电影
-http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
-#EXTINF:-1 tvg-name="明星大片" group-title="数字付费",明星大片
-http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-name="纯享4K" group-title="数字付费",纯享4K
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-name="中国气象" group-title="数字付费",中国气象
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 tvg-name="圆点生活" group-title="数字付费",圆点生活
-http://111.20.106.13:6610/yinhe/2/ch00000090990000002285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 tvg-name="悦美生活" group-title="数字付费",悦美生活
-http://111.20.106.13:6610/yinhe/2/ch00000090990000002325/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 tvg-name="精彩电视剧" group-title="数字付费",精彩电视剧
-http://111.20.106.13:6610/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 tvg-name="精彩综艺" group-title="数字付费",精彩综艺
-http://111.20.106.13:6610/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 tvg-name="体育赛事" group-title="数字付费",体育赛事
-http://39.134.65.181/PLTV/88888888/224/3221225706/1.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" group-title="数字付费",CHC家庭影院
-http://111.20.106.13:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 tvg-name="CHC高清电影" group-title="数字付费",CHC高清电影
-http://111.20.106.13:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 tvg-name="CHC动作电影" group-title="数字付费",CHC动作电影
-http://111.20.106.13:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 tvg-name="都市剧场" group-title="数字付费",都市剧场
-http://111.20.106.13:6610/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 tvg-name="求索记录" group-title="数字付费",求索记录
-http://183.214.126.200:3003/live/qsjl/index.m3u8
-#EXTINF:-1 tvg-name="快乐购" group-title="数字付费",快乐购
-http://39.135.138.58:18890/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-name="空中课堂" group-title="数字付费",CETV-空中课堂
-http://txycsbl.centv.cn/zb/0104cetv4.m3u8
-#EXTINF:-1 tvg-name="CGTN-NEWS" group-title="数字付费",CGTN-NEWS
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-name="CGTN-西班牙语" group-title="其他",CGTN-西班牙语
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-name="CGTN-法语" group-title="数字付费",CGTN-法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 tvg-name="CGTN 纪录(英)" group-title="数字付费",CGTN-纪录片
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-name="CGTN-阿拉伯语" group-title="数字付费",CGTN-阿拉伯语
-https://livear.cgtn.com/1000a/prog_index.m3u8
 
 #EXTINF:-1 tvg-name="北京-水长城01" group-title="直播中国",北京-水长城01
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
