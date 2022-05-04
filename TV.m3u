@@ -1525,12 +1525,30 @@ http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 #EXTINF:-1 tvg-name="禹州公共" group-title="河南",禹州公共
 http://tvpull.dxhmt.cn/tv/11081-2.m3u8
 
+#EXTINF:-1 tvg-name="四川卫视" group-title="四川"",四川卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="四川新闻" group-title="四川"",四川新闻
+http://ep.b1791.com/php/sctv.php?id=scxw
+#EXTINF:-1 tvg-name="四川经济" group-title="四川"",四川经济
+http://ep.b1791.com/php/sctv.php?id=scjj
+#EXTINF:-1 tvg-name="四川文化旅游" group-title="四川"",四川文化旅游
+http://ep.b1791.com/php/sctv.php?id=scwhly
+#EXTINF:-1 tvg-name="四川七套" group-title="四川"",四川七套
+http://ep.b1791.com/php/sctv.php?id=scfnet
+#EXTINF:-1 tvg-name="四川科教" group-title="四川"",四川科教
+http://3017ugjo.live2.danghongyun.com/live/hls/4dc0e927160647a2bd585cb5495810be/3c2126c925204cddb74a3534b97e2765-1.m3u8
+#EXTINF:-1 tvg-name="四川乡村" group-title="四川"",四川乡村
+http://ep.b1791.com/php/sctv.php?id=scxc
 #EXTINF:-1 tvg-name="成都一套" group-title="四川",成都一套
 http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv1hd&auth=rinimabi
 #EXTINF:-1 tvg-name="成都五套" group-title="四川",成都五套
 http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv5hd&auth=rinimabi
 #EXTINF:-1 tvg-name="北川电视台" group-title="四川",北川电视台
 http://live.sctvcloud.com/live/bcgqlive/playlist.m3u8
+#EXTINF:-1 tvg-name="绵阳新闻综合" group-title="四川",绵阳新闻综合
+http://live.sctvcloud.com/live/mytvzh/playlist.m3u8
+#EXTINF:-1 tvg-name="绵阳科技" group-title="四川",绵阳科技
+http://live.sctvcloud.com/live/mytvgg/playlist.m3u8
 #EXTINF:-1 tvg-name="雅安新闻综合" group-title="四川",雅安新闻综合
 http://m3u8.channel.yatv.tv/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-name="雅安公共频道" group-title="四川",雅安公共频道
@@ -1541,6 +1559,94 @@ http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel1/playl
 http://lmt.scqstv.com/live1/live1.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" group-title="四川",康巴卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221226207/index.m3u8
+#EXTINF:-1 tvg-name="南充综合" group-title="四川",南充综合
+https://nczbpull.ncntv.com.cn/nctv/2004.m3u8
+#EXTINF:-1 tvg-name="南充公共" group-title="四川",南充公共
+https://nczbpull.ncntv.com.cn/nctv/2005.m3u8
+#EXTINF:-1 tvg-name="南充科教" group-title="四川",南充科教
+https://nczbpull.ncntv.com.cn/nctv/2006.m3u8
+#EXTINF:-1 tvg-name="乐山新闻综合" group-title="四川",乐山新闻综合
+http://m3u8.file.leshantv.net/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 tvg-name="乐山公共" group-title="四川",乐山公共
+http://m3u8.file.leshantv.net/vms/videos/nmip-media/channellive/channel12/playlist.m3u8
+#EXTINF:-1 tvg-name="广安新闻综合" group-title="四川",广安新闻综合
+http://live1.gatv.com.cn:85/live/XWZH.m3u8
+#EXTINF:-1 tvg-name="广安公共频道" group-title="四川",广安公共频道
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+#EXTINF:-1 tvg-name="遂宁综合" group-title="四川",遂宁综合
+http://play.sngdxsn.com/live/xwzh/playlist.m3u8
+#EXTINF:-1 tvg-name="遂宁公共" group-title="四川",遂宁公共
+http://play.sngdxsn.com/live/gggy/playlist.m3u8
+#EXTINF:-1 tvg-name="广元综合" group-title="四川",广元综合
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 tvg-name="广元公共" group-title="四川",广元公共
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+#EXTINF:-1 tvg-name="凉山新闻综合" group-title="四川",凉山新闻综合
+http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
+#EXTINF:-1 tvg-name="凉山彝语综合" group-title="四川",凉山彝语综合
+http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
+#EXTINF:-1 tvg-name="宜宾公共频道" group-title="四川",宜宾公共频道
+http://p2.weizan.cn/48393/333752817375588805/live.m3u8
+#EXTINF:-1 tvg-name="自贡综合频道" group-title="四川",自贡综合频道
+https://sczghdl.tianma3600.com/sczg/zhpd.m3u8
+#EXTINF:-1 tvg-name="德阳新闻综合" group-title="四川",德阳新闻综合
+http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
+#EXTINF:-1 tvg-name="德阳公共" group-title="四川",德阳公共
+http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
+#EXTINF:-1 tvg-name="攀枝花新闻综合" group-title="四川",攀枝花新闻综合
+http://zb.pzhgd.com:9095/live/xwzh.m3u8
+#EXTINF:-1 tvg-name="攀枝花公共频道" group-title="四川",攀枝花公共频道
+http://zb.pzhgd.com:9095/live/ggpd.m3u8
+#EXTINF:-1 tvg-name="内江综合" group-title="四川",内江综合
+http://njzb.scnj.tv:90/live/xwzh_xwzh800.m3u8
+#EXTINF:-1 tvg-name="内江公共" group-title="四川",内江公共
+http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8
+#EXTINF:-1 tvg-name="内江科教" group-title="四川",内江科教
+http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8
+#EXTINF:-1 tvg-name="眉山综合" group-title="四川",眉山综合
+http://live1.scmstv.cn/gqpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="眉山公共" group-title="四川",眉山公共
+http://live2.scmstv.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="阿坝综合频道" group-title="四川",阿坝综合频道
+http://ablive.abatv.com.cn:90/live/zhpd.m3u8
+#EXTINF:-1 tvg-name="阿坝文艺频道" group-title="四川",阿坝文艺频道
+http://ablive.abatv.com.cn:90/live/wypd.m3u8
+#EXTINF:-1 tvg-name="金堂电视台" group-title="四川",金堂电视台
+https://p2.weizan.cn/2029575354/132309630725787078/live.m3u8
+#EXTINF:-1 tvg-name="龙泉驿综合" group-title="四川",龙泉驿综合
+http://live.newslqy.com/live/xwpd.m3u8
+#EXTINF:-1 tvg-name="彭州综合" group-title="四川",彭州综合
+http://livepgc.chinamcache.com/pgc/1252b2e7742044c90efcb59e92f19de2.m3u8?auth_key=1646132996-0-0-3091540ccfbc73698c9437843235d594
+#EXTINF:-1 tvg-name="双流综合" group-title="四川",双流综合
+http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8
+#EXTINF:-1 tvg-name="新都综合频道" group-title="四川",新都综合频道
+http://live.sctvcloud.com/live/xindulive/playlist.m3u8
+#EXTINF:-1 tvg-name="珙县新闻频道" group-title="四川",珙县新闻频道
+http://pili-live-hls-cqgx.tianma3600.com/cqgx/ggpd.m3u8
+#EXTINF:-1 tvg-name="筠连电视台" group-title="四川",筠连电视台
+http://118.122.78.172:89/live1/live1.m3u8
+#EXTINF:-1 tvg-name="东兴综合" group-title="四川",东兴综合
+http://live.sctvcloud.com/live/dongxing/playlist.m3u8
+#EXTINF:-1 tvg-name="隆昌综合" group-title="四川",隆昌综合
+http://live.sctvcloud.com/live/longchang/playlist.m3u8
+#EXTINF:-1 tvg-name="威远综合" group-title="四川",威远综合
+http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8
+#EXTINF:-1 tvg-name="大竹新闻综合" group-title="四川",大竹新闻综合
+http://60.255.120.30:89/live1/live1.m3u8
+#EXTINF:-1 tvg-name="开江新闻综合" group-title="四川",开江新闻综合
+http://lmt.kjzx.net:98/live1/live1.m3u8
+#EXTINF:-1 tvg-name="渠县新闻综合" group-title="四川",渠县新闻综合
+http://222.208.224.227:81/hls/cfp2p8m3.m3u8
+#EXTINF:-1 tvg-name="万源电视台" group-title="四川",万源电视台
+http://live.wanyuannews.com/wytv/hd/live.m3u8
+#EXTINF:-1 tvg-name="宣汉综合" group-title="四川",宣汉综合
+https://livepgc.chinamcache.com/pgc/61c37851b08f3f0c0475ceb0c958ff54.m3u8?auth_key=1636720162-0-0-9b69908ac29f39b200b5c8e068723967
+#EXTINF:-1 tvg-name="广汉综合频道" group-title="四川",广汉综合频道
+http://live.sctvcloud.com/live/guanghan/playlist.m3u8
+#EXTINF:-1 tvg-name="旌阳新闻" group-title="四川",旌阳新闻
+http://live.sctvcloud.com/live/jingyang/playlist.m3u8
+#EXTINF:-1 tvg-name="中江新闻综合" group-title="四川",中江新闻综合
+https://livepgc.chinamcache.com/pgc/76664ca1f91638580f94fc7543c810cb.m3u8?auth_key=1657178327-0-0-976848e8ac0eacf503b1e7666d92f4f8
 
 #EXTINF:-1 tvg-name="河北卫视" group-title="河北",河北卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
@@ -1714,6 +1820,32 @@ https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf
 http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 #EXTINF:-1 tvg-name="襄汾电视台" group-title="山西",襄汾电视台
 http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8
+#EXTINF:-1 tvg-name="翼城电视台" group-title="山西",翼城电视台
+http://live.aiyicheng.com.cn/channel1/sd/live.m3u8
+#EXTINF:-1 tvg-name="和顺电视台" group-title="山西",和顺电视台
+http://r4wqqcdm.live.sxmty.com/live/hls/fdd364800242489d9d1accff98102861/c90e35fdc4ef43d287a62b49f4ea3cf2-1.m3u8
+#EXTINF:-1 tvg-name="灵石综合" group-title="山西",灵石综合
+https://live-stream.lsxrmtzx.com/live/video.m3u8
+#EXTINF:-1 tvg-name="太谷电视台" group-title="山西",太谷电视台
+https://p2.weizan.cn/1725814272/035167554667993420/live.m3u8
+#EXTINF:-1 tvg-name="昔阳电视台" group-title="山西",昔阳电视台
+https://muspz2pi.live.sxmty.com/live/hls/33a3ffb76e06432cb2e535e58aa8441d/6644d056086b4f608c87db5be6d7f05e.m3u8
+#EXTINF:-1 tvg-name="万荣综合" group-title="山西",万荣综合
+http://pili-live-hls.217.i2863.com/i2863-217/live_217_867556.m3u8
+#EXTINF:-1 tvg-name="河曲电视台" group-title="山西",河曲电视台
+http://w9dlwfw4.live.sxmty.com/live/hls/1fef51ab2fa94d11830411421272c2fd/8baaa4e2cbd64ed89d84d7e0ac0279ee-1.m3u8
+#EXTINF:-1 tvg-name="五台电视台" group-title="山西",五台电视台
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
+#EXTINF:-1 tvg-name="五寨电视台" group-title="山西",五寨电视台
+https://stream.icelook.cn/cf2874738208c975/6727103226484622340_1607389965.m3u8?auth_key=1893456000-0-0-c8ce454296feaadfd96bc25904e2b688
+#EXTINF:-1 tvg-name="原平电视台" group-title="山西",原平电视台
+http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8
+#EXTINF:-1 tvg-name="高平综合" group-title="山西",高平综合
+http://live.gprmt.cn/gpnews/hd/live.m3u8
+#EXTINF:-1 tvg-name="阳城电视台" group-title="山西",阳城电视台
+https://liveout.ycxrmt.cn/i9i45p/en7atk.m3u8
+#EXTINF:-1 tvg-name="灵丘电视台" group-title="山西",灵丘电视台
+https://stream.icelook.cn/1a7c625fde427dc3/6735154231323395076_1611041008.m3u8?auth_key=1893456000-0-0-fe9d45877d8cdddb4afccd9c1a12f3f8
 
 #EXTINF:-1 tvg-name="锦州新闻综合" group-title="辽宁",锦州新闻综合
 http://stream.jzgbdst.cn/1/sd/live.m3u8?_upt=8842ef681578202947
