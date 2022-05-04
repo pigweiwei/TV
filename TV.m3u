@@ -1647,6 +1647,56 @@ http://live.sctvcloud.com/live/guanghan/playlist.m3u8
 http://live.sctvcloud.com/live/jingyang/playlist.m3u8
 #EXTINF:-1 tvg-name="中江新闻综合" group-title="四川",中江新闻综合
 https://livepgc.chinamcache.com/pgc/76664ca1f91638580f94fc7543c810cb.m3u8?auth_key=1657178327-0-0-976848e8ac0eacf503b1e7666d92f4f8
+#EXTINF:-1 tvg-name="盐边电视台" group-title="四川",盐边电视台
+http://live.sctvcloud.com/live/yanbian/playlist.m3u8
+#EXTINF:-1 tvg-name="仁和新闻" group-title="四川",仁和新闻
+http://live.sctvcloud.com/live/rhlive/playlist.m3u8
+#EXTINF:-1 tvg-name="金川新闻综合" group-title="四川",金川新闻综合
+http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+#EXTINF:-1 tvg-name="金川乡村频道" group-title="四川",金川乡村频道
+http://live.jinchuanrmt.com:90/live/jcxc.m3u8
+#EXTINF:-1 tvg-name="茂县新闻综合" group-title="四川",茂县新闻综合
+http://pili-live-rtmp.scmxtv.com/scmxtv/mxtv.m3u8
+#EXTINF:-1 tvg-name="壤塘电视台" group-title="四川",壤塘电视台
+http://live.sctvcloud.com/live/rttv/playlist.m3u8
+#EXTINF:-1 tvg-name="松潘电视台" group-title="四川",松潘电视台
+http://live.spccmc.com:90/live/spxwzh.m3u8
+#EXTINF:-1 tvg-name="汶川电视台" group-title="四川",汶川电视台
+http://live.iwcmt.cn:90/live/zhxw.m3u8
+#EXTINF:-1 tvg-name="小金电视台" group-title="四川",小金电视台
+http://xjlive.xjsc.gov.cn:8091/live/xwpd.m3u8
+#EXTINF:-1 tvg-name="荣县综合" group-title="四川",荣县综合
+http://play.rongxianwang.net/rxzh/0835.m3u8?auth_key=1625042660-0-0-36e32b9c341e085f53b382e1cdde7a02
+#EXTINF:-1 tvg-name="苍溪电视台" group-title="四川",苍溪电视台
+http://livecx.cxxrmt.com/csdst/zb01.m3u8?auth_key=1701503060-0-0-b13aa235851549cf2481e07fd101d2ac
+#EXTINF:-1 tvg-name="朝天电视台" group-title="四川",朝天电视台
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+#EXTINF:-1 tvg-name="剑阁综合" group-title="四川",剑阁综合
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel10/playlist.m3u8
+#EXTINF:-1 tvg-name="利州电视台" group-title="四川",利州电视台
+http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
+#EXTINF:-1 tvg-name="青川综合" group-title="四川",青川综合
+http://live.sctvcloud.com/live/qctv1/playlist.m3u8
+#EXTINF:-1 tvg-name="旺苍新闻综合" group-title="四川",旺苍新闻综合
+http://live.sctvcloud.com/live/wctv1/playlist.m3u8
+#EXTINF:-1 tvg-name="丹棱综合" group-title="四川",丹棱综合
+http://live.sctvcloud.com/live/danlingrongmei/playlist.m3u8
+#EXTINF:-1 tvg-name="彭山综合" group-title="四川",彭山综合
+http://139.9.142.175:8011/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+#EXTINF:-1 tvg-name="仁寿综合" group-title="四川",仁寿综合
+http://play.scrstv.com/TV/xwzh.m3u8
+#EXTINF:-1 tvg-name="乐至综合" group-title="四川",乐至综合
+http://175.155.106.72:89/live1/live1.m3u8
+#EXTINF:-1 tvg-name="甘洛电视台" group-title="四川",甘洛电视台
+http://live.sctvcloud.com/live/ganluo/playlist.m3u8
+#EXTINF:-1 tvg-name="会东电视台" group-title="四川",会东电视台
+http://112.45.133.129:90/live/xwzh.m3u8
+#EXTINF:-1 tvg-name="金阳电视台" group-title="四川",金阳电视台
+http://live.jyrmtzx.com:8080/live/jyxw.m3u8
+#EXTINF:-1 tvg-name="宁南综合频道" group-title="四川",宁南综合频道
+http://live.sctvcloud.com/live/ningnantv1/playlist.m3u8
+#EXTINF:-1 tvg-name="普格电视台" group-title="四川",普格电视台
+http://pull-hls.live.rmtyun.cn/media/NaW5e67696fa4161.m3u8?sign=b1fa59ff38637f7f892e348907182331&t=176030ab4d1
 
 #EXTINF:-1 tvg-name="河北卫视" group-title="河北",河北卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
