@@ -66,7 +66,7 @@ http://111.20.106.13:6610/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-name="安徽卫视" group-title="央视卫视",安徽卫视
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="江西卫视" group-title="央视卫视",江西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" group-title="央视卫视",重庆卫视
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="旅游卫视" group-title="央视卫视",旅游卫视
