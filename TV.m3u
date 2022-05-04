@@ -310,6 +310,8 @@ http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" group-title="浙江",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿频道" group-title="浙江",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江好易购" group-title="浙江",浙江好易购
 http://hw-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8
 #EXTINF:-1 tvg-name="杭州一套" group-title="浙江",杭州一套
@@ -354,6 +356,14 @@ http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 #EXTINF:-1 tvg-name="嘉兴新闻综合" group-title="浙江",嘉兴新闻综合
 http://pluslive.jiaxingren.com/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="嘉兴公共频道" group-title="浙江",嘉兴公共频道
+http://pluslive.jiaxingren.com/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="温州新闻综合" group-title="浙江",温州新闻综合
+http://live.wzqmt.com/wztv1/sd/live.m3u8
+#EXTINF:-1 tvg-name="温州经济科教" group-title="浙江",温州经济科教
+http://live.wzqmt.com/wztv2/sd/live.m3u8
+#EXTINF:-1 tvg-name="温州都市生活" group-title="浙江",温州都市生活
+http://live.wzqmt.com/wztv3/sd/live.m3u8
 #EXTINF:-1 tvg-name="淳安新闻综合" group-title="浙江",淳安新闻综合
 https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8
 #EXTINF:-1 tvg-name="桐庐电视台" group-title="浙江",桐庐电视台
@@ -2775,6 +2785,8 @@ http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 tvg-name="KBS World" group-title="韩国",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-name="Y+" group-title="数字付费",Y+
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 tvg-name="NewTV电竞" group-title="数字付费",NewTV-电竞
 http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-name="NewTV超级综艺" group-title="数字付费",NewTV-超级综艺
