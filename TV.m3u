@@ -2258,8 +2258,6 @@ http://live.nddst.com/NDTV2D/M/live.m3u8
 http://stream.smntv.cn/smtv1/sd/live.m3u8
 #EXTINF:-1 tvg-name="三明二套" group-title="福建",三明二套
 http://stream.smntv.cn/smtv2/sd/live.m3u8
-#EXTINF:-1 tvg-name="新罗电视台" group-title="福建",新罗电视台
-http://stream.lyxltv.com/xltv/sd/live.m3u8
 #EXTINF:-1 tvg-name="将乐综合" group-title="福建",将乐综合
 http://218.106.152.196/lsdream/9nbYeUc/1000/live.m3u8
 #EXTINF:-1 tvg-name="将乐二套" group-title="福建",将乐二套
