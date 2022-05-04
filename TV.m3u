@@ -171,6 +171,8 @@ https://livealone302.iqilu.com/iqilu/typd0000.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-name="NewTV超级体育" group-title="体育竞技",NewTV-超级体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品体育" group-title="体育竞技",NewTV-精品体育
+http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
 #EXTINF:-1 tvg-name="咪咕体育" group-title="体育竞技",咪咕-体育
 http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:-1 tvg-name="体育赛事" group-title="体育竞技",体育赛事
@@ -2704,7 +2706,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225717/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-name="NewTV精品记录" group-title="数字付费",NewTV-精品记录
 http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品体育" group-title="数字付费" group-title="体育",NewTV-精品体育
+#EXTINF:-1 tvg-name="NewTV精品体育" group-title="数字付费",NewTV-精品体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
 #EXTINF:-1 tvg-name="NewTV古装剧场" group-title="数字付费",NewTV-古装剧场
 http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
