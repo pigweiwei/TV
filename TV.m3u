@@ -616,26 +616,6 @@ https://hylive.hfbtv.com/lsdream/FRTSshY/1000/live.m3u8
 https://hylive.hfbtv.com/lsdream/5EfK6HI/1000/live.m3u8
 #EXTINF:-1 tvg-name="合肥故事休闲"  group-title="安徽",合肥故事休闲
 https://hylive.hfbtv.com/lsdream/q66ojce/1000/live.m3u8
-#EXTINF:-1 tvg-name="合肥公共"  group-title="安徽",合肥公共
-https://hylive.hfbtv.com/lsdream/pytL5lE/1000/live.m3u8
-#EXTINF:-1 tvg-name="芜湖新闻综合"  group-title="安徽",芜湖新闻综合
-http://live1.wuhubtv.com/channel1/sd/live.m3u8
-#EXTINF:-1 tvg-name="芜湖生活频道"  group-title="安徽",芜湖生活频道
-http://live1.wuhubtv.com/channel2/sd/live.m3u8
-#EXTINF:-1 tvg-name="芜湖公共频道"  group-title="安徽",芜湖公共频道
-http://live1.wuhubtv.com/channel3/sd/live.m3u8
-#EXTINF:-1 tvg-name="芜湖教育频道"  group-title="安徽",芜湖教育频道
-http://live1.wuhubtv.com/channel4/sd/live.m3u8
-#EXTINF:-1 tvg-name="池州新闻综合"  group-title="安徽",池州新闻综合
-http://cm.wshls.homecdn.com/live/829f.m3u8
-#EXTINF:-1 tvg-name="池州公共频道"  group-title="安徽",池州公共频道
-http://cm.wshls.homecdn.com/live/829d.m3u8
-#EXTINF:-1 tvg-name="宿州新闻综合"  group-title="安徽",宿州新闻综合
-http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-#EXTINF:-1 tvg-name="宿州公共频道"  group-title="安徽",宿州公共频道
-http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
-#EXTINF:-1 tvg-name="宿州科教频道"  group-title="安徽",宿州科教频道
-http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 #EXTINF:-1 tvg-name="铜陵新闻综合"  group-title="安徽",铜陵新闻综合
 http://dstpush1.retalltech.com/app/stream1.m3u8
 #EXTINF:-1 tvg-name="铜陵公共频道"  group-title="安徽",铜陵公共频道
@@ -644,8 +624,6 @@ http://dstpush1.retalltech.com/app/stream2.m3u8
 http://dstpush1.retalltech.com/app/stream3.m3u8
 #EXTINF:-1 tvg-name="东至综合频道"  group-title="安徽",东至综合频道
 http://223.247.33.124:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 tvg-name="东至影视频道"  group-title="安徽",东至影视频道
-http://223.247.33.124:1935/live/yingshi/playlist.m3u8
 #EXTINF:-1 tvg-name="亳州综合频道"  group-title="安徽",亳州综合频道
 http://zbbf2.ahbztv.com/live/416.m3u8
 #EXTINF:-1 tvg-name="亳州农村频道"  group-title="安徽",亳州农村频道
@@ -666,20 +644,12 @@ http://112.27.89.235:8008/out_1/index.m3u8
 https://hwapi.yunshicloud.com/3giqaj/i6v1o5.m3u8
 #EXTINF:-1 tvg-name="繁昌文化娱乐"  group-title="安徽",繁昌文化娱乐
 https://hwapi.yunshicloud.com/3giqaj/k46mx9.m3u8
-#EXTINF:-1 tvg-name="南陵新闻综合"  group-title="安徽",南陵新闻综合
-http://live2018.wuhunews.cn/video/s10010-nlnews/index.m3u8
 #EXTINF:-1 tvg-name="湾沚新闻综合"  group-title="安徽",湾沚新闻综合
 http://60.169.39.215:8090/live/ch0.m3u8
 #EXTINF:-1 tvg-name="固镇综合"  group-title="安徽",固镇综合
 http://www.guzhenm.com:7001/hls/hd-live.m3u8
-#EXTINF:-1 tvg-name="五河新闻综合"  group-title="安徽",五河新闻综合
-http://60.170.109.149:1935/live/wuhe2/playlist.m3u8
-#EXTINF:-1 tvg-name="五河文旅"  group-title="安徽",五河文旅
-http://60.170.109.149:1935/live/wuhe1/playlist.m3u8
 #EXTINF:-1 tvg-name="定远新闻综合"  group-title="安徽",定远新闻综合
 http://ssdyapp.cn/live/dyv1.m3u8
-#EXTINF:-1 tvg-name="阜南新闻综合"  group-title="安徽",阜南新闻综合
-http://112.27.139.242:8278/fnxwzhd/playlist.m3u8
 #EXTINF:-1 tvg-name="太和新闻综合"  group-title="安徽",太和新闻综合
 http://p2.weizan.cn/1110366022/132071060845712961/live.m3u8
 #EXTINF:-1 tvg-name="广德新闻综合"  group-title="安徽",广德新闻综合
@@ -688,38 +658,22 @@ http://pili-live-hls.guangde.ahxmgk.com/guangde-live/guangde20200324143845.m3u8
 http://pili-live-hls.guangde.ahxmgk.com/guangde-live/guangde20200515090119.m3u8
 #EXTINF:-1 tvg-name="泾县新闻综合"  group-title="安徽",泾县新闻综合
 http://app.jxnn.cn:1935/live/zhxw/playlist.m3u8
-#EXTINF:-1 tvg-name="泾县文化旅游"  group-title="安徽",泾县文化旅游
-http://app.jxnn.cn:1935/live/whly/playlist.m3u8
 #EXTINF:-1 tvg-name="当涂新闻综合"  group-title="安徽",当涂新闻综合
 http://newvideo.dangtutv.cn:8278/dt1/playlist.m3u8
-#EXTINF:-1 tvg-name="含山新闻综合"  group-title="安徽",含山新闻综合
-http://223.241.197.199:1935/live/xinwen/playlist.m3u8
 #EXTINF:-1 tvg-name="来安新闻综合"  group-title="安徽",来安新闻综合
 http://video.latv.net.cn:8278/latv/playlist.m3u8
-#EXTINF:-1 tvg-name="全椒综合"  group-title="安徽",全椒综合
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-qjzhpd/1.m3u8
-#EXTINF:-1 tvg-name="全椒生活"  group-title="安徽",全椒生活
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-qjshpd/1.m3u8
 #EXTINF:-1 tvg-name="石台综合"  group-title="安徽",石台综合
 http://120.210.216.73:8080/ysten-business/live/SD12-576P-czst/1.m3u8
-#EXTINF:-1 tvg-name="祁门综合频道"  group-title="安徽",祁门综合频道
-http://file.qmxrmt.com:8011/nmip-media/channellive/channel104572/playlist.m3u8
 #EXTINF:-1 tvg-name="歙县综合"  group-title="安徽",歙县综合
 https://stream.ahwanyun.cn/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
-#EXTINF:-1 tvg-name="休宁新闻综合"  group-title="安徽",休宁新闻综合
-http://120.210.216.73:8080/ysten-business/live/hsxndst/1.m3u8
 #EXTINF:-1 tvg-name="黟县电视台"  group-title="安徽",黟县电视台
 http://114.104.147.15:1935/live/yixian/playlist.m3u8
-#EXTINF:-1 tvg-name="灵璧新闻综合"  group-title="安徽",灵璧新闻综合
-http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 #EXTINF:-1 tvg-name="长丰电视台"  group-title="安徽",长丰电视台
 http://218.23.114.19:1935/live/xinwen/playlist.m3u8
 #EXTINF:-1 tvg-name="肥东经济生活"  group-title="安徽",肥东经济生活
 http://120.210.216.73:8080/ysten-business/live/SD12-576P-fdjjsh/1.m3u8
 #EXTINF:-1 tvg-name="肥西新闻综合"  group-title="安徽",肥西新闻综合
 http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
-#EXTINF:-1 tvg-name="涡阳新闻综合"  group-title="安徽",涡阳新闻综合
-http://111.39.71.77:8099/live/one/playlist.m3u8
 #EXTINF:-1 tvg-name="利辛新闻综合"  group-title="安徽",利辛新闻综合
 http://linxinbf.fst1994.cn/live/xinwen.m3u8
 #EXTINF:-1 tvg-name="利辛影视"  group-title="安徽",利辛影视
@@ -728,18 +682,8 @@ http://linxinbf.fst1994.cn/live/yingshi.m3u8
 http://live.plus.ahmctv.net/channel2/sd/live.m3u8
 #EXTINF:-1 tvg-name="潜山综合"  group-title="安徽",潜山综合
 http://60.171.171.101:8278/rtmp_export/video22.m3u8
-#EXTINF:-1 tvg-name="宿松新闻综合"  group-title="安徽",宿松新闻综合
-http://112.30.194.221:20080/live/a8fd37c471fa46e18ec17b6ce4730eb7/hls.m3u8
 #EXTINF:-1 tvg-name="桐城综合"  group-title="安徽",桐城综合
 http://pili-live-hls.ahtc.tianma3600.com/ahtc/tcxw.m3u8
-#EXTINF:-1 tvg-name="凤台综合频道"  group-title="安徽",凤台综合频道
-http://60.175.115.119:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 tvg-name="凤台文化生活"  group-title="安徽",凤台文化生活
-http://60.175.115.119:1935/live/wenhua/playlist.m3u8
-#EXTINF:-1 tvg-name="霍邱一套"  group-title="安徽",霍邱一套
-http://120.210.216.73:8080/ysten-business/live/SD12-576P-huoqiu/1.m3u8
-#EXTINF:-1 tvg-name="金寨综合"  group-title="安徽",金寨综合
-http://112.26.80.214:1935/live/xinwen/playlist.m3u8
 #EXTINF:-1 tvg-name="舒城一套"  group-title="安徽",舒城一套
 http://220.180.24.62:1935/live/live2/playlist.m3u8
 #EXTINF:-1 tvg-name="舒城文化旅游"  group-title="安徽",舒城文化旅游
