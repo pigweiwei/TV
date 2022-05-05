@@ -1959,12 +1959,6 @@ http://pili-live-hls.221.i2863.com/i2863-221/live_221_315303.m3u8
 
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="内蒙古",内蒙古卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
-#EXTINF:-1 tvg-name="呼和浩特新闻综合" group-title="内蒙古",呼和浩特新闻综合
-http://cdnpull.0471tv.org.cn/live/test1.m3u8
-#EXTINF:-1 tvg-name="呼和浩特都市生活" group-title="内蒙古",呼和浩特都市生活
-http://cdnpull.0471tv.org.cn/live/test2.m3u8
-#EXTINF:-1 tvg-name="呼和浩特影视娱乐" group-title="内蒙古",呼和浩特影视娱乐
-http://cdnpull.0471tv.org.cn/live/test.m3u8
 #EXTINF:-1 tvg-name="鄂尔多斯新闻综合" group-title="内蒙古",鄂尔多斯新闻综合
 http://live.erdszs.org.cn/lsdream/h2mxgj4/1000/live.m3u8
 #EXTINF:-1 tvg-name="鄂尔多斯经济服务" group-title="内蒙古",鄂尔多斯经济服务
@@ -2002,30 +1996,16 @@ http://39.134.32.102:6610/270000001111/1110000330/index.m3u8?IASHttpSessionId=OT
 http://39.134.32.102:6610/270000001111/1110000329/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="酒泉电视台" group-title="甘肃",酒泉电视台
 http://stream.gsjqtv.com/pd1/sd/live.m3u8
-#EXTINF:-1 tvg-name="酒泉公共" group-title="甘肃",酒泉公共
-http://stream.gsjqtv.com/pd2/sd/live.m3u8
-#EXTINF:-1 tvg-name="银川生活" group-title="甘肃",银川生活
-http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
 #EXTINF:-1 tvg-name="白银综合" group-title="甘肃",白银综合
 http://live.bygd.cn/byzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="白银公共" group-title="甘肃",白银公共
 http://live.bygd.cn/bygg/sd/live.m3u8
-#EXTINF:-1 tvg-name="甘南一套" group-title="甘肃",甘南一套
-ttp://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8
 #EXTINF:-1 tvg-name="庆阳综合" group-title="甘肃",庆阳综合
 http://stream.gsqytv.com.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="庆阳公共" group-title="甘肃",庆阳公共
 http://stream.gsqytv.com.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="平凉新闻综合" group-title="甘肃",平凉新闻综合
-http://39.134.32.102:6610/270000001111/1110000021/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="平凉公共" group-title="甘肃",平凉公共
-http://39.134.32.102:6610/270000001111/1110000020/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="敦煌电视台" group-title="甘肃",敦煌电视台
 http://39.134.32.102:6610/270000001111/1110000028/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="张掖新闻" group-title="甘肃",张掖新闻
-http://39.134.32.102:6610/270000001111/1110000025/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="张掖公共" group-title="甘肃",张掖公共
-http://39.134.32.102:6610/270000001111/1110000026/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="天水综合" group-title="甘肃",天水综合
 http://39.134.32.102:6610/270000001111/1110000185/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="天水公共" group-title="甘肃",天水公共
@@ -2038,8 +2018,6 @@ http://live.lnsbigdata.cn/tv/fe6b6c969c113ed894adea3c4287101a.m3u8
 http://39.134.32.102:6610/270000001111/1110000191/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="武威新闻综合" group-title="甘肃",武威新闻综合
 http://39.134.32.102:6610/270000001111/1110000174/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="武威凉州频道" group-title="甘肃",武威凉州频道
-http://39.134.32.102:6610/270000001111/1110000173/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="定西综合" group-title="甘肃",定西综合
 https://play.kankanlive.com/live/1645679947087932.m3u8
 #EXTINF:-1 tvg-name="定西公共" group-title="甘肃",定西公共
@@ -2054,8 +2032,6 @@ http://39.134.32.102:6610/270000001111/1110000183/index.m3u8?IASHttpSessionId=OT
 http://39.134.32.102:6610/270000001111/1110000019/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="临洮电视台" group-title="甘肃",临洮电视台
 https://play.kankanlive.com/live/1638428318510977.m3u8
-#EXTINF:-1 tvg-name="玉门电视台" group-title="甘肃",玉门电视台
-http://39.134.32.102:6610/270000001111/1110000125/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="金川电视台" group-title="甘肃",金川电视台
 https://play.kankanlive.com/live/1625041962958919.m3u8
 #EXTINF:-1 tvg-name="永昌电视台" group-title="甘肃",永昌电视台
@@ -2080,18 +2056,10 @@ http://pili-live-hls.hfmt.net/gntv/xhtv.m3u8
 http://pili-live-hls.hfmt.net/gntv/zntv.m3u8
 #EXTINF:-1 tvg-name="舟曲电视台" group-title="甘肃",舟曲电视台
 http://39.134.32.102:6610/270000001111/1110000169/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="瓜州电视台" group-title="甘肃",瓜州电视台
-http://39.134.32.102:6610/270000001111/1110000027/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="金塔电视台" group-title="甘肃",金塔电视台
 http://39.134.32.102:6610/270000001111/1110000124/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="肃州电视台" group-title="甘肃",肃州电视台
 http://39.134.32.102:6610/270000001111/1110000123/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="徽县电视台" group-title="甘肃",徽县电视台
-http://39.134.32.102:6610/270000001111/1110000015/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="武都电视台" group-title="甘肃",武都电视台
-http://39.134.32.102:6610/270000001111/1110000012/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="西和综合" group-title="甘肃",西和综合
-http://39.134.32.102:6610/270000001111/1110000137/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="临夏电视台" group-title="甘肃",临夏电视台
 http://39.134.32.102:6610/270000001111/1110000190/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="崇信电视台" group-title="甘肃",崇信电视台
@@ -2106,8 +2074,6 @@ http://39.134.32.102:6610/270000001111/1110000147/index.m3u8?IASHttpSessionId=OT
 http://39.134.32.102:6610/270000001111/1110000145/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="合水电视台" group-title="甘肃",合水电视台
 http://39.134.32.102:6610/270000001111/1110000166/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="环县电视台" group-title="甘肃",环县电视台
-http://39.134.32.102:6610/270000001111/1110000180/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="宁县电视台" group-title="甘肃",宁县电视台
 http://39.134.32.102:6610/270000001111/1110000157/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="西峰电视台" group-title="甘肃",西峰电视台
@@ -2126,8 +2092,6 @@ http://39.134.32.102:6610/270000001111/1110000150/index.m3u8?IASHttpSessionId=OT
 http://39.134.32.102:6610/270000001111/1110000144/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="高台电视台" group-title="甘肃",高台电视台
 http://39.134.32.102:6610/270000001111/1110000146/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="阿克塞电视台" group-title="甘肃",阿克塞电视台
-http://39.134.32.102:6610/270000001111/1110000018/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="积石山电视台" group-title="甘肃",积石山电视台
 http://39.134.32.102:6610/270000001111/1110000152/index.m3u8?IASHttpSessionId=OTT
 
@@ -2135,10 +2099,6 @@ http://39.134.32.102:6610/270000001111/1110000152/index.m3u8?IASHttpSessionId=OT
 http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-name="宁夏经济" group-title="宁夏",宁夏经济
 http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=7
-#EXTINF:-1 tvg-name="吴忠综合" group-title="宁夏",吴忠综合
-http://live.kanwz.net/zhpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="吴忠公共" group-title="宁夏",吴忠公共
-http://live.kanwz.net/ggpd/sd/live.m3u8
 
 #EXTINF:-1 tvg-name="青海卫视" group-title="青海",青海卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
@@ -2146,10 +2106,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
 #EXTINF:-1 tvg-name="青海都市" group-title="青海",青海都市
 http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
-#EXTINF:-1 tvg-name="海西电视台" group-title="青海",海西电视台
-http://stream.haixitv.cn/1/sd/live.m3u8
-#EXTINF:-1 tvg-name="安多卫视" group-title="青海",安多卫视
-http://39.134.65.166/PLTV/88888888/224/3221225531/1.m3u8
 #EXTINF:-1 tvg-name="西宁新闻综合" group-title="青海",西宁新闻综合
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-name="西宁生活服务" group-title="青海",西宁生活服务
@@ -2158,14 +2114,10 @@ http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 http://stream.ysbtv.net/1/sd/live.m3u8
 #EXTINF:-1 tvg-name="海南州藏语频道" group-title="青海",海南州藏语频道
 http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
-#EXTINF:-1 tvg-name="海西电视台" group-title="青海",海西电视台
-http://stream.haixitv.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-name="湟源电视台" group-title="青海",湟源电视台
 http://livecdn.dmqhyadmin.com/hls/xjhuangyuan.m3u8
 #EXTINF:-1 tvg-name="德令哈电视台" group-title="青海",德令哈电视台
 http://livecdn.dmqhyadmin.com/hls/xjdelingha.m3u8
-#EXTINF:-1 tvg-name="门源电视台" group-title="青海",门源电视台
-http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 #EXTINF:-1 tvg-name="祁连电视台" group-title="青海",祁连电视台
 http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
 #EXTINF:-1 tvg-name="贵南电视台" group-title="青海",贵南电视台
@@ -2220,7 +2172,7 @@ http://218.84.12.186:8001/hls/main/playlist.m3u8
 #EXTINF:-1 tvg-name="奎屯三套" group-title="新疆",奎屯三套
 http://218.84.12.186:8002/hls/main/playlist.m3u8
 #EXTINF:-1 tvg-name="昭苏汉语" group-title="新疆",昭苏汉语
-http://p4.weizan.cn/922798105/014770838249882543/live.m3u8
+http://p4.weizan.cn/922798105/668907141897737665/live.m3u8
 #EXTINF:-1 tvg-name="昭苏哈语" group-title="新疆",昭苏哈语
 http://p4.weizan.cn/922798105/014770838249882543/live.m3u8
 #EXTINF:-1 tvg-name="石河子新闻综合" group-title="新疆",石河子新闻综合
@@ -2231,15 +2183,6 @@ http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 http://124.88.144.73:1935/live/dywt/playlist.m3u8
 #EXTINF:-1 tvg-name="石河子教育频道" group-title="新疆",石河子教育频道
 http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
-
-#EXTINF:-1 tvg-name="西藏卫视" group-title="西藏",西藏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
-#EXTINF:-1 tvg-name="西藏藏语" group-title="西藏",西藏藏语
-http://39.135.32.28:6610/PLTV/77777777/224/3221225828/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="拉萨汉语" group-title="西藏",拉萨汉语
-https://live.lasatv.cn/lasatv-zh/zh720x576.m3u8?auth_key=1647761540-0-0-bf3056285e1d6d2d8c46ed8088b060ec
-#EXTINF:-1 tvg-name="拉萨文旅" group-title="西藏",拉萨文旅
-https://live.lasatv.cn/lasatv-whly/whly720x576.m3u8?auth_key=1647761585-0-0-1a613f8be81d1342c6a9415d6b20f8b3
 
 #EXTINF:-1 tvg-name="Fox News Talk Radio" group-title="美国",Fox News Talk Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
