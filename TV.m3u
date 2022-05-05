@@ -424,8 +424,6 @@ http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 #EXTINF:-1 tvg-name="余杭未来频道" group-title="浙江",余杭未来频道
 http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-#EXTINF:-1 tvg-name="绍兴新闻综合" group-title="浙江",绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 #EXTINF:-1 tvg-name="绍兴公共频道" group-title="浙江",绍兴公共频道
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 tvg-name="绍兴文化影视" group-title="浙江",绍兴文化影视
@@ -450,24 +448,14 @@ http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 #EXTINF:-1 tvg-name="嘉兴新闻综合" group-title="浙江",嘉兴新闻综合
 http://pluslive.jiaxingren.com/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="嘉兴公共频道" group-title="浙江",嘉兴公共频道
-http://pluslive.jiaxingren.com/ggpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="温州新闻综合" group-title="浙江",温州新闻综合
 http://live.wzqmt.com/wztv1/sd/live.m3u8
-#EXTINF:-1 tvg-name="温州经济科教" group-title="浙江",温州经济科教
-http://live.wzqmt.com/wztv2/sd/live.m3u8
-#EXTINF:-1 tvg-name="温州都市生活" group-title="浙江",温州都市生活
-http://live.wzqmt.com/wztv3/sd/live.m3u8
 #EXTINF:-1 tvg-name="淳安新闻综合" group-title="浙江",淳安新闻综合
 https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8
 #EXTINF:-1 tvg-name="桐庐电视台" group-title="浙江",桐庐电视台
 http://livetongl.chinamcache.com/live/tlzb01.m3u8?txSecret=2ee28a051ebfb1b0771869a7d652d4a9&txTime=639a8391
 #EXTINF:-1 tvg-name="金华新闻综合" group-title="浙江",金华新闻综合
 http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
-#EXTINF:-1 tvg-name="金华教育科技" group-title="浙江",金华教育科技
-http://live.plus.jinhua.com.cn/jykj/playlist.m3u8
-#EXTINF:-1 tvg-name="金华都市农村" group-title="浙江",金华都市农村
-http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8
 #EXTINF:-1 tvg-name="兰溪新闻综合" group-title="浙江",兰溪新闻综合
 https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 #EXTINF:-1 tvg-name="兰溪兰江大桥实时" group-title="浙江",兰溪兰江大桥实时
@@ -478,22 +466,8 @@ https://l.cztvcloud.com/channels/lantian/SXlanxi3/720p.m3u8
 http://hlsv2.quklive.com/live/1625061424267104/index.m3u8
 #EXTINF:-1 tvg-name="永康华溪频道" group-title="浙江",永康华溪频道
 http://hlsv2.quklive.com/live/1625062755227231/index.m3u8
-#EXTINF:-1 tvg-name="武义新闻综合" group-title="浙江",武义新闻综合
-http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
-#EXTINF:-1 tvg-name="磐安新闻综合" group-title="浙江",磐安新闻综合
-http://hlsv2.quklive.com/live/1626400915947070/index.m3u8
-#EXTINF:-1 tvg-name="磐安文化旅游" group-title="浙江",磐安文化旅游
-http://hlsv2.quklive.com/live/1626401163709056/index.m3u8
-#EXTINF:-1 tvg-name="缙云新闻综合" group-title="浙江",缙云新闻综合
-http://l.cztvcloud.com:80/channels/lantian/SXjinyun1/720p.m3u8
-#EXTINF:-1 tvg-name="余姚新闻综合" group-title="浙江",余姚新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-#EXTINF:-1 tvg-name="余姚姚江文化" group-title="浙江",余姚姚江文化
-http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 #EXTINF:-1 tvg-name="嵊州新闻综合" group-title="浙江",嵊州新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 tvg-name="嵊泗新闻综合" group-title="浙江",嵊泗新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 #EXTINF:-1 tvg-name="诸暨新闻综合" group-title="浙江",诸暨新闻综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 #EXTINF:-1 tvg-name="上虞新闻综合" group-title="浙江",上虞新闻综合
@@ -518,8 +492,6 @@ http://live.yingxi.tv/channel1/sd/live.m3u8
 http://live.yingxi.tv/channel2/sd/live.m3u8
 #EXTINF:-1 tvg-name="苍南新闻综合" group-title="浙江",苍南新闻综合
 http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
-#EXTINF:-1 tvg-name="洞头电视台" group-title="浙江",洞头电视台
-http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 #EXTINF:-1 tvg-name="瑞安新闻综合" group-title="浙江",瑞安新闻综合
 http://stream.rabtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="瑞安农业农村" group-title="浙江",瑞安农业农村
@@ -554,8 +526,6 @@ http://live.txcmapp.com/tszh1/sd/live.m3u8
 http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
 #EXTINF:-1 tvg-name="鄞州二套" group-title="浙江",鄞州二套
 http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8
-#EXTINF:-1 tvg-name="天台和合频道" group-title="浙江",天台和合频道
-http://hlsv2.quklive.com/live/1617072208961931/index.m3u8
 #EXTINF:-1 tvg-name="常山新闻综合" group-title="浙江",常山新闻综合
 https://hlsv2.quklive.com/live/1621306190044902/index.m3u8
 #EXTINF:-1 tvg-name="江山电视台" group-title="浙江",江山电视台
@@ -570,8 +540,6 @@ http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 #EXTINF:-1 tvg-name="衢江综合" group-title="浙江",衢江综合
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
-#EXTINF:-1 tvg-name="缙云新闻综合" group-title="浙江",缙云新闻综合
-http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1 tvg-name="龙泉电视台" group-title="浙江",龙泉电视台
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 #EXTINF:-1 tvg-name="庆元电视台" group-title="浙江",庆元电视台
@@ -613,17 +581,12 @@ http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index
 http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-name="北京IPTV淘电影" group-title="北京",北京IPTV淘电影
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND
-#EXTINF:-1 tvg-name="北京IPTV淘娱乐" group-title="北京"北京IPTV淘娱乐
-http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-name="四海钓鱼" group-title="北京",四海钓鱼
 http://117.148.179.160/PLTV/88888888/224/3221231718/index.m3u8
 #EXTINF:-1 tvg-name="环球旅游" group-title="北京",环球旅游
 http://117.148.179.160/PLTV/88888888/224/3221231712/index.m3u8
 #EXTINF:-1 tvg-name="京视剧场" group-title="北京",京视剧场
 http://111.20.33.93/PLTV/88888893/224/3221226243/index.m3u8
-#EXTINF:-1 tvg-name="中华特产" group-title="北京",中华特产
-http://39.136.48.2:8089/PLTV/88888888/224/3221226340/index.m3u8
 #EXTINF:-1 tvg-name="通州电视台" group-title="北京",通州电视台
 http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1 tvg-name="房山无线" group-title="北京",房山无线
@@ -636,16 +599,6 @@ http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388e
 http://61.50.142.158/live/0.m3u8
 #EXTINF:-1 tvg-name="清华大学电视台" group-title="北京",清华大学电视台
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-#EXTINF:-1 tvg-name="中国国际教育1" group-title="北京",中国国际教育1
-http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-#EXTINF:-1 tvg-name="中国国际教育2" group-title="北京",中国国际教育2
-http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-#EXTINF:-1 tvg-name="中国国际教育3" group-title="北京",中国国际教育3
-http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-#EXTINF:-1 tvg-name="中国国际教育4" group-title="北京",中国国际教育4
-http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-#EXTINF:-1 tvg-name="中国国际教育4" group-title="北京",中国国际教育4
-http://12371alic.v.myalicdn.com/12371/dangyuanwang_1/index.m3u8
 
 #EXTINF:-1 tvg-name="安徽卫视" group-title="安徽",安徽卫视
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
