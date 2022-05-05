@@ -721,12 +721,6 @@ https://lglivepull.sznews.com/live/2646.m3u8
 https://lglivepull.sznews.com/live/2645.m3u8
 #EXTINF:-1 tvg-name="广州新闻" group-title="广东",广州新闻
 http://ye23.win/iptv/gztv.php?id=xinwen
-#EXTINF:-1 tvg-name="电白视窗"  group-title="广东",电白视窗
-http://gddb.chinashadt.com:1935/live/video2.stream/chunklist_w790029847.m3u8
-#EXTINF:-1 tvg-name="电白综合"  group-title="广东",电白综合
-http://gddb.chinashadt.com:1935/live/video1.stream/chunklist_w1330203773.m3u8
-#EXTINF:-1 tvg-name="韶关综合"  group-title="广东",韶关综合
-http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8
 #EXTINF:-1 tvg-name="佛山综合"  group-title="广东",佛山综合
 http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
 #EXTINF:-1 tvg-name="佛山公共"  group-title="广东",佛山公共
@@ -741,10 +735,6 @@ http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8
 http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8
 #EXTINF:-1 tvg-name="佛山三水"  group-title="广东",佛山三水
 http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8
-#EXTINF:-1 tvg-name="惠州综合"  group-title="广东",惠州综合
-http://dslive.grtn.cn/hzzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="珠海综合"  group-title="广东",珠海综合
-http://dslive.grtn.cn/zhzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="汕尾新闻综合"  group-title="广东",汕尾新闻综合
 http://dslive.grtn.cn/swzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="揭阳综合"  group-title="广东",揭阳综合
@@ -755,8 +745,6 @@ http://zjstyhls.tianma3600.com/zjsty/zhpd.m3u8
 http://zjstyhls.tianma3600.com/zjsty/ggpd.m3u8
 #EXTINF:-1 tvg-name="江门综合"  group-title="广东",江门综合
 http://dslive.grtn.cn/jmzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="河源综合"  group-title="广东",河源综合
-http://dslive.grtn.cn/hyzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="河源公共"  group-title="广东",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 tvg-name="阳江一套"  group-title="广东",阳江一套
@@ -767,14 +755,6 @@ https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8
 https://zqy-live.nanyuecloud.com/qingyuandianshi1/qingyuandianshistream1.m3u8?auth_key=601634549293-0-0-96c65af4438160da817d5e34b27b9b7a
 #EXTINF:-1 tvg-name="清远公共"  group-title="广东",清远公共
 https://zqy-live.nanyuecloud.com/qingyuandianshi/qingyuandianshistream.m3u8?auth_key=601634549257-0-0-73ab89e29b6bf8ef7b5144cf0c04935a
-#EXTINF:-1 tvg-name="汕头经济生活"  group-title="广东",汕头经济生活
-http://api.mydianshijia.com/gslb/live?stream_id=shantou_jj&type=.m3u8
-#EXTINF:-1 tvg-name="汕头文旅体育"  group-title="广东",汕头文旅体育
-http://47.95.69.248/gslb/live?stream_id=shantou_gg&test=01
-#EXTINF:-1 tvg-name="潮州综合"  group-title="广东",潮州综合
-http://api.mydianshijia.com/gslb/live?stream_id=chaozhou_zh&type=.m3u8
-#EXTINF:-1 tvg-name="梅州客家生活"  group-title="广东",梅州客家生活
-http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8
 #EXTINF:-1 tvg-name="云浮综合"  group-title="广东",云浮综合
 https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfzh.m3u8
 #EXTINF:-1 tvg-name="云浮文旅"  group-title="广东",云浮文旅
@@ -785,8 +765,6 @@ http://hls.wiseqx.com/live/qxzh.m3u8
 http://hls.wiseqx.com/live/qxgg.m3u8
 #EXTINF:-1 tvg-name="潮安综合"  group-title="广东",潮安综合
 http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
-#EXTINF:-1 tvg-name="丰顺综合"  group-title="广东",丰顺综合
-https://p2.weizan.cn/1033266991/776920781637802678/live.m3u8
 #EXTINF:-1 tvg-name="平远综合"  group-title="广东",平远综合
 https://p2.weizan.cn/1033266991/615876688276112015/live.m3u8
 #EXTINF:-1 tvg-name="五华综合"  group-title="广东",五华综合
@@ -821,9 +799,9 @@ https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
 #EXTINF:-1 tvg-name="南通新闻综合"  group-title="江苏",南通新闻综合
 http://cm.wshls.homecdn.com/live/7cc9.m3u8
 #EXTINF:-1 tvg-name="南通二套"  group-title="江苏",南通二套
-http://cm.wshls.homecdn.com/live/7cc7.m3u8
-#EXTINF:-1 tvg-name="南通三套"  group-title="江苏",南通三套
 http://cm.wshls.homecdn.com/live/7cc5.m3u8
+#EXTINF:-1 tvg-name="南通三套"  group-title="江苏",南通三套
+http://cm.wshls.homecdn.com/live/7cc7.m3u8
 #EXTINF:-1 tvg-name="崇川电视台"  group-title="江苏",崇川电视台
 http://cm.wshls.homecdn.com/live/7cc1.m3u8
 #EXTINF:-1 tvg-name="盐城一套"  group-title="江苏",盐城一套
@@ -840,6 +818,8 @@ http://stream1.huaihai.tv/xz2t/playlist.m3u8
 http://stream1.huaihai.tv/xz3t/playlist.m3u8
 #EXTINF:-1 tvg-name="徐州四套"  group-title="江苏",徐州四套
 http://stream1.huaihai.tv/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="徐州公共频道"  group-title="江苏",徐州公共频道
+http://stream1.huaihai.tv/ggpd/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡新闻综合"  group-title="江苏",无锡新闻综合
 http://m.m3u8.wifiwx.com:80/live/wifiwx-239.m3u8
 #EXTINF:-1 tvg-name="无锡娱乐"  group-title="江苏",无锡娱乐
@@ -850,42 +830,24 @@ http://m.m3u8.wifiwx.com/live/wifiwx-240.m3u8
 http://m.m3u8.wifiwx.com/live/wifiwx-244.m3u8
 #EXTINF:-1 tvg-name="无锡经济"  group-title="江苏",无锡经济
 http://m.m3u8.wifiwx.com/live/wifiwx-245.m3u8
-#EXTINF:-1 tvg-name="靖江新闻"  group-title="江苏",靖江新闻
-http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-name="张家港新闻综合"  group-title="江苏",张家港新闻综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 #EXTINF:-1 tvg-name="张家港民生"  group-title="江苏",张家港民生
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
 #EXTINF:-1 tvg-name="连云港新闻综合"  group-title="江苏",连云港新闻综合
 http://live.lyg1.com/zhpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="连云港公共频道"  group-title="江苏",连云港公共频道
-http://live.lyg1.com/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="淮安综合"  group-title="江苏",淮安综合
-http://stream.habctv.com/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="淮安公共"  group-title="江苏",淮安公共
-http://stream.habctv.com/hagg/sd/live.m3u8
-#EXTINF:-1 tvg-name="淮安影视娱乐"  group-title="江苏",淮安影视娱乐
-http://stream.habctv.com/ysyl/sd/live.m3u8
-#EXTINF:-1 tvg-name="徐州公共频道"  group-title="江苏",徐州公共频道
-http://stream1.huaihai.tv/ggpd/playlist.m3u8
 #EXTINF:-1 tvg-name="大丰一套"  group-title="江苏",大丰一套
 http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 #EXTINF:-1 tvg-name="如东一套"  group-title="江苏",如东一套
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 #EXTINF:-1 tvg-name="江宁新闻"  group-title="江苏",江宁新闻
 https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
-#EXTINF:-1 tvg-name="淮阴综合"  group-title="江苏",淮阴综合
-http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
-#EXTINF:-1 tvg-name="淮阴影视"  group-title="江苏",淮阴影视
-http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/hyys.m3u8
 #EXTINF:-1 tvg-name="金湖新闻综合"  group-title="江苏",金湖新闻综合
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
 #EXTINF:-1 tvg-name="武进新闻"  group-title="江苏",武进新闻
 https://live.wjyanghu.com/live/CH1.m3u8
 #EXTINF:-1 tvg-name="新沂一套"  group-title="江苏",新沂一套
 http://live.xysrmt.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="泗洪综合"  group-title="江苏",泗洪综合
-http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
 #EXTINF:-1 tvg-name="句容新闻综合"  group-title="江苏",句容新闻综合
 http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
 #EXTINF:-1 tvg-name="常熟综合"  group-title="江苏",常熟综合
@@ -902,8 +864,6 @@ http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzxwzh.m3u8
 http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzshsh.m3u8
 #EXTINF:-1 tvg-name="宿豫综合"  group-title="江苏",宿豫综合
 https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
-#EXTINF:-1 tvg-name="昆山新闻综合"  group-title="江苏",昆山新闻综合
-http://pili-publish.living.ksrmtzx.com/ksntv/ks-tv.m3u8
 
 #EXTINF:-1 tvg-name="山东卫视" group-title="山东",山东卫视
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
