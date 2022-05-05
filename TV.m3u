@@ -647,7 +647,7 @@ http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 #EXTINF:-1 tvg-name="中国国际教育4" group-title="北京",中国国际教育4
 http://12371alic.v.myalicdn.com/12371/dangyuanwang_1/index.m3u8
 
-#EXTINF:-1 tvg-name="安徽卫视" group-title="央视卫视",安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" group-title="安徽",安徽卫视
 http://111.20.106.13:6610/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="安徽综艺体育"  group-title="安徽",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
@@ -2067,6 +2067,8 @@ https://liveout.ycxrmt.cn/i9i45p/en7atk.m3u8
 #EXTINF:-1 tvg-name="灵丘电视台" group-title="山西",灵丘电视台
 https://stream.icelook.cn/1a7c625fde427dc3/6735154231323395076_1611041008.m3u8?auth_key=1893456000-0-0-fe9d45877d8cdddb4afccd9c1a12f3f8
 
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="辽宁",辽宁卫视
+http://111.20.106.13:6610/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-name="锦州新闻综合" group-title="辽宁",锦州新闻综合
 http://stream.jzgbdst.cn/1/sd/live.m3u8?_upt=8842ef681578202947
 #EXTINF:-1 tvg-name="锦州教育" group-title="辽宁",锦州教育
