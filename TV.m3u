@@ -1529,23 +1529,17 @@ http://czlive.czgd.tv:85/live/xnyt.m3u8
 http://czlive.czgd.tv:85/live/xnet.m3u8
 #EXTINF:-1 tvg-name="沧州影视娱乐" group-title="河北",沧州影视娱乐
 http://czlive.czgd.tv:85/live/xnst.m3u8
-#EXTINF:-1 tvg-name="衡水公共" group-title="河北",衡水公共
-http://hls.hsrtv.cn/hls/hstv2.m3u8
 #EXTINF:-1 tvg-name="衡水新闻综合" group-title="河北",衡水新闻综合
 http://hls.hsrtv.cn/hls/hstv1.m3u8
 #EXTINF:-1 tvg-name="景县综合" group-title="河北",景县综合
 http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name="邢台综合" group-title="河北",邢台综合
-http://a.xttv.top/xttv/5ebe09cb3d1a0f3f3d062e99c78175a0.m3u8?auth_key=1861891200
-#EXTINF:-1 tvg-name="邢台城市生活" group-title="河北",邢台城市生活
-http://a.xttv.top/xttv/d0586743dc68918f808f28b8bc90c737.m3u8?auth_key=1861891200
-#EXTINF:-1 tvg-name="深州综合" group-title="河北",深州综合
-http://hbsz.chinashadt.com:2036/live/stream:sztv.stream/chunklist_w1056600619.m3u8
 #EXTINF:-1 tvg-name="邯郸新闻综合" group-title="河北",邯郸新闻综合
 http://live.hd.hdbs.cn/video/s10001-2021hdxwzh/index.m3u8
 #EXTINF:-1 tvg-name="邯郸公共" group-title="河北",邯郸公共
 http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
 #EXTINF:-1 tvg-name="邯郸科技教育" group-title="河北",邯郸科技教育
+https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
+#EXTINF:-1 tvg-name="兴隆综合" group-title="河北",兴隆综合
 http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8
 EXTINF:-1 tvg-name="衡水新闻综合" group-title="河北",衡水新闻综合
 http://hls.hsrtv.cn/hls/hstv1.m3u8
