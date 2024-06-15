@@ -44,5 +44,5 @@ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/CCTV9.png" group-title="CCTV",CCTV-9-记录
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://210.210.155.37/session/8e92f158-2b3c-11ef-b30b-bc4ebd7ea860/uq2663/h/h157/index2.m3u8
