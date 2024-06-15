@@ -52,3 +52,5 @@ http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/
 https://z88.ubtvfans.com/live/rx1/2435/ea85f251db5b39cc8ca85abb7f2349e0/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/fenghuangzhongwen.png" group-title="港澳台",东森新闻
 http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/fenghuangzhongwen.png" group-title="港澳台",亚洲新闻台CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
