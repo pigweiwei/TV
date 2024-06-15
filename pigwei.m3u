@@ -53,15 +53,26 @@ http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225505/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/hunan.png" group-title="卫视",湖南卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/anhui.png" group-title="卫视",安徽卫视
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225590/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/tianjin.png" group-title="卫视",天津卫视
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/guangdong.png" group-title="卫视",广东卫视
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225589/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/shenzhen.png" group-title="卫视",深圳卫视
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/jiangsu.png" group-title="卫视",江苏卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/liaoning.png" group-title="卫视",辽宁卫视
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225593/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/shanxi.png" group-title="卫视",陕西卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/guangxi.png" group-title="卫视",广西卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225557/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/qinghai.png" group-title="卫视",青海卫视
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225528/index.m3u8
-
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/qinghai.png" group-title="卫视",重温经典
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
