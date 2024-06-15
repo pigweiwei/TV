@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="",钱江频道
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="",经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="",教育科技
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="",影视娱乐
+https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="",民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="",新闻频道
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
