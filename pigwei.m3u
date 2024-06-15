@@ -1,22 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="浙江台",浙江卫视
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/zhejiang.png" group-title="浙江台",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="浙江台",民生休闲
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/zhejiangmsxx.png" group-title="浙江台",民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="浙江台",钱江频道
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/zhejiangqjds.png" group-title="浙江台",钱江频道
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="浙江台",新闻频道
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="浙江台",经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="浙江台",教育科技
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/zhejiangkjys.png" group-title="浙江台",教育科技
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="浙江台",影视娱乐
 https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="浙江台",浙江少儿
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/zhejiangse.png" group-title="浙江台",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="浙江台",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/lanxi.png" group-title="浙江台",兰溪新闻综合
+https://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/lanxi.png" group-title="浙江台",兰溪兰江大桥
+https://l.cztvcloud.com/channels/lantian/SXlanxi2/720p.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/lanxi.png" group-title="浙江台",兰溪溪西
+https://l.cztvcloud.com/channels/lantian/SXlanxi3/720p.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/jinhua.png" group-title="浙江台",金华新闻综合
+http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/CCTV1.png" group-title="CCTV",CCTV-1-综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
