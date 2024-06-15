@@ -17,7 +17,7 @@ https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/CCTV9.png" group-title="央视",CCTV-9-记录
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/CETV-1.png" group-title="卫视",CETV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/CETV-1.png" group-title="央视",CETV-1
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225516/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/zhejiang.png" group-title="浙江",浙江卫视
