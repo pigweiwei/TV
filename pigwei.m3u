@@ -7,6 +7,10 @@ http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/CCTV2.png" group-title="央视",CCTV-2-财经
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/CCTV3.png" group-title="央视",CCTV-3-综艺
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/CCTV4.png" group-title="央视",CCTV-4-中文国际
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/CCTV5.png" group-title="央视",CCTV-5-体育
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
@@ -21,6 +25,8 @@ https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/CCTV14.png" group-title="央视",CCTV-14-少儿
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/CCTV17.png" group-title="央视",CCTV-17-农业农村
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/CETV-1.png" group-title="央视",CETV-1
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225516/index.m3u8
 
