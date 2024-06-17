@@ -39,9 +39,9 @@ http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225516/index.m3
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/zhejiangmsxx.png" group-title="浙江",民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/zhejiangqjds.png" group-title="浙江",钱江频道
+#EXTINF:-1 tvg-name="浙江钱江频道" tvg-logo="https://raw.githubusercontent.com/pigweiwei/LOGO/main/zhejiangqjds.png" group-title="浙江",钱江频道
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="浙江",新闻频道
+#EXTINF:-1 tvg-name="浙江新闻频道" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="浙江",新闻频道
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="http://pigwei.w7.mc-test.com/logo/cctv1.png" group-title="浙江",经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
